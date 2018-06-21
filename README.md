@@ -1,5 +1,7 @@
 # open-source
-Open-Source is one part of the [Open Innovation movement @ Baloise](https://www.inside-it.ch/articles/51129)
+Open-Source is part of the [Open Innovation movement @ Baloise](https://www.inside-it.ch/articles/51129).
+
+The [relevance](http://opensourcesurvey.org/2017/#overview) of Open-Source (software) has been [constantly growing (in Switzerland)](https://oss-studie.ch) over the last decade. 
 
 ## goals
 
