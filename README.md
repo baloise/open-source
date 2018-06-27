@@ -23,6 +23,10 @@ Hence we're trying to use a more [lightweight open source maturity adoption mode
 
 As for [Baloise](https://www.baloise.com/en/home.html) we're currently just in the state of getting significant business attention.
 
+#### deny
+
+Open source has no value or we’re not using it.
+
 #### use
 
 Passive use of [FLOSS][foss].
