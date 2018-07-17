@@ -1,0 +1,21 @@
+ext {
+    projectVersion = "0.0.1-SNAPSHOT"
+}
+
+allprojects { project ->
+    project.apply plugin: 'java'
+    project.apply plugin: 'idea'
+
+    project.group = 'ch.baloise.open.source'
+    project.version = project.projectVersion
+
+    tasks.withType(JavaCompile) {
+        options.encoding = 'UTF-8'
+    }
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+}
+
+assemble.dependsOn ':docs:publishDocumentation'
+
+defaultTasks 'assemble'
