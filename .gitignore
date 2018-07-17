@@ -1,0 +1,23 @@
+# Log file
+*.log
+
+# IDE settings
+.settings
+.classpath
+.project
+
+# IntelliJ files
+**/*.iml
+**/.idea
+**/.gradle
+*.ipr
+*.iws
+**/out/
+
+
+# gradle
+**/build/
+!gradle/wrapper/*.jar
+
+# Ignore Mac DS_Store files
+**/.DS_Store
