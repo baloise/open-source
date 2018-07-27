@@ -3,7 +3,7 @@
 //
 // ====================================
 
-= image:arc42-logo.png[arc42] Template
+= image:arc42-logo.png[arc42] Open-Source Strategy
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Table of Contents
 
