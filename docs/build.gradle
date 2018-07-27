@@ -67,8 +67,12 @@ gitPublish {
     branch = 'gh-pages'
 
     contents {
-        from('build/docs/html5')
+        from('build/docs/html5') {
+            into 'docs/arc42'
+        }
     }
+
+    commitMessage = '(auto) publishing new content'
 }
 
 gitPublishPush.dependsOn asciidoctor
