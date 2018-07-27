@@ -9,15 +9,17 @@
 
 === Quality Goals
 
-
+Meet Corporate Governance guidelines such as https://www.baloise.com/en/home/about-us/corporate-governance.html[the general group compliance and our code of conduct]. 
 
 === Stakeholders
 
+[options="header",cols="2,1,2"]
+in alphabetical order by role / name
 
-
-[options="header",cols="1,2,2"]
 |===
-|Role/Name|Contact|Expectations
-| _<Role-1>_ | _<Contact-1>_ | _<Expectation-1>_
-| _<Role-2>_ | _<Contact-2>_ | _<Expectation-2>_
+| Role/Name | Contact | Expectations
+| https://www.baloise.com/en/home/about-us/organisation.html#anchor-id-9e6b[Head of Finance & Risk] | https://github.com/UrsBienz[Urs Bienz] |
+| https://www.baloise.com/en/home/about-us/organisation.html#anchor-id-9e6b[Head of Group Strategy & Digital Transformation] | https://github.com/honeggera[Adrian Honegger] |
+| https://www.baloise.com/en/home/about-us/organisation.html#anchor-id-9e6b[Head of Group Legal & Tax] | Andreas Burki |
+| Head of Product Management - Group Life Insurance and Legal Service PM | https://github.com/ThomasSchoeb[Thomas Schöb] |
 |===
