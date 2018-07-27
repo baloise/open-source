@@ -4,10 +4,10 @@
 [options="header"]
 |===
 | acronym | English | Deutsch |
+| FOSS | https://en.wikipedia.org/wiki/Free_and_open-source_software[**F**ree and **o**pen-**s**ource **s**oftware] | freie und quelloffene Software |
 | OS | https://en.wikipedia.org/wiki/open-source[**O**pen-**S**ource] | quelloffen |
 | OSD | https://en.wikipedia.org/wiki/The_Open_Source_Definition[**O**pen **S**ource **D**efintion] | Definition von Open Source |
 | OSI | https://en.wikipedia.org/wiki/Open_Source_Initiative[**O**pen **S**ource **I**nitiative] | Open Source Initiative |
 | OSS | https://en.wikipedia.org/wiki/Open-source_software[**O**pen-**s**ource **s**oftware] | quelloffene Software |
-| FOSS | https://en.wikipedia.org/wiki/Free_and_open-source_software[**F**ree and **o**pen-**s**ource **s**oftware] | freie und quelloffene Software |
 |  |  |  |
 |===
