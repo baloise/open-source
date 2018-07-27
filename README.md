@@ -1,5 +1,6 @@
 # open-source
 [![Build Status](https://travis-ci.org/baloise/open-source.svg?branch=master)](https://travis-ci.org/baloise/open-source)
+[![Gitter](https://img.shields.io/gitter/room/baloise/Lobby.svg)](https://gitter.im/baloise/Lobby)
 
 Open-Source is part of the [Open Innovation movement @ Baloise](https://www.inside-it.ch/articles/51129).
 
