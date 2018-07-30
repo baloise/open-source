@@ -31,3 +31,5 @@ Defined business model based on [FLOSS][foss], and drive projects to achieve bus
 ## redefine
 
 Design products so that they can be based on [FLOSS][foss], obtain competitive advantage by harnessing changes in multiple ecosystems.
+
+[foss]: https://opensource.org/faq#free-software
