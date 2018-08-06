@@ -17,7 +17,7 @@ The [relevance](http://opensourcesurvey.org/2017/#overview) of Open-Source (soft
 |4.| [share](docs/md/goals/share.md) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_10_Beitrag_Zur_Nachhaltigen_Entwicklung_Farbig.svg/200px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_10_Beitrag_Zur_Nachhaltigen_Entwicklung_Farbig.svg.png) |
 
 ## our activities
-|1. | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_04_Verteilte_Standorte_Farbig.svg/200px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_04_Verteilte_Standorte_Farbig.svg.png) | [public profiles](docs/md/activities/profiles.md) |
+|1. | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_04_Verteilte_Standorte_Farbig.svg/200px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_04_Verteilte_Standorte_Farbig.svg.png) | [profiles](docs/md/activities/profiles.md) |
 |--|:--------------------------------------------------------:|:-------------------------------------------------------:|
 |2.| [projects](docs/md/activities/projects.md) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Icon_DINA_Schwerpunkte_Parldigi_05_Open_Content_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_05_Open_Content_Farbig.svg.png) |
 |3.| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Icon_DINA_Schwerpunkte_Parldigi_06_Open_Internet_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_06_Open_Internet_Farbig.svg.png) | [media](docs/md/activities/media.md) |
