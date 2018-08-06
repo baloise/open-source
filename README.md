@@ -1,15 +1,17 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg/480px-Icon_Digitale_Nachhaltigkeit_Farbig.svg.png)
+
 # open-source
 [![Build Status](https://travis-ci.org/baloise/open-source.svg?branch=master)](https://travis-ci.org/baloise/open-source)
 [![Gitter](https://img.shields.io/gitter/room/baloise/Lobby.svg)](https://gitter.im/baloise/Lobby)
 
-Open-Source is part of the [Open Innovation movement @ Baloise](https://www.inside-it.ch/articles/51129).
+Open-Source is part of the [Open Innovation movement](https://www.inside-it.ch/articles/51129) @ [Baloise](https://www.baloise.com) and aligns very well with the prerequisites for [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit).
 
-The [relevance](http://opensourcesurvey.org/2017/#overview) of Open-Source (software) has been [constantly growing (in Switzerland)](https://oss-studie.ch) over the last decade. 
+The [relevance](http://opensourcesurvey.org/2017/#overview) of Open-Source (software) has been [constantly growing (in Switzerland)](https://oss-studie.ch) over the last decades. 
 
 ## our goals
 
-|1.| ![](https://png.icons8.com/dotty/80/000000/idea.png)     | [learn](docs/learn.md)                                  |
+|1.| ![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg) | [learn](docs/learn.md) |
 |--|:--------------------------------------------------------:|:-------------------------------------------------------:|
-|2.| [uplift](docs/uplift.md)                                 | ![](https://png.icons8.com/dotty/80/000000/stairs.png)  |
-|3.| ![](https://png.icons8.com/dotty/80/000000/groups.png)   | [join forces](docs/join.md)                             |
-|4.| [share](docs/share.md)                                   | ![](https://png.icons8.com/dotty/80/000000/mind-map.png)|
+|2.| [uplift](docs/uplift.md) | ![](https://upload.wikimedia.org/wikipedia/commons/b/b3/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_07_Partizipationskultur_Farbig.svg) |
+|3.| ![](https://upload.wikimedia.org/wikipedia/commons/2/24/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_08_Faire_F%C3%BChrungsstrukturen_Farbig.svg) | [join forces](docs/join.md) |
+|4.| [share](docs/share.md) | ![](https://upload.wikimedia.org/wikipedia/commons/2/2d/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_10_Beitrag_Zur_Nachhaltigen_Entwicklung_Farbig.svg) |
