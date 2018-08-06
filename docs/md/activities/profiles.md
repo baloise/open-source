@@ -2,6 +2,7 @@
 
 alphabetically sorted
 
+## [Atlassian Marketplace](https://marketplace.atlassian.com/vendors/1211530/baloise-group)
 ## [Eclipse Foundation](https://www.eclipse.org/membership/showMember.php?member_id=1288)
 ## [Github](https://github.com/baloise)
 ## [Gitlab](https://gitlab.com/baloise)
