@@ -11,3 +11,7 @@ Average<sup>1</sup> [BOM ratio](https://en.wikipedia.org/wiki/Software_bill_of_m
 
 Sources:
 1. [_2017_, SONATYPE "State of the Software Supply Chain Report": Chapter 3 - Better Parts and Better Quality: Why You Should Care, page 19f](https://www.sonatype.com/2017-state-of-the-software-supply-chain-report)
+
+## safe money: devide by N
+
+<a href="http://yuml.me/6f826b2f.json"><img src="http://yuml.me/6f826b2f.svg"/></a>
