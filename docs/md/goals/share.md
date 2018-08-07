@@ -4,7 +4,7 @@
 
 ### 80% use + 20% on top = 100% solution: self-made, proprietary or open source
 
-<img src="http://yuml.me/diagram/plain;dir:TB/usecase/(100{bg:greenyellow})>(20{bg:yellow}),(100)>(80{bg:forestgreen}),(make)>(100),(buy)>(100),(20)<(proprietary),(20)<(open source),(80)<(open source),(20)<(self made).svg"/>
+<img src="http://yuml.me/diagram/plain;dir:TB/usecase/(100{bg:greenyellow})>(20{bg:yellow}),(100)>(80{bg:forestgreen}),(make{bg:lightskyblue})>(100),(buy{bg:lightcoral})>(100),(20)<(proprietary),(20)<(open source),(80)<(open source),(20)<(self made).svg"/>
 
 Average<sup>1</sup> [BOM ratio](https://en.wikipedia.org/wiki/Software_bill_of_materials) of **open-source** / **non-open-source** components within software solutions.
 
