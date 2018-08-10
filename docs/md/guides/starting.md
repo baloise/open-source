@@ -15,9 +15,9 @@ This is currently a manual process so it might take a moment to get a response.
 ## contributing
 
 ### choose a project and start working
-With respect to our [Code of Conduct](../../../CODE_OF_CONDUCT.md#our-pledge).
+With respect to our [general governance](governance.md) guidelines / hints.
 
-### in the beginning we'd recommend working with [pull requests](https://guides.github.com/activities/forking/)
+### in the beginning we recommend working with [pull requests](https://guides.github.com/activities/forking/)
 
 ## (own) a project
 
