@@ -68,7 +68,9 @@ gitPublish {
 
     contents {
         from('../CODE_OF_CONDUCT.md')
-        from('../index.md')
+        from('../README.md') {
+            into 'index.md'
+        }
         
         from('md') {
             into 'docs/md'
