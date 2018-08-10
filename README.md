@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/baloise/open-source.svg?branch=master)](https://travis-ci.org/baloise/open-source)
 [![Gitter](https://img.shields.io/gitter/room/baloise/Lobby.svg)](https://gitter.im/baloise/Lobby)
 
-Open-Source is part of the [Open Innovation movement](https://www.inside-it.ch/articles/51129) @ [Baloise](https://www.baloise.com) and aligns very well with the prerequisites for [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit).
+Open-Source is part of the [Open Innovation movement](docs/md/activities/media.md#articles) @ [Baloise](https://www.baloise.com) and aligns very well with the prerequisites for [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit).
 
 The [relevance](http://opensourcesurvey.org/2017/#overview) of Open-Source (software) has been [constantly growing (in Switzerland)](https://oss-studie.ch) over the last decades. 
 
