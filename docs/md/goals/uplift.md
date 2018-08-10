@@ -7,28 +7,29 @@ Hence we're trying to use a more [lightweight open source maturity adoption mode
 ![Maturity Model](https://raw.githubusercontent.com/baloise/pitches/opensource/maturityModel.png)
 
 As for [Baloise](https://www.baloise.com/en/home.html) we're currently just in the state of getting significant business attention.
+### legend
 
-## deny
+#### deny
 
 Open source has no value or we’re not using it.
 
-## use
+#### use
 
 Passive use of [FLOSS][foss].
 
-## contribute
+#### contribute
 
 Contribute code and / or resources (such as feedback, documentation, ...).
 
-## champion
+#### champion
 
 Executive support, project leadership: your project itself is widely in the state of 'use' by others.
 
-## collaborate
+#### collaborate
 
 Defined business model based on [FLOSS][foss], and drive projects to achieve business goals.
 
-## redefine
+#### redefine
 
 Design products so that they can be based on [FLOSS][foss], obtain competitive advantage by harnessing changes in multiple ecosystems.
 
