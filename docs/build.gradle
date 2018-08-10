@@ -67,7 +67,9 @@ gitPublish {
     branch = 'gh-pages'
 
     contents {
-        from('../*.md')
+        from('../CODE_OF_CONDUCT.md')
+        from('../index.md')
+        from('../README.md')
         
         from('md') {
             into 'docs/md'
