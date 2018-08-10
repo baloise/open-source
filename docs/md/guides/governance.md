@@ -12,4 +12,10 @@ As a general rule, it is the responsibility of each individual employee to ensur
 
 [CLA](https://en.wikipedia.org/wiki/Contributor_License_Agreement)s are often asked for when participating in larger communities.
 
-### Signing CLAs
+### CLAs
+
+### signed on corporate level
+
+### signing new ones
+#### as an individual
+#### on corporate level
