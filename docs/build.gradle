@@ -67,9 +67,12 @@ gitPublish {
     branch = 'gh-pages'
 
     contents {
+        from('../index.md')
+        
         from('md') {
             into 'docs/md'
         }
+        
         from('build/docs/html5') {
             into 'docs/arc42'
         }
