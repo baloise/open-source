@@ -67,7 +67,7 @@ gitPublish {
     branch = 'gh-pages'
 
     contents {
-        from('../index.md')
+        from('../*.md')
         
         from('md') {
             into 'docs/md'
