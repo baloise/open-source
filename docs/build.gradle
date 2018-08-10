@@ -69,7 +69,9 @@ gitPublish {
     contents {
         from('../CODE_OF_CONDUCT.md')
         from('../README.md') {
-            into 'index.md'
+            into '.'
+        } rename { String fileName ->
+            fileName.replace("README", "index")
         }
         
         from('md') {
