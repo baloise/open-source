@@ -1,6 +1,10 @@
 # learn
 
-## Useful documents
+## Websites
+
+### [Open Source Guide](https://opensource.guide) by [Github](https://github.com/github/opensource.guide)
+
+## Documents
 
 sorted by date of publication 
 
