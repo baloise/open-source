@@ -22,3 +22,13 @@ With respect to our [general governance](governance.md) guidelines / hints.
 ## (own) a project
 
 The level of ownership in open-source projects / communities is often based on [meritocratic principles](https://en.wikipedia.org/wiki/Meritocracy).
+
+### namespace
+
+```java
+com.baloise.*
+```
+
+### license
+
+By default (and if not decided otherwise) we use [MIT](https://choosealicense.com/licenses/mit/) for new development projects.
