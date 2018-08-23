@@ -2,7 +2,9 @@
 
 ## Code of Conduct
 
-### [on contributor level](../../../CODE_OF_CONDUCT.md#our-pledge)
+### [in general](https://opensource.guide/code-of-conduct/)
+
+### [on contributor level](https://github.com/baloise/open-source/blob/master/CODE_OF_CONDUCT.md#our-pledge)
 
 ### [within corporate compliance](https://www.baloise.com/en/home/about-us/corporate-governance.html)
 
