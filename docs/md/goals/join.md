@@ -2,6 +2,6 @@
 
 ## [index](http://open-insurance.org/index/)
 
-of already existing open collaboration insurer profiles
+of insurer already showing interest in open collaboration with public profiles
 
-## information [how to get started](../guides/starting.md) at Baloise
+## information [how to get started](../guides/starting.md)
