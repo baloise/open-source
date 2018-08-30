@@ -27,5 +27,6 @@ The [relevance](http://opensourcesurvey.org/2017/#overview) of Open-Source (soft
 
 |1. | [starting](docs/md/guides/starting.md) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Icon_DINA_Schwerpunkte_Parldigi_02_Open_Standards_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_02_Open_Standards_Farbig.svg.png) |
 |--|:--------------------------------------------------------:|:-------------------------------------------------------:|
-|2.| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png) | [governance](docs/md/guides/governance.md) |
-|3.|  [strategy](docs/md/guides/strategy.md) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Icon_DINA_Schwerpunkte_Parldigi_04_Open_Access_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_04_Open_Access_Farbig.svg.png) |
+|2.| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_01_Ausgereift_Farbig.svg/200px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_01_Ausgereift_Farbig.svg.png) | [best practice](docs/md/guides/practice.md) |
+|3.| [governance](docs/md/guides/governance.md) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png) |
+|4.| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Icon_DINA_Schwerpunkte_Parldigi_04_Open_Access_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_04_Open_Access_Farbig.svg.png) | [strategy](docs/md/guides/strategy.md) |
