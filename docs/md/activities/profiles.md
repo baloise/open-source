@@ -11,5 +11,5 @@ alphabetically sorted
 
 # Memberships
 
-## [Sponsorenmitglied - CH Open](https://www.eclipse.org/membership/showMember.php?member_id=1288)
+## [Sponsorenmitglied - CH Open](http://www.ossdirectory.com/ch-open-sponsoren/)
 ## [Solution Member - Eclipse Foundation](https://www.eclipse.org/membership/showMember.php?member_id=1288)
