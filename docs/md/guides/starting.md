@@ -23,6 +23,13 @@ With respect to our [general governance](governance.md) guidelines / hints.
 
 The level of ownership in open-source projects / communities is often based on [meritocratic principles](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel).
 
+### define specific [code-owners](https://help.github.com/articles/about-codeowners/)
+
+```properties
+# default
+* @baloise/open-source
+```
+
 ### namespace
 
 ```java
