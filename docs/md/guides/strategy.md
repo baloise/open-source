@@ -2,7 +2,7 @@
 
 ![Maturity Model](https://raw.githubusercontent.com/baloise/pitches/opensource/maturityModel.png)
 
-# Collaboration within available container
+Collaboration within available container
 
 ## 1 - 3
 
