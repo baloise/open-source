@@ -20,8 +20,25 @@ SimpleProxyChain.upstreamServer=webproxy
 
 ## [release engineering](https://en.wikipedia.org/wiki/Release_engineering)
 
+### artifact / module attributes
+
+#### Use ([semantic](https://semver.org)) version numbers
+#### Include license file in binary distributions
+
 ### building
 
+#### [Travis-CI](../activities/profiles.md#travis-ci)
+ - [Getting started](https://docs.travis-ci.com)
+ 
 ### releasing
+#### [Github Releases](https://help.github.com/articles/creating-releases/)
+#### [Maven Release Plugin](http://maven.apache.org/maven-release/maven-release-plugin/)
 
 ### publishing
+
+#### Maven artifacts
+ - [Bintray](../activities/profiles.md#jfrog-bintray)
+   - standard public maven repo
+ - [JitPack.io](https://jitpack.io/docs/)
+   - easy to use
+   - namespace and IDs are derived repository URL (` != pom.xml` attribtues)
