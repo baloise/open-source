@@ -21,5 +21,5 @@ in alphabetical order by role / name
 | https://www.baloise.com/en/home/about-us/organisation.html#anchor-id-9e6b[Head of Finance & Risk] | https://github.com/UrsBienz[Urs Bienz] |
 | https://www.baloise.com/en/home/about-us/organisation.html#anchor-id-9e6b[Head of Group Legal & Tax] | Andreas Burki |
 | https://www.baloise.com/en/home/about-us/organisation.html#anchor-id-9e6b[Head of Group Strategy & Digital Transformation] | https://github.com/honeggera[Adrian Honegger] |
-| Head of Product Management - Group Life Insurance and Legal Service PM | https://github.com/ThomasSchoeb[Thomas Schöb] |
+| Head of Product Management - Group Life Insurance and Legal Service PM | https://github.com/ThomasSchoeb[Thomas Schöb] | I'm looking forward to great ideas by "outsiders", who help us improving customer experience
 |===
