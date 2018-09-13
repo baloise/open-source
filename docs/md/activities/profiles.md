@@ -13,10 +13,12 @@ alphabetically sorted
 
 # Marketplaces
 
-## [Atlassian Marketplace](https://marketplace.atlassian.com/vendors/1211530/baloise-group)
+## [Atlassian](https://marketplace.atlassian.com/vendors/1211530/baloise-group)
 ### [How to add / update an app](https://developer.atlassian.com/platform/marketplace/listing-and-managing-apps/)
+
+## [Eclipse Foundation](https://marketplace.eclipse.org/search/site/baloise)
 
 # Memberships
 
-## [Sponsorenmitglied - CH Open](http://www.ossdirectory.com/ch-open-sponsoren/)
-## [Solution Member - Eclipse Foundation](https://www.eclipse.org/membership/showMember.php?member_id=1288)
+## [CH Open - Sponsorenmitglied](http://www.ossdirectory.com/ch-open-sponsoren/)
+## [Eclipse Foundation - Solution Member](https://www.eclipse.org/membership/showMember.php?member_id=1288)
