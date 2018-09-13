@@ -42,3 +42,9 @@ SimpleProxyChain.upstreamServer=webproxy
  - [JitPack.io](https://jitpack.io/docs/)
    - easy to use
    - namespace and IDs are derived repository URL (` != pom.xml` attribtues)
+
+## project metrics
+
+Such metrics may be related to your builds, chats, dependencies, sizes, downloads, funding, issue tracking, licenses, rating, social media, versioning, platform and version support, monitoring and more.
+
+### highlight important stats with [badges from shields.io](https://shields.io) e.g. ![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)
