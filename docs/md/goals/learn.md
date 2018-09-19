@@ -3,6 +3,7 @@
 ## Websites
 
 ### [Open Source Guide](https://opensource.guide) by [Github](https://github.com/github/opensource.guide)
+### [Open Source Guides](https://todogroup.org/guides/) by [TODO Group](https://todogroup.org/about/)
 
 ## Documents
 
