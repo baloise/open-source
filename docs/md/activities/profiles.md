@@ -11,6 +11,9 @@ Provides highly integrated tools to group, merge, archive and compare coverage r
 ## [Docker Hub](https://hub.docker.com/r/baloise/)
 The world's largest public repository of container images with an array of content sources including container community developers, open source ...
 
+## [DepShield](https://depshield.github.io)
+GitHub App used by developers to identify and remediate vulnerabilities in their open source dependencies.
+
 ## [Github](https://github.com/baloise)
 Brings together the world's largest community of developers to discover, share, and build better software.
 
