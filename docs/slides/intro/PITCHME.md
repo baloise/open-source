@@ -13,9 +13,13 @@
 
 Software & Security Engineer @ [Baloise](https://www.baloise.com)
 
+Open Source Enthusiast & Developer since 2010
+
 +++
 @title[about/baloise]
 
 ## about baloise
 
----
+---?image=https://upload.wikimedia.org/wikipedia/commons/7/7e/Bowler_hat%2C_Vienna%2C_mid-20th_century.jpg&size=contain
+
+## an "old hat"
