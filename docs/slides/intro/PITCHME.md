@@ -11,7 +11,7 @@
 
 [@MarkusTiede](https://twitter.com/markustiede)
 
-Software & Security Engineer @ Baloise
+Software & Security Engineer @ [Baloise](https://www.baloise.com)
 
 +++
 @title[about/baloise]
