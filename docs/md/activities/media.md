@@ -12,4 +12,4 @@
 
 ## Presentations
 
-### `en` 27.09.2018 - ["Intro: Open-Source @ Baloise"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro), _Markus Tiede_
+### `en` 27.09.2018 - ["Introduction to Open-Source @ Baloise"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro), _Markus Tiede_
