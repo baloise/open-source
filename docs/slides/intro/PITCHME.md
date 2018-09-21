@@ -20,6 +20,8 @@ Open Source Developer & Enthusiast since 2010
 
 ## about baloise
 
+[![logo](https://rawgit.com/baloise/baloise-bootstrap/gh-pages/assets/img/baloise-group-logo-blue.svg)](https://www.baloise.com)
+
 ---?image=https://upload.wikimedia.org/wikipedia/commons/7/7e/Bowler_hat%2C_Vienna%2C_mid-20th_century.jpg&size=contain
 
 ## @color[#FFFFFF](an "old hat")
