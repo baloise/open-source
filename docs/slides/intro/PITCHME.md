@@ -9,9 +9,7 @@
 
 ![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png)
 
-[@MarkusTiede](https://twitter.com/markustiede)
-
-Software & Security Engineer @ [Baloise](https://www.baloise.com)
+[@MarkusTiede](https://twitter.com/markustiede) - Software & Security Engineer @ [Baloise](https://www.baloise.com)
 
 Open Source Developer & Enthusiast since 2010
 
