@@ -1,6 +1,6 @@
 ---?image=https://upload.wikimedia.org/wikipedia/commons/7/7c/Icon_DINA_Schwerpunkte_Parldigi_01_Open_Source_Software_Farbig.svg&size=contain&color=grey
 
-# @color[#FFFFFF](**Open Source**)
+# @color[#FFFFFF](Open Source)
 
 +++
 @title[about/me]
@@ -22,4 +22,4 @@ Open Source Developer & Enthusiast since 2010
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/7/7e/Bowler_hat%2C_Vienna%2C_mid-20th_century.jpg&size=contain
 
-## an "old hat"
+## @color[#FFFFFF](an "old hat")
