@@ -5,6 +5,10 @@
 ---
 @title[about/me]
 
+## about me
+
 ![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png)
 
 [@MarkusTiede](https://twitter.com/markustiede)
+
+Software & Security Engineer @ Baloise
