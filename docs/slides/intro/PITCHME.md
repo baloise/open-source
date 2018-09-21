@@ -13,7 +13,7 @@
 
 Software & Security Engineer @ [Baloise](https://www.baloise.com)
 
-Open Source Enthusiast & Developer since 2010
+Open Source Developer & Enthusiast since 2010
 
 +++
 @title[about/baloise]
