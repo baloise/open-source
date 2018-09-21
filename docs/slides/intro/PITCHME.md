@@ -7,4 +7,4 @@
 
 ![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png)
 
-### [@MarkusTiede](https://twitter.com/markustiede)
+[@MarkusTiede](https://twitter.com/markustiede)
