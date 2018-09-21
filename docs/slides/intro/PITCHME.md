@@ -5,3 +5,7 @@
 ---
 
 # me
+
+@snap[midpoint]
+![me](https://github.com/MarkusTiede/about/raw/master/me-circle.jpg)
+@snapend
