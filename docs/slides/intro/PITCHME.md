@@ -18,7 +18,7 @@ Open Source Developer & Enthusiast since 2010
 +++
 @title[about/baloise]
 
-## about baloise
+## about
 
 [![logo](https://rawgit.com/baloise/baloise-bootstrap/gh-pages/assets/img/baloise-group-logo-blue.svg)](https://www.baloise.com)
 
