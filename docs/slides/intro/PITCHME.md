@@ -23,3 +23,5 @@ Open Source Developer & Enthusiast since 2010
 ## @color[#FFFFFF](an "old hat")
 
 ---?image=https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg&size=contain
+
+---?image=https://upload.wikimedia.org/wikipedia/commons/f/f7/Umbrella-C7068.jpg&size=contain&color=black
