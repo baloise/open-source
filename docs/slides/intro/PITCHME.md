@@ -9,7 +9,7 @@
 
 [@MarkusTiede](https://twitter.com/markustiede)
 
-Software & Security Engineer @ [Baloise](https://www.baloise.com) since 2016
+Software & Security Engineer @ [Baloise](https://www.baloise.com)
 
 Open Source Developer & Enthusiast since 2010
 
