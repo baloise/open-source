@@ -21,3 +21,5 @@ Open Source Developer & Enthusiast since 2010
 ---?image=https://upload.wikimedia.org/wikipedia/commons/7/7e/Bowler_hat%2C_Vienna%2C_mid-20th_century.jpg&size=contain
 
 ## @color[#FFFFFF](an "old hat")
+
+---?image=https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg&size=contain
