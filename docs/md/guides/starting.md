@@ -45,3 +45,9 @@ By default (and if not decided otherwise) we use [MIT](https://choosealicense.co
 ### (our) templates
 
 #### [repository-template-java](https://github.com/baloise/repository-template-java)
+
+### define topics
+
+Add topics to categorize your repository and make it more discoverable.
+
+![](topics.png)
