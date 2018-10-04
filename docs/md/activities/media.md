@@ -1,3 +1,5 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Icon_DINA_Schwerpunkte_Parldigi_06_Open_Internet_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_06_Open_Internet_Farbig.svg.png)
+
 # Media
 
 ## Articles
