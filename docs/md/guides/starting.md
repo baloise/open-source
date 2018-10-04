@@ -1,3 +1,5 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Icon_DINA_Schwerpunkte_Parldigi_02_Open_Standards_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_02_Open_Standards_Farbig.svg.png)
+
 # starting
 
 All major activies are currently happening here on Github.
