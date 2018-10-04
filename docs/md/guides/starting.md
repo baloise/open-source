@@ -51,6 +51,7 @@ by default (and if not decided otherwise) we use [CC BY 4.0](https://creativecom
 ### (our) templates
 
 #### [repository-template-java](https://github.com/baloise/repository-template-java)
+![](https://img.shields.io/github/license/baloise/repository-template-java.svg)
 
 ### define topics
 
