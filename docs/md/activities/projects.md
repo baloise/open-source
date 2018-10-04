@@ -1,3 +1,5 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Icon_DINA_Schwerpunkte_Parldigi_05_Open_Content_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_05_Open_Content_Farbig.svg.png)
+
 # projects & organisations
 
 sorted alphabetically by name
@@ -11,7 +13,4 @@ sorted alphabetically by name
 
 #### footnotes
 
-1. lifecycle phases in the style of the [Eclipse Development Process](https://www.eclipse.org/projects/dev_process/#6_2_Project_Lifecycle) 
-
-
-
+1. lifecycle phases in the style of the [Eclipse Development Process](https://www.eclipse.org/projects/dev_process/#6_2_Project_Lifecycle)
