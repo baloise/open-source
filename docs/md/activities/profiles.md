@@ -1,4 +1,6 @@
-# Profiles
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_04_Verteilte_Standorte_Farbig.svg/200px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_04_Verteilte_Standorte_Farbig.svg.png)
+
+# profiles
 
 alphabetically sorted
 
