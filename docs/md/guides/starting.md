@@ -38,9 +38,15 @@ The level of ownership in open-source projects and communities is often based on
 com.baloise.open.*
 ```
 
-### license
+### license(s)
 
-By default (and if not decided otherwise) we use [MIT](https://choosealicense.com/licenses/mit/) for new development projects.
+#### source code
+
+by default (and if not decided otherwise) we use [MIT](https://choosealicense.com/licenses/mit/) for new development projects.
+
+#### other work
+
+by default (and if not decided otherwise) we use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for other non-development related projects and work (e.g. [plain license TXT](https://github.com/creativecommons/creativecommons.org/blob/master/docroot/legalcode/by_4.0.txt))
 
 ### (our) templates
 
