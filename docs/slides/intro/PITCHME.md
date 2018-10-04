@@ -22,6 +22,10 @@ Open Source Developer & Enthusiast since 2010
 
 ## @color[#FFFFFF](an "old hat")
 
++++?image=https://upload.wikimedia.org/wikipedia/commons/4/42/Opensource.svg&size=contain
+
++++?image=https://upload.wikimedia.org/wikipedia/commons/7/77/Free_beer_3.0_label_german.svg&size=contain
+
 ---?image=https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg&size=contain
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/f/f7/Umbrella-C7068.jpg&size=contain&color=black
