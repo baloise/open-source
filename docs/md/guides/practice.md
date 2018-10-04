@@ -1,3 +1,5 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_01_Ausgereift_Farbig.svg/200px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_01_Ausgereift_Farbig.svg.png)
+
 # practice
 
 ## access from corporate context 
