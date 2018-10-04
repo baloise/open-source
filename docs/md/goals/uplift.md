@@ -1,3 +1,5 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_07_Partizipationskultur_Farbig.svg/200px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_07_Partizipationskultur_Farbig.svg.png)
+
 # uplift
 
 When trying to do a step forward it's good to know where you're currently standing: [open source maturity models](https://github.com/github/maturity-model#a-maturity-model-for-embracing-open-source) can help you identifying in which state your used open source projects are. But often these methodologies are fairly complex (so hard to apply) and focus on an individual projects rather than on the open source adoption phase of your organization.
