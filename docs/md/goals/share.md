@@ -1,3 +1,5 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_10_Beitrag_Zur_Nachhaltigen_Entwicklung_Farbig.svg/200px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_10_Beitrag_Zur_Nachhaltigen_Entwicklung_Farbig.svg.png)
+
 # share
 
 ## by default: implicit re-use of open source components
