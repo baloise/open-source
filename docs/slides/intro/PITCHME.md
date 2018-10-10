@@ -41,7 +41,9 @@ trademarks ([13th century](https://en.wikipedia.org/wiki/Trademark#History))
 
 intellectual property ([17th century](https://en.wikipedia.org/wiki/Intellectual_property#History))
 
-copy-rights / -lefts: open licensing models (started in 1980s)
+copy-rights / -lefts: open licensing models
+
+started in 1980s / -90s
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/7/7e/Bowler_hat%2C_Vienna%2C_mid-20th_century.jpg&size=contain
 
