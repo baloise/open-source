@@ -25,8 +25,9 @@ Open Source Developer & Enthusiast since 2010
 
 +++
 
-## OS Hardware
+@css[title-top-right](OS Hardware)
 
+![Open Source Ecology Project](https://player.vimeo.com/video/51764445)
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/7/7e/Bowler_hat%2C_Vienna%2C_mid-20th_century.jpg&size=contain
 
