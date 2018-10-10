@@ -21,7 +21,7 @@ Open Source Developer & Enthusiast since 2010
 
 ## ideas and knowledge
 
-+++
++++?image=https://opensource.org/files/AffiliateLogosFinal_33.png&size=contain
 
 ## OS Software
 
