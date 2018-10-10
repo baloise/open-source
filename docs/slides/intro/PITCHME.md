@@ -23,8 +23,6 @@ Open Source Developer & Enthusiast since 2010
 
 +++?image=https://opensource.org/files/AffiliateLogosFinal_33.png&size=contain
 
-## OS Software
-
 +++
 
 ## OS Hardware
