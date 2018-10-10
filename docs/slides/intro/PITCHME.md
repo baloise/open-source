@@ -13,10 +13,22 @@ Software & Security Engineer @ [Baloise](https://www.baloise.com)
 
 Open Source Developer & Enthusiast since 2010
 
-+++
-@title[about/baloise]
+---
 
-[![logo](https://rawgit.com/baloise/baloise-bootstrap/gh-pages/assets/img/baloise-group-logo-blue.svg)](https://www.baloise.com)
+# open
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg/500px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg.png)
+
+## ideas and knowledge
+
++++
+
+## OS Software
+
++++
+
+## OS Hardware
+
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/7/7e/Bowler_hat%2C_Vienna%2C_mid-20th_century.jpg&size=contain
 
