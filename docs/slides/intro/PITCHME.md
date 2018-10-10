@@ -25,7 +25,7 @@ Open Source Developer & Enthusiast since 2010
 
 +++
 
-@css[title-top-right](OS Hardware)
+@css[title-top-right](OS Hardware in 2012)
 
 ![Open Source Ecology Project](https://player.vimeo.com/video/51764445)
 
