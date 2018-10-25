@@ -66,7 +66,7 @@ started in 1980s / -90s
 
 ---?image=https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg&size=contain
 
-+++?image=https://gdit.com/sites/default/files/microsoft_logo.png&size=contain
++++?image=https://www.atrsoft.com/wp-content/uploads/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1200x441.jpg&size=contain
 
 ---
 ## Maturity Model
