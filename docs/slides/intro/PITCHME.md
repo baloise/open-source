@@ -48,6 +48,8 @@ started in 1980s / -90s
 +++
 ## Licence(s)
 
++++
+
 ---?image=https://upload.wikimedia.org/wikipedia/commons/7/7e/Bowler_hat%2C_Vienna%2C_mid-20th_century.jpg&size=contain
 
 ## @color[#FFFFFF](an "old hat")
@@ -63,6 +65,8 @@ started in 1980s / -90s
 +++?image=https://upload.wikimedia.org/wikipedia/commons/7/77/Free_beer_3.0_label_german.svg&size=contain
 
 ---?image=https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg&size=contain
+
++++?image=https://cdn.pixabay.com/photo/2013/02/12/09/07/microsoft-80658_960_720.png&size=contain
 
 ---
 ## Maturity Model
