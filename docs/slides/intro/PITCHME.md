@@ -51,6 +51,10 @@ started in 1980s / -90s
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Opensource.svg/1000px-Opensource.svg.png&size=contain
 
++++
+
+## Open-Source <-> FSF principles
+
 +++?image=https://theundercoverchristian.files.wordpress.com/2013/07/free-beer.jpg
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/7/77/Free_beer_3.0_label_german.svg&size=contain
@@ -58,3 +62,15 @@ started in 1980s / -90s
 ---?image=https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg&size=contain
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/f/f7/Umbrella-C7068.jpg&size=contain&color=black
+
+---
+## Maturity Model
+
++++?image=https://png.pngtree.com/element_origin_min_pic/17/08/03/08b95a8c29ae5dd081aae3c70e1d8595.jpg&size=contain
+
+---
+## Licence(s)
+
+---
+## Projects <-> Products
+
