@@ -110,7 +110,7 @@ When the project has been released as a public project on Github the following w
 
 Besides the rules of play, there is also a set of best practices which we highly recommend you implement.
 
-1.  Have a https://baloise.github.io/open-source/docs/md/guides/governance.html#code-of-conduct[code of conduct] and enforce it to create a safe environment for collaboration
+1.  Have a <<section-code-of-conduct>> and enforce it to create a safe environment for collaboration
 2.  Set clear expectations for responses - let users know if your time is limited
 3.  Ask for help and be open to what kind of contributions would help your project
 4.  Be mindful of your documentation

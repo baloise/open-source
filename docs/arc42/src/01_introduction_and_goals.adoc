@@ -13,9 +13,10 @@ The document should support and enable "permissionless innovation" (ask for forg
 
 === Quality Goals
 
+[[section-code-of-conduct]]
 ==== Code of Conduct
 
-Meet Corporate Governance guidelines such as https://www.baloise.com/en/home/about-us/corporate-governance.html[the general group compliance and our code of conduct].
+Meet corporate governance guidelines as well as open source community best practices by having and respecting https://baloise.github.io/open-source/docs/md/guides/governance.html#code-of-conduct[our code of conduct(s)].
 
 
 === Stakeholders
