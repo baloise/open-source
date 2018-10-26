@@ -5,7 +5,7 @@
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 1.5.6.1">
-<title>[DRAFT] Open-Source Guidelines</title>
+<title>[DRAFT] Open Source Guidelines</title>
 <style>
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic|Noto+Serif:400,400italic,700,700italic|Droid+Sans+Mono:400);
 
@@ -1994,7 +1994,7 @@ table.CodeRay td.code>pre{padding:0}
 </head>
 <body class="book toc2 toc-left">
 <div id="header">
-<h1><span class="image"><img src="images/arc42-logo.png" alt="arc42"></span> [DRAFT] Open-Source Guidelines</h1>
+<h1><span class="image"><img src="images/arc42-logo.png" alt="arc42"></span> [DRAFT] Open Source Guidelines</h1>
 <div id="toc" class="toc2">
 <div id="toctitle">Table of Contents</div>
 <ul class="sectlevel1">
@@ -2014,9 +2014,9 @@ table.CodeRay td.code>pre{padding:0}
 </li>
 <li><a href="#section-solution-strategy">4. Solution Strategy</a>
 <ul class="sectlevel2">
-<li><a href="#_using">4.1. Using</a></li>
-<li><a href="#_contributing">4.2. Contributing</a></li>
-<li><a href="#_releasing">4.3. Releasing</a></li>
+<li><a href="#_using_open_source">4.1. Using Open Source</a></li>
+<li><a href="#_contributing_to_open_source">4.2. Contributing to Open Source</a></li>
+<li><a href="#_releasing_as_open_source">4.3. Releasing as Open Source</a></li>
 </ul>
 </li>
 <li><a href="#section-building-block-view">5. Building Block View</a>
@@ -2178,18 +2178,291 @@ table.CodeRay td.code>pre{padding:0}
 <h2 id="section-solution-strategy"><a class="anchor" href="#section-solution-strategy"></a>4. Solution Strategy</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="_using"><a class="anchor" href="#_using"></a>4.1. Using</h3>
+<h3 id="_using_open_source"><a class="anchor" href="#_using_open_source"></a>4.1. Using Open Source</h3>
 <div class="paragraph">
 <p>Most open source code can be used in Baloise projects, but everyone has a responsibility to ensure that we respect and comply with the <a href="#section-licenses">Licensing</a>.</p>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_contributing"><a class="anchor" href="#_contributing"></a>4.2. Contributing</h3>
-
+<h3 id="_contributing_to_open_source"><a class="anchor" href="#_contributing_to_open_source"></a>4.2. Contributing to Open Source</h3>
+<div class="paragraph">
+<p>We encourage participation in open source projects and strive to have as few rules for this as possible, we expect participants to follow common sense on what code and information they contribute - if in doubt, contact the open source team, or talk to your project lead.</p>
+</div>
+<div class="sect3">
+<h4 id="_summary"><a class="anchor" href="#_summary"></a>4.2.1. Summary</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>We encourage contributions upstream</p>
+</li>
+<li>
+<p>Make sure you don&#8217;t share confidential information</p>
+</li>
+<li>
+<p>Don&#8217;t contribute code which gives us an edge over competitors</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_common_contribution_rules"><a class="anchor" href="#_common_contribution_rules"></a>4.2.2. Common contribution rules</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Do not share customer data or confidential Baloise information</p>
+</li>
+<li>
+<p>Code that cannot be contributed upstream</p>
+</li>
+<li>
+<p>confidential source code</p>
+</li>
+<li>
+<p>functionalities that give us an edge over competitors</p>
+</li>
+<li>
+<p>Remember that the Baloise Group legally has ownership over your contributions as you are an employee of Baloise</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_non_code_contributions"><a class="anchor" href="#_non_code_contributions"></a>4.2.3. Non-code contributions</h4>
+<div class="paragraph">
+<p>Contributions such as reporting issues, writing documentation, reviewing code and participating
+in project maintenance such as creating roadmaps, grooming backlogs etc.</p>
+</div>
+<div class="paragraph">
+<p>These activities are all sanctioned and encouraged as part of your employment at Baloise.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_code_contributions"><a class="anchor" href="#_code_contributions"></a>4.2.4. Code contributions</h4>
+<div class="paragraph">
+<p>Upstream code contributions are also encouraged and is a natural extension of our dependency of
+open source projects in our tech stack. Code contributions can generally be divided into 2 categories:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Contributions triggered by a work task: eg. a dependency have a bug or shortcoming which block your work</p>
+</li>
+<li>
+<p>Contributions on your own initiative</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Both are sanctioned and does not require a review. Simply ensure that the project you are contributing to is not licensed under AGPL.</p>
+</div>
+</div>
 </div>
 <div class="sect2">
-<h3 id="_releasing"><a class="anchor" href="#_releasing"></a>4.3. Releasing</h3>
+<h3 id="_releasing_as_open_source"><a class="anchor" href="#_releasing_as_open_source"></a>4.3. Releasing as Open Source</h3>
+<div class="paragraph">
+<p>This is the process for how Baloise employees release a new open source project on the <a href="https://github.com/baloise">Baloise</a> Github Organization. The process is simple and the open source team is ready to help you every step of the way.</p>
+</div>
+<div class="sect3">
+<h4 id="_overview"><a class="anchor" href="#_overview"></a>4.3.1. Overview</h4>
+<div class="paragraph">
+<p>Releasing a new open source project is a simple and fast process when you are already following Baloises rules of play:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Get Sign-off: Ensure you have organizational buy-in from your lead and that your project is possible to open source</p>
+</li>
+<li>
+<p>Be Compliant: Ensure your project is compliant with rules of play and open source best practices</p>
+</li>
+<li>
+<p>Prepare your repository: Clean up and refactor your code to work outside the Baloise environment.</p>
+</li>
+<li>
+<p>Get Reviewed: The Baloise open source review group is responsible for reviewing your project</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_get_sign_off"><a class="anchor" href="#_get_sign_off"></a>4.3.2. Get Sign-off</h4>
+<div class="paragraph">
+<p>Ensure your lead and team are onboard with open sourcing your project, that everyone understand the time and effort required, and that there is no competitive disadvantages to Baloise.</p>
+</div>
+<div class="sect4">
+<h5 id="_get_acceptance_from_your_team_and_your_lead"><a class="anchor" href="#_get_acceptance_from_your_team_and_your_lead"></a>Get acceptance from your team and your lead</h5>
+<div class="paragraph">
+<p>Make sure your team lead is informed about open sourcing a project, and that your lead is supportive of this. Open sourcing code is a process which requires time and effort, so make sure your lead and your team understand that some of your work hours will be spend maintaining this project and the community around it.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_what_cannot_be_open_sourced"><a class="anchor" href="#_what_cannot_be_open_sourced"></a>What cannot be open sourced?</h5>
+<div class="paragraph">
+<p>Anything that risks Baloise’s competitive advantage is not permissible for publication on GitHub.com. This typically means technologies we build that are intrinsic to generating or reinforcing the uniqueness of our customer experience. This could include (but is not limited to):</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>confidential source code</p>
+</li>
+<li>
+<p>functionalities that give us an edge over competitors</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>If you are in doubt, reach out to the Baloise Open Source Team or talk to your lead.</p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_be_compliant"><a class="anchor" href="#_be_compliant"></a>4.3.3. Be Compliant</h4>
+<div class="paragraph">
+<p>Compliance covers the area of ensuring that we follow a safe and consistent practice for sharing and collaborating.</p>
+</div>
+<div class="sect4">
+<h5 id="_rules_of_play"><a class="anchor" href="#_rules_of_play"></a>Rules of play</h5>
+<div class="paragraph">
+<p>All open source projects must comply with the open source specific rules of play, which applies to code that any Baloise employee releases. There are 3 areas which the rules cover:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Including the right files for licensing, documentation and ownership of the project</p>
+</li>
+<li>
+<p>Following the right procedure for how you create and release code</p>
+</li>
+<li>
+<p>Respecting and assigning copyright</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_include_the_required_assets"><a class="anchor" href="#_include_the_required_assets"></a>Include the required assets</h5>
+<div class="paragraph">
+<p>Use <a href="https://github.com/baloise/repository-template-java">new-project</a> as a boilerplate for the files required for your project. These files are needed to correctly communicate ownership and guidelines for the project:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Create a meaningful <code>README.md</code> file, this is your most important piece of documentation</p>
+</li>
+<li>
+<p>Include a <code>docs/CODEOWNERS</code> file with contact information whos maintaining the project</p>
+</li>
+<li>
+<p>Include a <code>CONTRIBUTION.md</code> file with guidelines on how to contribute</p>
+</li>
+<li>
+<p>Add a <code>LICENSE.md</code> file, license must be the <a href="https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)">Apache License 2.0</a> with the copyright set to Baloise Group</p>
+</li>
+<li>
+<p>Ensure you only use <a href="#section-licenses">Licensing</a>-compatible code/dependencies</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>The open source team can help you setting this up during a initial review.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_use_proper_procedure_for_collaboration"><a class="anchor" href="#_use_proper_procedure_for_collaboration"></a>Use proper procedure for collaboration</h5>
+<div class="paragraph">
+<p>When the project has been released as a public project on Github the following workflows are expected of you:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://semver.org">Semantically version</a> project artifacts. You MUST tag all versions in GitHub with the exact version name: e.g., 0.1.0.</p>
+</li>
+<li>
+<p>Sign-off every commit, as per the <a href="https://developercertificate.org/">DCO</a> - PGP signing is not required</p>
+</li>
+<li>
+<p>Ensure that no credentials, private identifiers or personal data is at any time present in your repository</p>
+</li>
+<li>
+<p>Enforce code-reviews with at least 2 sets of Baloise eyes on all code to minimize the risk of implanted security backdoors and vulnerable code.</p>
+</li>
+<li>
+<p>Ensure there is an active team of maintainers of at least 2 people from Baloise taking ownership of the project</p>
+</li>
+</ol>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_community_best_practices"><a class="anchor" href="#_community_best_practices"></a>Community best practices</h5>
+<div class="paragraph">
+<p>Besides the rules of play, there is also a set of best practices which we highly recommend you implement.</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Have a <a href="https://baloise.github.io/open-source/docs/md/guides/governance.html#code-of-conduct">code of conduct</a> and enforce it to create a safe environment for collaboration</p>
+</li>
+<li>
+<p>Set clear expectations for responses - let users know if your time is limited</p>
+</li>
+<li>
+<p>Ask for help and be open to what kind of contributions would help your project</p>
+</li>
+<li>
+<p>Be mindful of your documentation</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p><a href="https://opensource.guide/building-community/">opensource.guide</a> has plenty more resources and recommendations for maintainers.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_copyright_and_ownership"><a class="anchor" href="#_copyright_and_ownership"></a>Copyright and ownership</h5>
+<div class="paragraph">
+<p>Default ownership of all code released by Baloise employees are copyright Baloise Group and must be released under the Baloise GitHub organizations.</p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_prepare_your_repository"><a class="anchor" href="#_prepare_your_repository"></a>4.3.4. Prepare your repository</h4>
+<div class="paragraph">
+<p>Preparing a repository for open sourcing goes beyond ensuring it is in compliance with the rules above. This can include refactoring and documenting your code better to ensure that users and potential contributors can make sense of it.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Ensure you do not have any tokens, passwords or confidential data in your code</p>
+</li>
+<li>
+<p>Ensure the code doesn&#8217;t require any Baloise-specific infrastructure or access, so users can use in their own environment</p>
+</li>
+<li>
+<p>Ensure your code is clear and commented so newcomers can see what is going on</p>
+</li>
+<li>
+<p>Ensure your dependencies are updated and does not have any known security issues</p>
+</li>
+<li>
+<p>Ensure that it is easy to get up and running, not just on your machine</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_get_reviewed"><a class="anchor" href="#_get_reviewed"></a>4.3.5. Get Reviewed</h4>
+<div class="paragraph">
+<p>When you have checked off the compliance checklist and prepared your code for release, request a review from the Open Source Team who will help you setup a Github repository and sign off on open sourcing your code.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_release"><a class="anchor" href="#_release"></a>4.3.6. Release</h4>
+<div class="paragraph">
+<p>When all the above points are in order and the review has been passed, the project is released
+on Baloise-Github Organization marked as an Incubator project.</p>
+</div>
 <div style="page-break-after: always;"></div>
+</div>
 </div>
 </div>
 </div>
@@ -2401,7 +2674,7 @@ building block instances depicted in this diagram.&gt;</em></p>
 <p>For both using and releasing Open source Software, there is the challenge of understanding and respecting the licenses of your project dependencies. The purpose of this section is to outline what licenses to avoid, which ones you can freely use and which licenses comes with special requirements.</p>
 </div>
 <div class="sect3">
-<h4 id="_summary"><a class="anchor" href="#_summary"></a>8.1.1. Summary</h4>
+<h4 id="_summary_2"><a class="anchor" href="#_summary_2"></a>8.1.1. Summary</h4>
 <div class="ulist">
 <ul>
 <li>
@@ -2426,7 +2699,7 @@ building block instances depicted in this diagram.&gt;</em></p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_overview"><a class="anchor" href="#_overview"></a>8.1.2. Overview</h4>
+<h4 id="_overview_2"><a class="anchor" href="#_overview_2"></a>8.1.2. Overview</h4>
 <div class="imageblock">
 <div class="content">
 <img src="https://timreview.ca/ojs/february11/february11_daffara1.png" alt="OSS license spectrum">
@@ -2760,7 +3033,7 @@ We acknowledge that this document uses material from Zalandos Open Source Docume
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2018-10-26 09:48:38 UTC
+Last updated 2018-10-26 10:59:21 UTC
 </div>
 </div>
 </body>
