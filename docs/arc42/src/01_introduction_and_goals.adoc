@@ -9,7 +9,9 @@ The document should support and enable "permissionless innovation" (ask for forg
 
 === Requirements Overview
 
+image::os-maturity-model.png[OS maturity model]
 
+This document is supposed to cover all three engineering driven steps of: using open source, contributing to open source as well as championing an individual open source project https://baloise.github.io/open-source/docs/md/goals/uplift.html#legend[enabling an uplift] and being ready for strategic investments in that area.
 
 === Quality Goals
 
