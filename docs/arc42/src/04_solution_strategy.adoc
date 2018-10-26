@@ -44,6 +44,8 @@ Both are sanctioned and does not require a review. Simply ensure that the projec
 
 This is the process for how Baloise employees release a new open source project on the https://github.com/baloise[Baloise] Github Organization. The process is simple and the open source team is ready to help you every step of the way.
 
+The level of ownership as in many open source projects and communities is also for us based on http://oss-watch.ac.uk/resources/meritocraticgovernancemodel[meritocratic principles].
+
 ==== Overview
 
 Releasing a new open source project is a simple and fast process when you are already following Baloises rules of play:
@@ -87,9 +89,9 @@ All open source projects must comply with the open source specific rules of play
 Use https://github.com/baloise/repository-template-java[new-project] as a boilerplate for the files required for your project. These files are needed to correctly communicate ownership and guidelines for the project:
 
 1.  Create a meaningful `README.md` file, this is your most important piece of documentation
-2.  Include a `docs/CODEOWNERS` file with contact information whos maintaining the project
+2.  Include a `docs/CODEOWNERS` file with contact information https://help.github.com/articles/about-codeowners/[who is maintaining the project]
 3.  Include a `CONTRIBUTION.md` file with guidelines on how to contribute
-4.  Add a `LICENSE.md` file, license must be the https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)[Apache License 2.0] with the copyright set to Baloise Group
+4.  Add a `LICENSE.md` file, license must be the https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)[Apache License 2.0] with the copyright set to Baloise Group. For non-source code content we recommend using https://creativecommons.org/licenses/by/4.0/[CC BY 4.0] (e.g. https://github.com/creativecommons/creativecommons.org/blob/master/docroot/legalcode/by_4.0.txt[plain license TXT])
 5.  Ensure you only use <<section-licenses>>-compatible code/dependencies
 
 The open source team can help you setting this up during a initial review. 
@@ -117,7 +119,9 @@ https://opensource.guide/building-community/[opensource.guide] has plenty more r
 
 ===== Copyright and ownership
 
-Default ownership of all code released by Baloise employees are copyright Baloise Group and must be released under the Baloise GitHub organizations.  
+Default ownership of all code released by Baloise employees are copyright Baloise Group and must be released under the Baloise GitHub organizations.
+
+The namespace to use is `com.baloise.open.*`.
 
 ==== Prepare your repository
 
