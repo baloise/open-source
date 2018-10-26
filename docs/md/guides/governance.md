@@ -2,7 +2,9 @@
 
 # governance
 
-## Code of Conduct
+## DRAFT: Our [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
+
+## Our Code of Conduct
 
 ### [in general](https://opensource.guide/code-of-conduct/)
 
@@ -23,3 +25,5 @@ As a general rule, it is the responsibility of each individual employee to ensur
 ### signing new ones
 #### as an individual
 #### on corporate level
+
+## Contributor Agreement
