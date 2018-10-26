@@ -46,15 +46,15 @@ include::src/04_solution_strategy.adoc[]
 
 <<<<
 // 5. Building Block View
-include::src/05_building_block_view.adoc[]
+// include::src/05_building_block_view.adoc[]
 
 <<<<
 // 6. Runtime View
-include::src/06_runtime_view.adoc[]
+// include::src/06_runtime_view.adoc[]
 
 <<<<
 // 7. Deployment View
-include::src/07_deployment_view.adoc[]
+// include::src/07_deployment_view.adoc[]
 
 <<<<
 // 8. Concepts
