@@ -1,5 +1,25 @@
 [[section-design-decisions]]
 == Design Decisions
 
+[[section-design-os-team]]
+=== Open Source Team
 
+It's good practice having dedicated people being responsible for handling open source matters within a company.
 
+For now we go with a lightweight approach of an https://todogroup.org/guides/create-program/#the-role-of-the-open-source-program-office[open source program office].
+
+==== Open Source - Lead
+
+image::https://pbs.twimg.com/profile_images/935895329072959488/_qPd_hEQ_400x400.jpg[Open Source - Lead]
+
+===== https://github.com/culmat[Matthias Cullmann] - https://twitter.com/culmat[@Twitter]
+
+==== Open Source - Community Manager
+
+image::https://github.com/MarkusTiede/about/raw/master/img/me-circle.png[Open Source - Community Manager @ Baloise]
+
+===== https://github.com/MarkusTiede[Markus Tiede] - Open Source Advocate | Eclipse Committer | Certified Scrum Master | Speaker | https://twitter.com/markustiede[@Twitter]
+
+==== Inner Source Manager
+
+image::https://png.icons8.com/metro/80/000000/decision.png[Inner Source Manager @ Baloise]

@@ -7,7 +7,7 @@ Most open source code can be used in Baloise projects, but everyone has a respon
 
 === Contributing to Open Source
 
-We encourage participation in open source projects and strive to have as few rules for this as possible, we expect participants to follow common sense on what code and information they contribute - if in doubt, contact the open source team, or talk to your project lead.
+We encourage participation in open source projects and strive to have as few rules for this as possible, we expect participants to follow common sense on what code and information they contribute - if in doubt, contact the <<section-design-os-team>>, or talk to your project lead.
 
 ==== Summary
 
@@ -42,7 +42,7 @@ Both are sanctioned and does not require a review. Simply ensure that the projec
 
 === Releasing as Open Source
 
-This is the process for how Baloise employees release a new open source project on the https://github.com/baloise[Baloise] Github Organization. The process is simple and the open source team is ready to help you every step of the way.
+This is the process for how Baloise employees release a new open source project on the https://github.com/baloise[Baloise] Github Organization. The process is simple and the <<section-design-os-team>> is ready to help you every step of the way.
 
 The level of ownership as in many open source projects and communities is also for us based on http://oss-watch.ac.uk/resources/meritocraticgovernancemodel[meritocratic principles].
 
@@ -53,7 +53,7 @@ Releasing a new open source project is a simple and fast process when you are al
 * Get Sign-off: Ensure you have organizational buy-in from your lead and that your project is possible to open source 
 * Be Compliant: Ensure your project is compliant with rules of play and open source best practices
 * Prepare your repository: Clean up and refactor your code to work outside the Baloise environment.
-* Get Reviewed: The Baloise open source review group is responsible for reviewing your project
+* Get Reviewed: The Baloise <<section-design-os-team>> is responsible for reviewing your project
 
 ==== Get Sign-off  
 Ensure your lead and team are onboard with open sourcing your project, that everyone understand the time and effort required, and that there is no competitive disadvantages to Baloise.
@@ -69,7 +69,7 @@ Anything that risks Baloise’s competitive advantage is not permissible for pub
 * confidential source code
 * functionalities that give us an edge over competitors
 
-If you are in doubt, reach out to the Baloise Open Source Team or talk to your lead.
+If you are in doubt, reach out to the Baloise <<section-design-os-team>> or talk to your lead.
 
 
 ==== Be Compliant
@@ -94,7 +94,7 @@ Use https://github.com/baloise/repository-template-java[new-project] as a boiler
 4.  Add a `LICENSE.md` file, license must be the https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)[Apache License 2.0] with the copyright set to Baloise Group. For non-source code content we recommend using https://creativecommons.org/licenses/by/4.0/[CC BY 4.0] (e.g. https://github.com/creativecommons/creativecommons.org/blob/master/docroot/legalcode/by_4.0.txt[plain license TXT])
 5.  Ensure you only use <<section-licenses>>-compatible code/dependencies
 
-The open source team can help you setting this up during a initial review. 
+The <<section-design-os-team>> can help you setting this up during a initial review. 
 
 ===== Use proper procedure for collaboration
 
@@ -135,7 +135,7 @@ Preparing a repository for open sourcing goes beyond ensuring it is in complianc
 
 ==== Get Reviewed
 
-When you have checked off the compliance checklist and prepared your code for release, request a review from the Open Source Team who will help you setup a Github repository and sign off on open sourcing your code.
+When you have checked off the compliance checklist and prepared your code for release, request a review from the <<section-design-os-team>> who will help you setup a Github repository and sign off on open sourcing your code.
 
 ==== Release
 
