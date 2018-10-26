@@ -1,5 +1,11 @@
 [[section-solution-strategy]]
 == Solution Strategy
 
+=== Using
+
+Most open source code can be used in Baloise projects, but everyone has a responsibility to ensure that we respect and comply with the <<section-licenses>>.
+
+=== Contributing
 
 
+=== Releasing

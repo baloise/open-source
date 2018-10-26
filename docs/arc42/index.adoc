@@ -25,9 +25,6 @@ endif::basebackend-html[]
 // configure EN settings for asciidoc
 include::src/config.adoc[]
 
-// horizontal line
-***
-
 // numbering from here on
 :numbered:
 

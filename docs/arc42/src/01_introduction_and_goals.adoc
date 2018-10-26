@@ -5,6 +5,8 @@ Despite widespread use, there are still many misconceptions and uncertainties fo
 
 This document is therefore a guide, primarily for Baloise employees, on how to adopt, modify and release Open Source code. There are a few references to internal Baloise sites or services, but with an effort to limit our use of internal resources.
 
+The document should support and enable "permissionless innovation" (ask for forgiveness, not permission) as we want to foster a new default to openness at Baloise.
+
 === Requirements Overview
 
 
