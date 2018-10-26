@@ -6,9 +6,10 @@ When trying to do a step forward it's good to know where you're currently standi
 
 Hence we're trying to use a more [lightweight open source maturity adoption model](https://blogs.eclipse.org/post/mike-milinkovich/maturity-models-open-source-adoption) based on the [Eclipse Foundations view](https://de.slideshare.net/IanSkerrett/why-open-source-governance-matters) when classifying actions taken:
 
-![Maturity Model](https://raw.githubusercontent.com/baloise/pitches/opensource/maturityModel.png)
+![Maturity Model](../../arc42/images/os-maturity-model.png)
 
 As for [Baloise](https://www.baloise.com/en/home.html) we're currently just in the state of getting significant business attention.
+
 ### legend
 
 #### deny
@@ -27,11 +28,9 @@ Contribute code and / or resources (such as feedback, documentation, ...).
 
 Executive support, project leadership: your project itself is widely in the state of 'use' by others.
 
-#### collaborate
+#### strategic investment
 
-Defined business model based on [FLOSS][foss], and drive projects to achieve business goals.
-
-#### redefine
+Defined business model based on [FLOSS][foss], and drive projects to achieve business goals. 
 
 Design products so that they can be based on [FLOSS][foss], obtain competitive advantage by harnessing changes in multiple ecosystems.
 
