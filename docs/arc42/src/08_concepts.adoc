@@ -15,8 +15,8 @@ For both using and releasing Open source Software, there is the challenge of und
 * Use Creative Commons licenses for non-source code content 
 
 ==== Overview
-
-image::https://timreview.ca/ojs/february11/february11_daffara1.png[OSS license spectrum]
+// https://timreview.ca/ojs/february11/february11_daffara1.png
+image::oss-license-spectrum.png[OSS license spectrum]
 
 Overall there are 3 types of licenses which you can use:
 
