@@ -1,0 +1,6 @@
+[[section-attribution]]
+== Attributions
+
+include::about-arc42.adoc[]
+
+include::about-zalando.adoc[]

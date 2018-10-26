@@ -1,0 +1,18 @@
+:homepage: https://opensource.zalando.com/docs
+
+:keywords: Zalando, documentation, open source
+
+:numbered!:
+**About Zalando**
+
+[role="lead"]
+Zalando SE, Open Source
+
+Scaling Open Culture
+
+Contributors: https://github.com/zalando/zalando.github.io/graphs/contributors
+
+Repo Version: 2084231478080ed4e6f034569c7e3c4ac57f6ca1
+
+(C)
+We acknowledge that this document uses material from Zalandos Open Source Documentation published under MIT.

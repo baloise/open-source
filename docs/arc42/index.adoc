@@ -3,7 +3,7 @@
 //
 // ====================================
 
-= image:arc42-logo.png[arc42] Open-Source Strategy
+= image:arc42-logo.png[arc42] [DRAFT] Open-Source Guidelines
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Table of Contents
 
@@ -25,14 +25,8 @@ endif::basebackend-html[]
 // configure EN settings for asciidoc
 include::src/config.adoc[]
 
-
-include::src/about-arc42.adoc[]
-
 // horizontal line
 ***
-
-
-
 
 // numbering from here on
 :numbered:
@@ -85,4 +79,6 @@ include::src/11_technical_risks.adoc[]
 // 12. Glossary
 include::src/12_glossary.adoc[]
 
-
+<<<<
+// 13. Attribution
+include::src/about-attribution.adoc[]
