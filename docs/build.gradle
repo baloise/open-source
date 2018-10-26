@@ -86,8 +86,8 @@ gitPublish {
 gitPublishPush.dependsOn asciidoctor
 
 task publishDocumentation(type: GradleBuild) {
-    // Since the variable `TRAVIS_BRANCH` points to "master" if there is an open PR we need to filter that as well
-    if (!System.getenv('TRAVIS_PULL_REQUEST_BRANCH') && System.getenv('TRAVIS_BRANCH') == "master") {
+    // Since the variable `TRAVIS_BRANCH` points to "issues/32_os-guide" if there is an open PR we need to filter that as well
+    if (!System.getenv('TRAVIS_PULL_REQUEST_BRANCH') && System.getenv('TRAVIS_BRANCH') == "issues/32_os-guide") {
         tasks = ['gitPublishPush']
     } else {
         println 'will not publish on gh-pages'
