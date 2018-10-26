@@ -2012,7 +2012,13 @@ table.CodeRay td.code>pre{padding:0}
 <li><a href="#_technical_context">3.2. Technical Context</a></li>
 </ul>
 </li>
-<li><a href="#section-solution-strategy">4. Solution Strategy</a></li>
+<li><a href="#section-solution-strategy">4. Solution Strategy</a>
+<ul class="sectlevel2">
+<li><a href="#_using">4.1. Using</a></li>
+<li><a href="#_contributing">4.2. Contributing</a></li>
+<li><a href="#_releasing">4.3. Releasing</a></li>
+</ul>
+</li>
 <li><a href="#section-building-block-view">5. Building Block View</a>
 <ul class="sectlevel2">
 <li><a href="#_whitebox_overall_system">5.1. Whitebox Overall System</a></li>
@@ -2036,9 +2042,7 @@ table.CodeRay td.code>pre{padding:0}
 </li>
 <li><a href="#section-concepts">8. Cross-cutting Concepts</a>
 <ul class="sectlevel2">
-<li><a href="#_em_concept_1_em">8.1. <em>&lt;Concept 1&gt;</em></a></li>
-<li><a href="#_em_concept_2_em">8.2. <em>&lt;Concept 2&gt;</em></a></li>
-<li><a href="#_em_concept_n_em">8.3. <em>&lt;Concept n&gt;</em></a></li>
+<li><a href="#section-licenses">8.1. Licensing</a></li>
 </ul>
 </li>
 <li><a href="#section-design-decisions">9. Design Decisions</a></li>
@@ -2066,7 +2070,6 @@ table.CodeRay td.code>pre{padding:0}
 	.arc42help {display:hidden;}
 }
 </style>
-<hr>
 <div style="page-break-after: always;"></div>
 </div>
 </div>
@@ -2078,6 +2081,9 @@ table.CodeRay td.code>pre{padding:0}
 </div>
 <div class="paragraph">
 <p>This document is therefore a guide, primarily for Baloise employees, on how to adopt, modify and release Open Source code. There are a few references to internal Baloise sites or services, but with an effort to limit our use of internal resources.</p>
+</div>
+<div class="paragraph">
+<p>The document should support and enable "permissionless innovation" (ask for forgiveness, not permission) as we want to foster a new default to openness at Baloise.</p>
 </div>
 <div class="sect2">
 <h3 id="_requirements_overview"><a class="anchor" href="#_requirements_overview"></a>1.1. Requirements Overview</h3>
@@ -2171,7 +2177,20 @@ table.CodeRay td.code>pre{padding:0}
 <div class="sect1">
 <h2 id="section-solution-strategy"><a class="anchor" href="#section-solution-strategy"></a>4. Solution Strategy</h2>
 <div class="sectionbody">
+<div class="sect2">
+<h3 id="_using"><a class="anchor" href="#_using"></a>4.1. Using</h3>
+<div class="paragraph">
+<p>Most open source code can be used in Baloise projects, but everyone has a responsibility to ensure that we respect and comply with the <a href="#section-licenses">Licensing</a>.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_contributing"><a class="anchor" href="#_contributing"></a>4.2. Contributing</h3>
+
+</div>
+<div class="sect2">
+<h3 id="_releasing"><a class="anchor" href="#_releasing"></a>4.3. Releasing</h3>
 <div style="page-break-after: always;"></div>
+</div>
 </div>
 </div>
 <div class="sect1">
@@ -2377,26 +2396,218 @@ building block instances depicted in this diagram.&gt;</em></p>
 <h2 id="section-concepts"><a class="anchor" href="#section-concepts"></a>8. Cross-cutting Concepts</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="_em_concept_1_em"><a class="anchor" href="#_em_concept_1_em"></a>8.1. <em>&lt;Concept 1&gt;</em></h3>
+<h3 id="section-licenses"><a class="anchor" href="#section-licenses"></a>8.1. Licensing</h3>
 <div class="paragraph">
-<p><em>&lt;explanation&gt;</em></p>
+<p>For both using and releasing Open source Software, there is the challenge of understanding and respecting the licenses of your project dependencies. The purpose of this section is to outline what licenses to avoid, which ones you can freely use and which licenses comes with special requirements.</p>
+</div>
+<div class="sect3">
+<h4 id="_summary"><a class="anchor" href="#_summary"></a>8.1.1. Summary</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Any dependency with a permissive license can be used</p>
+</li>
+<li>
+<p>Copyleft licensed code can only be used if you plan NOT to distribute outside Baloise</p>
+</li>
+<li>
+<p>Make sure to investigate the specific terms of the copyleft licenses</p>
+</li>
+<li>
+<p>You cannot use AGPL or RPL licensed code</p>
+</li>
+<li>
+<p>You cannot use unlicensed code</p>
+</li>
+<li>
+<p>Use Creative Commons licenses for non-source code content</p>
+</li>
+</ul>
 </div>
 </div>
-<div class="sect2">
-<h3 id="_em_concept_2_em"><a class="anchor" href="#_em_concept_2_em"></a>8.2. <em>&lt;Concept 2&gt;</em></h3>
+<div class="sect3">
+<h4 id="_overview"><a class="anchor" href="#_overview"></a>8.1.2. Overview</h4>
+<div class="imageblock">
+<div class="content">
+<img src="https://timreview.ca/ojs/february11/february11_daffara1.png" alt="OSS license spectrum">
+</div>
+</div>
 <div class="paragraph">
-<p><em>&lt;explanation&gt;</em></p>
+<p>Overall there are 3 types of licenses which you can use:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Permissive licenses</p>
+</li>
+<li>
+<p>Weak copyleft licenses</p>
+</li>
+<li>
+<p>Strong Copyleft licenses</p>
+</li>
+</ul>
 </div>
 <div class="paragraph">
-<p>&#8230;&#8203;</p>
+<p>And 2 types which you cannot use in any way:</p>
 </div>
+<div class="ulist">
+<ul>
+<li>
+<p>Network protective: AGPL, RPL or variants licensed code</p>
+</li>
+<li>
+<p>Unlicensed code</p>
+</li>
+</ul>
 </div>
-<div class="sect2">
-<h3 id="_em_concept_n_em"><a class="anchor" href="#_em_concept_n_em"></a>8.3. <em>&lt;Concept n&gt;</em></h3>
 <div class="paragraph">
-<p><em>&lt;explanation&gt;</em></p>
+<p>This document is a general overview and does not represent legal advice. Always check the details of each license and if you are in doubt, get in touch with legal.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_permissive_licenses"><a class="anchor" href="#_permissive_licenses"></a>8.1.3. Permissive licenses</h4>
+<div class="paragraph">
+<p><a href="https://tldrlegal.com/l/afl3">AFL</a>,
+<a href="https://tldrlegal.com/l/apache2">Apache</a>,
+<a href="https://tldrlegal.com/l/bsd3">BSD</a>,
+<a href="https://tldrlegal.com/l/mit">MIT</a>,
+<a href="https://tldrlegal.com/l/mspl">MS-PL</a>,
+<a href="https://tldrlegal.com/l/isc">ISC</a>,
+<a href="https://tldrlegal.com/license/the-php-license-3.0.1">PHP License</a>,
+and many more.</p>
+</div>
+<div class="paragraph">
+<p>Code dependency which you are free to use and change without limitations, but must include the license and copyright of the dependency.</p>
+</div>
+<div class="paragraph">
+<p>Permissive licensed dependencies can be used without issues both for internal and for open source projects.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>You are free to: <strong>use</strong> commercially, <strong>modify</strong>, <strong>distribute</strong> and <strong>sublicense</strong>.</p>
+</li>
+<li>
+<p>You must include: <strong>copyright</strong> and <strong>license</strong></p>
+</li>
+<li>
+<p>You cannot hold the author liable.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_weak_copyleft_licenses"><a class="anchor" href="#_weak_copyleft_licenses"></a>8.1.4. Weak copyleft licenses</h4>
+<div class="paragraph">
+<p><a href="https://tldrlegal.com/l/aspl2">APSL</a>,
+<a href="https://tldrlegal.com/l/lgpl-3.0)">LGPL</a>,
+<a href="https://tldrlegal.com/l/cddl">CDDL</a>,
+<a href="https://tldrlegal.com/license/common-public-license-1.0-(cpl-1.0)">CPL</a>,
+<a href="https://tldrlegal.com/l/epl">EPL</a>,
+<a href="https://tldrlegal.com/l/ipl">IPL</a>,
+<a href="https://tldrlegal.com/l/mpl-2.0">MPL</a>
+and many more.</p>
+</div>
+<div class="paragraph">
+<p>Code dependency which you are free to use and change, but must include the source code, the license and copyright of the dependency. You can license your own code however you want, and you must only share the source code of the reciprocally licensed dependency.</p>
+</div>
+<div class="paragraph">
+<p>Beware that each individual license has specific clauses, so check the individual license before use.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>You are free to: <strong>use</strong> commercially, <strong>modify</strong>, <strong>distribute</strong> and <strong>sublicense</strong>.</p>
+</li>
+<li>
+<p>You must include: <strong>copyright</strong>, <strong>license</strong>, <strong>changelog</strong>, <strong>source code</strong> and <strong>install instructions</strong></p>
+</li>
+<li>
+<p>You cannot hold the author liable or use authors trademarks</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_strong_copyleft_licenses"><a class="anchor" href="#_strong_copyleft_licenses"></a>8.1.5. Strong Copyleft licenses</h4>
+<div class="paragraph">
+<p><a href="https://tldrlegal.com/l/gpl-3.0)">GPL</a>,
+<a href="https://tldrlegal.com/license/netscape-public-license-v1.1-(npl-1.1)">NPL</a>,
+<a href="https://tldrlegal.com/license/open-software-license-2.1-(osl-2.1)">OSL</a>,
+<a href="https://tldrlegal.com/license/q-public-license-1.0-(qpl-1.0)">QPL</a>
+and many more.</p>
+</div>
+<div class="paragraph">
+<p>Code dependency which require you to license <strong>all</strong> your code under the same license if you want to distribute it. If only used internally, you have no obligation to release neither source nor binary.</p>
+</div>
+<div class="paragraph">
+<p>Dependency can therefore be used for internal projects, but not for projects which will be distributed outside of Baloise.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>You are free to: <strong>use</strong> commercially, <strong>modify</strong> and <strong>distribute</strong></p>
+</li>
+<li>
+<p>You must include: <strong>copyright</strong>, <strong>license</strong>, <strong>source code</strong>, <strong>changelog</strong>, <strong>original source</strong> and <strong>install instructions</strong></p>
+</li>
+<li>
+<p>You cannot hold the author liable or sublicense</p>
+</li>
+<li>
+<p>If distributed, you must license your code under the same license.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_network_protective_licenses"><a class="anchor" href="#_network_protective_licenses"></a>8.1.6. Network protective licenses</h4>
+<div class="paragraph">
+<p>Code licensed under <a href="https://tldrlegal.com/l/agpl3">AGPL</a> (Affero General Public License) and <a href="https://tldrlegal.com/license/reciprocal-public-license-1.5-(rpl-1.5)">RPL</a>, may not be used at Baloise.</p>
+</div>
+<div class="paragraph">
+<p>Code dependency which triggers the copyleft provision even when it is not distributed. If AGPL or RPL code is used to deliver a web-service such as Baloise.de, all code and code linked to the service must be licensed and distributed under AGPL.</p>
+</div>
+<div class="paragraph">
+<p>Use of software licensed under AGPL represents a big risk for Baloise, so even for projects which is not directly linked to any of our services, it must not be used as the benefits compared to the risk is small.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_unlicensed_code"><a class="anchor" href="#_unlicensed_code"></a>8.1.7. Unlicensed code</h4>
+<div class="paragraph">
+<p>Code which does not include a license or have no clear ownership cannot be used at Baloise.</p>
+</div>
+<div class="paragraph">
+<p>As per standard copyright law, any code which is not explicitly licensed, is the property
+of the author and cannot be used without permission.</p>
+</div>
+<div class="paragraph">
+<p>However if you wish to use a library which have no license, first of all check with the author to see if the license is simple not distributed with the source code. If the project author has not included a license open a pull request and suggest a license such as <a href="https://tldrlegal.com/l/apache2">Apache-2.0</a>.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_creative_commons_licenses"><a class="anchor" href="#_creative_commons_licenses"></a>8.1.8. Creative Commons licenses</h4>
+<div class="paragraph">
+<p>The previously mentioned licence types are primarily aimed for licensing source code. Hence if there is not directly
+source code involved, e.g. for documentation, pretty often other licenses are used for good reasons.</p>
+</div>
+<div class="paragraph">
+<p>A <a href="https://creativecommons.org/share-your-work/public-domain/freeworks/">set of the licences</a> are published and standardized by <a href="https://en.wikipedia.org/wiki/Creative_Commons">Creative Commons (CC) is an American non-profit organization</a>.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Creative_commons_license_spectrum.svg/500px-Creative_commons_license_spectrum.svg.png" alt="Creative commons license spectrum">
+</div>
+</div>
+<div class="paragraph">
+<p>As for now we recommend using creative commons licensed content. Giving Attribution (by), ShareAlike (sa) - a the naming of copyleft at creative commons -  and NoDerivatives (nd) licensed content can be used at Baloise with respect to the indiviudal requirements of that license.</p>
+</div>
+<div class="paragraph">
+<p>If the content is licensed with a NonCommercial (nc) e.g. <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a> attribute you can not use that content at Baloise without further clarification.</p>
 </div>
 <div style="page-break-after: always;"></div>
+</div>
 </div>
 </div>
 </div>
@@ -2549,7 +2760,7 @@ We acknowledge that this document uses material from Zalandos Open Source Docume
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2018-10-26 07:30:28 UTC
+Last updated 2018-10-26 09:48:38 UTC
 </div>
 </div>
 </body>
