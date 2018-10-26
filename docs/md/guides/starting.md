@@ -16,46 +16,14 @@ This is currently a manual process so it might take a moment to get a response.
 
 ### if interested: [make your membership public](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) on [our team page](https://github.com/orgs/baloise/people)
 
-## contributing
+## [contributing](https://baloise.github.io/open-source/docs/arc42/#_contributing_to_open_source)
 
-### choose a project and start working
-With respect to our [general governance](governance.md) guidelines and hints.
+## (our) templates
 
-### in the beginning we recommend working with [pull requests](https://guides.github.com/activities/forking/)
-
-## (own) a project
-
-The level of ownership in open-source projects and communities is often based on [meritocratic principles](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel).
-
-### define specific [code-owners](https://help.github.com/articles/about-codeowners/)
-
-```properties
-# default
-* @baloise/open-source
-```
-
-### namespace
-
-```java
-com.baloise.open.*
-```
-
-### license(s)
-
-#### source code
-
-by default (and if not decided otherwise) we use [MIT](https://choosealicense.com/licenses/mit/) for new development projects.
-
-#### other work
-
-by default (and if not decided otherwise) we use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for other non-development related projects and work (e.g. [plain license TXT](https://github.com/creativecommons/creativecommons.org/blob/master/docroot/legalcode/by_4.0.txt))
-
-### (our) templates
-
-#### [repository-template-java](https://github.com/baloise/repository-template-java)
+### [repository-template-java](https://github.com/baloise/repository-template-java)
 ![](https://img.shields.io/github/license/baloise/repository-template-java.svg)
 
-### define topics
+## define topics
 
 Add topics to categorize your repository and make it more discoverable.
 
