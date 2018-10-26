@@ -2,7 +2,7 @@
 
 # governance
 
-## DRAFT of our [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
+## DRAFT: Our [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
 
 ## Our Code of Conduct
 
