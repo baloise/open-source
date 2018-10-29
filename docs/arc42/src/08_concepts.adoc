@@ -90,9 +90,9 @@ Dependency can therefore be used for internal projects, but not for projects whi
 
 Code licensed under https://tldrlegal.com/l/agpl3[AGPL] (Affero General Public License) and https://tldrlegal.com/license/reciprocal-public-license-1.5-(rpl-1.5)[RPL], may not be used at Baloise.
 
-Code dependency which triggers the copyleft provision even when it is not distributed. If AGPL or RPL code is used to deliver a web-service such as Baloise.de, all code and code linked to the service must be licensed and distributed under AGPL.
+Code dependency which triggers the copyleft provision even when it is not distributed. If AGPL or RPL code is used to deliver a web-service such as https://baloise.com, all code and code linked to the service must be licensed and distributed under AGPL.
 
-Use of software licensed under AGPL represents a big risk for Baloise, so even for projects which is not directly linked to any of our services, it must not be used as the benefits compared to the risk is small.
+Use of software licensed under AGPL represents a risk for Baloise, so even for projects which is not directly linked to any of our services, it must not be used as the benefits compared to the risk is small.
 
 ==== Unlicensed code
 
