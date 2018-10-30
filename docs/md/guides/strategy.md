@@ -12,6 +12,6 @@ Collaboration within available container
 
 ### [open-insurance.org](https://github.com/open-insurance) @ Github
 
-## 4 - 5
+## 4
 
 ### [Industry Working Groups](https://www.eclipse.org/org/workinggroups/)
