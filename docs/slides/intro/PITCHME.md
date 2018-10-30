@@ -15,7 +15,12 @@ Open Source Developer & Enthusiast since 2010
 
 +++
 
-Q2 / Q3 - #Option 35: Open-Source
+## Q2 / Q3 - #Option 35: Open-Source
+
+all worldwide, publicly [available @ Github](https://github.com/baloise/open-source)
+
+licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 
 ---
 
@@ -77,6 +82,15 @@ Q2 / Q3 - #Option 35: Open-Source
 +++?image=https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg&size=contain
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/f/f7/Umbrella-C7068.jpg&size=contain&color=black
+
++++
+## Cross-cutting activities
+
+joined a couple of not-for-profit organizations
+
+CH-Open
+
+Eclipse Foundation
 
 ---
 # Q&A
