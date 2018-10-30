@@ -70,8 +70,8 @@ started in 1980s / -90s
 
 ---?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
 
----
-## 1. Use
+---?color=#f15825
+## @color[white](1. Use)
 
 +++
 ## BOM
@@ -79,16 +79,16 @@ started in 1980s / -90s
 +++
 ## a Zoo
 
----
+---?color=#b8b8b8
 ## 2. Contribute
 
 +++?image=https://png.pngtree.com/element_origin_min_pic/17/08/03/08b95a8c29ae5dd081aae3c70e1d8595.jpg&size=contain
 
----
-## 3. Champion
+---?color=#f69517
+## @color[white](3. Champion)
 
----
-## 4. Strategic Invest
+---?color=#36363f
+## @color[white](4. Strategic Invest)
 
 +++
 ## Business Models
