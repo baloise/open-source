@@ -29,21 +29,9 @@ Open Source Developer & Enthusiast since 2010
 
 ![Open Source Ecology Project](https://player.vimeo.com/video/51764445)
 
-+++
++++?image=https://theundercoverchristian.files.wordpress.com/2013/07/free-beer.jpg
 
-## hardware (0th century)
-
-patents ([15th century](https://en.wikipedia.org/wiki/Patent#History))
-
-trademarks ([13th century](https://en.wikipedia.org/wiki/Trademark#History))
-
-## software (20th century)
-
-intellectual property ([17th century](https://en.wikipedia.org/wiki/Intellectual_property#History))
-
-copy-rights / -lefts: open licensing models
-
-started in 1980s / -90s
++++?image=https://upload.wikimedia.org/wikipedia/commons/7/77/Free_beer_3.0_label_german.svg&size=contain
 
 +++
 ## Licence(s)
@@ -60,15 +48,7 @@ started in 1980s / -90s
 
 ## Open-Source <-> FSF principles
 
-+++?image=https://theundercoverchristian.files.wordpress.com/2013/07/free-beer.jpg
-
-+++?image=https://upload.wikimedia.org/wikipedia/commons/7/77/Free_beer_3.0_label_german.svg&size=contain
-
----?image=https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg&size=contain
-
-+++?image=https://www.atrsoft.com/wp-content/uploads/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1200x441.jpg&size=contain
-
----?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
++++?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
 
 ---?color=#f15825
 # @color[white](1. Use)
@@ -93,4 +73,29 @@ started in 1980s / -90s
 +++
 ## Business Models
 
++++?image=https://www.atrsoft.com/wp-content/uploads/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1200x441.jpg&size=contain
+
++++?image=https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg&size=contain
+
 +++?image=https://upload.wikimedia.org/wikipedia/commons/f/f7/Umbrella-C7068.jpg&size=contain&color=black
+
+---
+# Q&A
+
+---
+
++++
+
+## hardware (0th century)
+
+patents ([15th century](https://en.wikipedia.org/wiki/Patent#History))
+
+trademarks ([13th century](https://en.wikipedia.org/wiki/Trademark#History))
+
+## software (20th century)
+
+intellectual property ([17th century](https://en.wikipedia.org/wiki/Intellectual_property#History))
+
+copy-rights / -lefts: open licensing models
+
+started in 1980s / -90s
