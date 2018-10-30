@@ -2,7 +2,7 @@
 
 # strategy [DRAFT]
 
-![Maturity Model](https://raw.githubusercontent.com/baloise/pitches/opensource/maturityModel.png)
+![Maturity Model](../../arc42/images/os-maturity-model.png)
 
 Collaboration within available container
 
