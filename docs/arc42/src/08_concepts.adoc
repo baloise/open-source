@@ -115,3 +115,7 @@ image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Creative_common
 As for now we recommend using creative commons licensed content. Giving Attribution (by), ShareAlike (sa) - a the naming of copyleft at creative commons -  and NoDerivatives (nd) licensed content can be used at Baloise with respect to the indiviudal requirements of that license.
 
 If the content is licensed with a NonCommercial (nc) e.g. https://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0] attribute you can not use that content at Baloise without further clarification.
+
+
+[[section-sustainability]]
+=== Digital Sustainability
