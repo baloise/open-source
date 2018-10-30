@@ -13,6 +13,10 @@ Software & Security Engineer @ [Baloise](https://www.baloise.com)
 
 Open Source Developer & Enthusiast since 2010
 
++++
+
+Q2 / Q3 - #Option 35: Open-Source
+
 ---
 
 # openness
@@ -32,11 +36,6 @@ Open Source Developer & Enthusiast since 2010
 +++?image=https://theundercoverchristian.files.wordpress.com/2013/07/free-beer.jpg
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/7/77/Free_beer_3.0_label_german.svg&size=contain
-
-+++
-## Licence(s)
-
-+++
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/7/7e/Bowler_hat%2C_Vienna%2C_mid-20th_century.jpg&size=contain
 
