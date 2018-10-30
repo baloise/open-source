@@ -7,12 +7,12 @@ For both using and releasing Open source Software, there is the challenge of und
 
 ==== Summary
 
-* Any dependency with a permissive license can be used
-* Copyleft licensed code can only be used if you plan NOT to distribute outside Baloise
-* Make sure to investigate the specific terms of the copyleft licenses
-* You cannot use AGPL or RPL licensed code
-* You cannot use unlicensed code
-* Use Creative Commons licenses for non-source code content 
+* Any dependency with a **permissive license can be used**
+* Copyleft licensed code **can be used** if you plan **NOT to distribute** outside Baloise
+* Make sure to **investigate the specific terms of the copyleft licenses, when building components meant for distribution**
+* You **cannot use AGPL** or RPL licensed code
+* You **cannot use unlicensed code**
+* Use **Creative Commons licenses for non-source code** content 
 
 ==== Overview
 // https://timreview.ca/ojs/february11/february11_daffara1.png
