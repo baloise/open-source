@@ -5,6 +5,8 @@
 
 Most open source code can be used in Baloise projects, but everyone has a responsibility to ensure that we respect and comply with the <<section-licenses>>.
 
+We recommend checking the projects maturity before (heavily) relying on it. Website like e.g. https://www.openhub.net/p/apache[Apache HTTP Server at OpenHub] can help quickly identifying relevant metrics (activity, users, etc.).
+
 === Contributing to Open Source
 
 We encourage participation in open source projects and strive to have as few rules for this as possible, we expect participants to follow common sense on what code and information they contribute - if in doubt, contact the <<section-design-os-team>>, or talk to your project lead.
