@@ -68,10 +68,10 @@ started in 1980s / -90s
 
 +++?image=https://www.atrsoft.com/wp-content/uploads/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1200x441.jpg&size=contain
 
----?image=../../arc42/images/os-maturity-model.png&size=contain
+---?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
 
 ---
-## Use
+## 1. Use
 
 +++
 ## BOM
@@ -80,20 +80,17 @@ started in 1980s / -90s
 ## a Zoo
 
 ---
-## Contribute
+## 2. Contribute
 
 +++?image=https://png.pngtree.com/element_origin_min_pic/17/08/03/08b95a8c29ae5dd081aae3c70e1d8595.jpg&size=contain
 
 ---
-## Champion
+## 3. Champion
 
 ---
-## Strategic Invest
+## 4. Strategic Invest
 
 +++
 ## Business Models
 
----
-## Projects <-> Products
-
----?image=https://upload.wikimedia.org/wikipedia/commons/f/f7/Umbrella-C7068.jpg&size=contain&color=black
++++?image=https://upload.wikimedia.org/wikipedia/commons/f/f7/Umbrella-C7068.jpg&size=contain&color=black
