@@ -1,3 +1,8 @@
+[[section-tldr]]
+== https://en.wikipedia.org/wiki/TL;DR[TL;DR]
+
+<2do>
+
 [[section-introduction-and-goals]]
 == Introduction and Goals
 
