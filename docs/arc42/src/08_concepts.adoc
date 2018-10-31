@@ -116,6 +116,14 @@ As for now we recommend using creative commons licensed content. Giving Attribut
 
 If the content is licensed with a NonCommercial (nc) e.g. https://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0] attribute you can not use that content at Baloise without further clarification.
 
+[[section-dco]]
+=== Certificate of Origin
+
+==== DCO
+
+==== CA
+
+===== CLA
 
 [[section-sustainability]]
 === Digital Sustainability
