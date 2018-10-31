@@ -108,13 +108,13 @@ However if you wish to use a library which have no license, first of all check w
 The previously mentioned licence types are primarily aimed for licensing source code. Hence if there is not directly
 source code involved, e.g. for documentation, pretty often other licenses are used for good reasons.
 
-A https://creativecommons.org/share-your-work/public-domain/freeworks/[set of the licences] are published and standardized by https://en.wikipedia.org/wiki/Creative_Commons[Creative Commons (CC) is an American non-profit organization].
-
-image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Creative_commons_license_spectrum.svg/500px-Creative_commons_license_spectrum.svg.png[Creative commons license spectrum]
-
 As for now we recommend using creative commons licensed content. Giving Attribution (by), ShareAlike (sa) - a the naming of copyleft at creative commons -  and NoDerivatives (nd) licensed content can be used at Baloise with respect to the indiviudal requirements of that license.
 
 If the content is licensed with a NonCommercial (nc) e.g. https://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0] attribute you can not use that content at Baloise without further clarification.
+
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Creative_commons_license_spectrum.svg/500px-Creative_commons_license_spectrum.svg.png[Creative commons license spectrum]
+
+A https://creativecommons.org/share-your-work/public-domain/freeworks/[set of the licences] are published and standardized by https://en.wikipedia.org/wiki/Creative_Commons[Creative Commons (CC) is an American non-profit organization].
 
 [[section-dco]]
 === Certificate of Origin
