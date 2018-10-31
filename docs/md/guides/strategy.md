@@ -2,7 +2,7 @@
 
 # strategy [DRAFT]
 
-![Maturity Model](https://raw.githubusercontent.com/baloise/pitches/opensource/maturityModel.png)
+![Maturity Model](../../arc42/images/os-maturity-model.png)
 
 Collaboration within available container
 
@@ -12,6 +12,6 @@ Collaboration within available container
 
 ### [open-insurance.org](https://github.com/open-insurance) @ Github
 
-## 4 - 5
+## 4
 
 ### [Industry Working Groups](https://www.eclipse.org/org/workinggroups/)
