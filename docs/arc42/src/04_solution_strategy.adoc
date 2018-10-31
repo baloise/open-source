@@ -7,7 +7,11 @@ Most open source code can be used in Baloise projects, but everyone has a respon
 
 We recommend checking the projects maturity before (heavily) relying on it. Website like e.g. https://www.openhub.net/p/apache[Apache HTTP Server at OpenHub] can help quickly identifying relevant metrics (activity, users, etc.).
 
-==== Bill of material
+==== Use source 
+
+==== Use binaries
+
+===== Bill of material
 
 <2do>
 
