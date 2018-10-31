@@ -1,13 +1,13 @@
 [[section-solution-strategy]]
-== Solution Strategy
+== Solution Strategy for handling open source
 
-=== Using Open Source
+=== Using existing open source
 
 Most open source code can be used in Baloise projects, but everyone has a responsibility to ensure that we respect and comply with the <<section-licenses>>.
 
 We recommend checking the projects maturity before (heavily) relying on it. Website like e.g. https://www.openhub.net/p/apache[Apache HTTP Server at OpenHub] can help quickly identifying relevant metrics (activity, users, etc.).
 
-=== Contributing to Open Source
+=== Contributing to existing open source projects
 
 We encourage participation in open source projects and strive to have as few rules for this as possible, we expect participants to follow common sense on what code and information they contribute - if in doubt, contact the <<section-design-os-team>>, or talk to your project lead.
 
@@ -42,7 +42,7 @@ open source projects in our tech stack. Code contributions can generally be divi
 
 Both are sanctioned and does not require a review. Simply ensure that the project you are contributing to is not licensed under AGPL.
 
-=== Releasing as Open Source
+=== Releasing new open source projects
 
 This is the process for how Baloise employees release a new open source project on the https://github.com/baloise[Baloise] Github Organization. The process is simple and the <<section-design-os-team>> is ready to help you every step of the way.
 
@@ -72,7 +72,6 @@ Anything that risks Baloise’s competitive advantage is not permissible for pub
 * functionalities that give us an edge over competitors
 
 If you are in doubt, reach out to the Baloise <<section-design-os-team>> or talk to your lead.
-
 
 ==== Be Compliant
 
