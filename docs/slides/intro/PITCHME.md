@@ -37,21 +37,11 @@ Open Source Developer & Enthusiast since 2010
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/7/77/Free_beer_3.0_label_german.svg&size=contain
 
-+++
-
-# freedom
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg/200px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg.png)
-
-## share: ideas and knowledge
-
----?image=https://upload.wikimedia.org/wikipedia/commons/7/7e/Bowler_hat%2C_Vienna%2C_mid-20th_century.jpg&size=contain
-
-## @color[#FFFFFF](an "old hat")
-
 +++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Opensource.svg/1000px-Opensource.svg.png&size=contain
 
 +++?image=https://www.gnu.org/graphics/logo-fsf.org.png&size=contain
+
++++
 
 ### Freedom 0: Free to use
 Anyone can use it, however they like.
@@ -64,6 +54,15 @@ If I don't like how it works, I can change it.
 
 ### Freedom 3: Free to distribute
 I can share my changes.
+
+# freedom
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg/200px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg.png)
+
+## share: ideas and knowledge
+
+---?color=#36363f
+# @color[white](0 -> 1: beneftis)
 
 +++?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
 
