@@ -23,7 +23,7 @@ Open Source Developer & Enthusiast since 2010
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg/200px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg.png)
 
-## ideas and knowledge
+## share: ideas and knowledge
 
 +++?image=https://opensource.org/files/AffiliateLogosFinal_33.png&size=contain
 
@@ -37,15 +37,21 @@ Open Source Developer & Enthusiast since 2010
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/7/77/Free_beer_3.0_label_german.svg&size=contain
 
++++
+
+# freedom
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg/200px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg.png)
+
+## share: ideas and knowledge
+
 ---?image=https://upload.wikimedia.org/wikipedia/commons/7/7e/Bowler_hat%2C_Vienna%2C_mid-20th_century.jpg&size=contain
 
 ## @color[#FFFFFF](an "old hat")
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Opensource.svg/1000px-Opensource.svg.png&size=contain
 
-+++
-
-![](https://www.gnu.org/graphics/logo-fsf.org.png)
++++?image=https://www.gnu.org/graphics/logo-fsf.org.png&size=contain
 
 ### Freedom 0: Free to use
 Anyone can use it, however they like.
