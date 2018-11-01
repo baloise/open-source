@@ -45,7 +45,19 @@ Open Source Developer & Enthusiast since 2010
 
 +++
 
-## Open-Source <-> FSF principles
+![](https://www.gnu.org/graphics/logo-fsf.org.png)
+
+### Freedom 0: Free to use
+Anyone can use it, however they like.
+
+### Freedom 1: Free to copy
+Anyone can get a copy for the cost of media.
+
+### Freedom 2: Free to modify
+If I don't like how it works, I can change it.
+
+### Freedom 3: Free to distribute
+I can share my changes.
 
 +++?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
 
