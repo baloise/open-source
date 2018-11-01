@@ -40,7 +40,7 @@ Open Source Developer & Enthusiast since 2010
 
 +++?image=https://theundercoverchristian.files.wordpress.com/2013/07/free-beer.jpg
 
-+++?image=https://upload.wikimedia.org/wikipedia/commons/7/77/Free_beer_3.0_label_german.svg&size=contain
++++?image=https://upload.wikimedia.org/wikipedia/commons/a/a6/Freebeer_english3.2.svg&size=contain
 
 +++
 
