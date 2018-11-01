@@ -55,6 +55,8 @@ If I don't like how it works, I can change it.
 ### Freedom 3: Free to distribute
 I can share my changes.
 
++++
+
 # freedom
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg/200px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_06_Geteiltes_Wissen_Farbig.svg.png)
