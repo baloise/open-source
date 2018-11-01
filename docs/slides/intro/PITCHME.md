@@ -65,7 +65,7 @@ I can share my changes.
 ## share: ideas and knowledge
 
 ---?color=#36363f
-# @color[white](0 -> 1: beneftis)
+# @color[white](0 → 1: benefits)
 
 +++?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
 
