@@ -67,6 +67,9 @@ I can share my changes.
 ---?color=#36363f
 # @color[white](0 → 1: benefits)
 
+---
+# OSS Adoption Maturity
+
 +++?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
 
 ---?color=#f15825
