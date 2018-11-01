@@ -33,13 +33,14 @@ Open Source Developer & Enthusiast since 2010
 
 ![Open Source Ecology Project](https://player.vimeo.com/video/51764445)
 
-+++?image=https://theundercoverchristian.files.wordpress.com/2013/07/free-beer.jpg
-
-+++?image=https://upload.wikimedia.org/wikipedia/commons/7/77/Free_beer_3.0_label_german.svg&size=contain
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Opensource.svg/1000px-Opensource.svg.png&size=contain
 
 +++?image=https://www.gnu.org/graphics/logo-fsf.org.png&size=contain
+
++++?image=https://theundercoverchristian.files.wordpress.com/2013/07/free-beer.jpg
+
++++?image=https://upload.wikimedia.org/wikipedia/commons/7/77/Free_beer_3.0_label_german.svg&size=contain
 
 +++
 
