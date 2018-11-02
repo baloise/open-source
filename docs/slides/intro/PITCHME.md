@@ -213,7 +213,7 @@ idea(s) & vision(s)
 
 build high-level tech radar and roadmap
 
-automated BOMs creation for risk mitigation program
+automated BOMs analysis and risk mitigation program
 
 +++?color=#b8b8b8
 # 2. Contribute
