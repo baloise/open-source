@@ -65,8 +65,8 @@ I can share my changes.
 ## share: ideas and knowledge
 
 ---
-# openness 
-adoption maturity
+# methodology 
+OS (adoption) maturity model
 
 +++?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
 
