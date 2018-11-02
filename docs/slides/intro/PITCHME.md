@@ -114,16 +114,11 @@ explicit and implicit
 
 ![](http://2.bp.blogspot.com/-J5btAKhCKJ8/UW1bt20M1kI/AAAAAAAAA-8/8TOYEQWpB1A/s1600/Marwell_Animals.jpg)
 
-+++
-
-## PostgreSQL
-
-![](https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg)
-
++++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USS_Enterprise_FS_Charles_de_Gaulle.jpg/1280px-USS_Enterprise_FS_Charles_de_Gaulle.jpg&size=contain
 
-## @color[white](implicit: fleet)
+## @color[white](implicit)
 
 +++
 ## BOM
