@@ -220,7 +220,7 @@ Open Source @color[lightgreen](**best practice** for _trust_, _joined forces_ an
 
 ![](https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg)
 
-[IBM to Buy Red Hat](https://www.nytimes.com/2018/10/28/business/ibm-red-hat-cloud-computing.html), the top Linux Distributor, for $34 Billion
+[IBM to Buy Red Hat](https://www.nytimes.com/2018/10/28/business/ibm-red-hat-cloud-computing.html) for $34 Billion
 
 Red Hat: a company dedicated to Open Source since the beginning (1993) with no* exclusive intellectual property
 
