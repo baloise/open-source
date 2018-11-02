@@ -207,7 +207,7 @@ Companies have business models - Open Source can support those!
 
 [Microsoft acquires GitHub](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/) for $7.5 billion
 
-[Microsoft joins Open Invention Network - giving access to 60,000 patents](https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/)
+[Microsoft joins Open Invention Network](https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/) - giving access to 60,000 patents
 
 +++?image=https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg&size=contain
 
