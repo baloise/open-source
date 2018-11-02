@@ -15,7 +15,7 @@ Open Source Developer & Enthusiast since 2010
 
 +++
 
-## Q2 / Q3 - #Option 35: Open-Source
+## Q3 / Q4 - #Option 35: Open-Source
 
 ---
 
