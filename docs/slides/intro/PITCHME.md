@@ -121,7 +121,7 @@ explicit and implicit
 ## @color[#f15825](implicit)
 
 +++
-## BOM
+## [BOM](https://en.wikipedia.org/wiki/Bill_of_materials)
 
 ![](https://www.welt.de/img/wirtschaft/mobile157906274/1601626057-ci23x11-w1600/Volkswagen-Tiguan-in-Einzelteile-zerlegt.jpg)
 
