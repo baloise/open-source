@@ -73,14 +73,19 @@ OS (adoption) maturity model
 
 ---?color=#36363f
 # @color[white](0 → 1: benefits)
-## @color[orange](potential risk(s))
+## @color[orange](potential risks)
 
 +++?color=#36363f
 ## @color[lightgreen](no primary license costs)
+
 @color[white](→ no make or buy decision: __take__)
+
 @color[white](→ "developer" underground revolution)
+
 @color[orange](→ [TCO](https://en.wikipedia.org/wiki/Total_cost_of_ownership) not always taken into account)
+
 @color[white](→ usage often has (legal) implications)
+
 @color[orange](→ "most" is uncritical; except public APIs: AGPL)
 
 +++?color=#36363f
