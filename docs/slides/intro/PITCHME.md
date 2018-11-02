@@ -62,7 +62,7 @@ I can share my changes.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg/200px-Icon_Digitale_Nachhaltigkeit_Farbig.svg.png)
 
-meet requirements for [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#10_Voraussetzungen_der_digitalen_Nachhaltigkeit)
+supports [CSR](https://en.wikipedia.org/wiki/Corporate_social_responsibility) as well as [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#10_Voraussetzungen_der_digitalen_Nachhaltigkeit)
 
 ---
 # methodology
