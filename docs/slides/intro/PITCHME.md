@@ -173,6 +173,8 @@ regional / single project driven
 
 +++?image=https://rawgit.com/open-prevo/openprevo/master/doc/assets/img/logo.svg&size=contain
 
+# [OpenPrevo](https://github.com/open-prevo/openprevo#openprevo)
+
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
 
