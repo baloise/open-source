@@ -97,7 +97,9 @@ OS (adoption) maturity model
 
 @color[white](shared ownership of source code)
 
-@color[white](open data formats [de facto standards]: increase interoperability)
+@color[white](open data formats → de facto standards)
+
+@color[white](increase interoperability)
 
 @color[white](mitigation of risk)
 
