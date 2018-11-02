@@ -127,13 +127,13 @@ average ratio: ~80% open source components
 
 +++
 
-# potential
+# @color[lightgreen](potential)
 
 do not re-invent the wheel
 
 proved, used and tested by a huge, public community
 
-# risk
+# @color[orange](risk)
 
 consume: security and license violation(s)
 
