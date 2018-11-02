@@ -171,6 +171,10 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 regional / single project driven
 
++++?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain
+
+# [github.com/baloise](https://github.com/baloise)
+
 +++?image=https://rawgit.com/open-prevo/openprevo/master/doc/assets/img/logo.svg&size=contain
 
 # [OpenPrevo](https://github.com/open-prevo/openprevo#openprevo)
