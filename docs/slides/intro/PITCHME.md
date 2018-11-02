@@ -118,10 +118,12 @@ explicit and implicit
 
 +++?image=http://fleetmagazine.mercedes-benz.co.uk/imgs/articles/fleet-awards/rectangle-1.jpg&size=contain
 
-## @color[white](implicit)
+## @color[#f15825](implicit)
 
 +++
 ## BOM
+
+![](https://www.welt.de/img/wirtschaft/mobile157906274/1601626057-ci23x11-w1600/Volkswagen-Tiguan-in-Einzelteile-zerlegt.jpg)
 
 +++
 ## DINA
