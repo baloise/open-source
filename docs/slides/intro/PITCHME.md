@@ -93,15 +93,15 @@ OS (adoption) maturity model
 @color[orange](public APIs: check AGPL in back-end)
 
 +++?color=#36363f
-## @color[lightgreen](no vendor lock-in)
+## @color[lightgreen](mitigation of lock-in risks)
 
 @color[white](shared ownership of source code)
 
 @color[white](open data formats → de facto standards)
 
-@color[white](increase interoperability)
+@color[white](increased interoperability)
 
-@color[white](mitigation of risk)
+@color[lightgreen](vendor flexibility / neutrality)
 
 ---?color=#f15825
 # @color[white](1. Use)
