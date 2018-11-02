@@ -211,11 +211,23 @@ idea(s) & vision(s)
 +++?color=#f15825
 # @color[white](1. Use)
 
+build high-level tech radar
+
+automated BOMs for risk mitigation program
+
 +++?color=#b8b8b8
 # 2. Contribute
 
+fix budget (time and money) for activities
+
+for learning and education
+
 +++?color=#f69517
 # @color[white](3. Champion)
+
+lightweight [open source program team](https://baloise.github.io/open-source/docs/arc42/#section-design-os-team) offering guidance from 1-3
+
+establish [Baloise Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
 
 +++?color=#36363f
 # @color[white](4. Strategic Invest)
