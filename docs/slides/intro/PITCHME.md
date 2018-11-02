@@ -282,7 +282,7 @@ supporting (lightweight) guidance from 1-3
 3. Join working groups about vendor neutral vision: open-insurance
 
 ---
-# Thanks for this opportunity!
+# Thanks!
 
 ## Q&A
 
