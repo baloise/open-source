@@ -207,7 +207,9 @@ Open Source @color[lightgreen](**best practice** for _trust_, _joined forces_ an
 
 # 2018
 
-+++?image=https://www.atrsoft.com/wp-content/uploads/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1200x441.jpg&size=contain
++++
+
+![](https://www.atrsoft.com/wp-content/uploads/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1200x441.jpg)
 
 [acquires GitHub](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/) for $7.5 Billion
 
