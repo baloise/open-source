@@ -17,6 +17,8 @@ Open Source Developer & Enthusiast since 2010
 
 ## Q3 / Q4 - #Option 35: Open-Source
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/1024px-121212_2_OpenSwissKnife.png)
+
 ---
 
 # openness
@@ -192,6 +194,14 @@ Die [Mobiliar & Baloise](http://www.liima.org/#partner) Group
 
 +++
 ## Business Models
+
+Open Source is a _software development model_ and has **no business model**
+
+Companies have business models - Open Source can support those!
+
+[18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches) for companies and OSS
+
+Baloise Group: (services) being consumed and embedded in an open collaboration network
 
 +++?image=https://www.atrsoft.com/wp-content/uploads/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1200x441.jpg&size=contain
 
