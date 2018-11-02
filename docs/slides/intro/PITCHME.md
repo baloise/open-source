@@ -78,15 +78,19 @@ OS (adoption) maturity model
 +++?color=#36363f
 ## @color[lightgreen](no primary license costs)
 
-@color[white](no make or buy decision: __take__)
+@color[white](no make or buy decision: _take_)
+
+@color[white](on application and module level)
 
 @color[white]("developer" underground revolution)
 
 [TCO](https://en.wikipedia.org/wiki/Total_cost_of_ownership) @color[orange](not always taken into account)
 
-@color[white](→ usage often has (legal) implications)
+@color[white](usage often has (legal) implications)
 
-@color[orange](→ "most" is uncritical for Baloise; except public APIs: AGPL)
+@color[white](→ "most" is uncritical for Baloise)
+
+@color[orange](→ public APIs check AGPL in back-end)
 
 +++?color=#36363f
 ## @color[lightgreen](no vendor lock-in)
