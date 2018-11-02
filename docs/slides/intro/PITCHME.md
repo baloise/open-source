@@ -205,7 +205,7 @@ Open Source @color[lightgreen](**best practice** for _trust_, _joined forces_ an
 
 +++
 
-# 2018
+# Q3 and Q4 2018
 
 +++
 
