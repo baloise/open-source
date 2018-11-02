@@ -131,7 +131,9 @@ average ratio: ~80% open source components
 
 do not re-invent the wheel
 
-proved, used and tested by a huge, public community
+developed and used by huge, public communities
+
+continuous peer review
 
 # @color[orange](risk)
 
