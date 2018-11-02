@@ -177,11 +177,9 @@ regional / single project driven
 
 +++
 
-Die Mobiliar
+Die Mobiliar & Baloise Group
 
 ![](https://rawgit.com/liimaorg/brand/master/logos/Logo%20Liima%20RGB.svg)
-
-Baloise Group
 
 +++?image=https://rawgit.com/open-prevo/openprevo/master/doc/assets/img/logo.svg&size=contain
 
