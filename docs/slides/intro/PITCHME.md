@@ -200,11 +200,12 @@ Companies have business models - Open Source can support those see [18 business 
 +++
 ## Baloise Group
 
-@color[lightgreen]([services] being consumed [**vendor neutral**] and embedded in an open collaboration network)
+(services) @color[lightgreen](being consumed [**vendor neutral**] and embedded) building an open collaboration network
 
-@color[lightgreen](open source: trust and de-coupling / protection of each others business models)
+Open Source @color[lightgreen](**best practice** for trust and de-coupling / protection of each others business models)
 
 +++
+
 # 2018
 
 +++?image=https://www.atrsoft.com/wp-content/uploads/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1200x441.jpg&size=contain
