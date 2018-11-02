@@ -175,9 +175,11 @@ regional / single project driven
 
 # [baloise](https://github.com/baloise)
 
-+++?image=https://rawgit.com/liimaorg/brand/master/logos/Logo%20Liima%20RGB.svg&size=contain
++++
 
 Die Mobiliar
+
+![](https://rawgit.com/liimaorg/brand/master/logos/Logo%20Liima%20RGB.svg)
 
 Baloise Group
 
