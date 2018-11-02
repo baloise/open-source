@@ -125,7 +125,7 @@ explicit and implicit
 
 ![](https://www.welt.de/img/wirtschaft/mobile157906274/1601626057-ci23x11-w1600/Volkswagen-Tiguan-in-Einzelteile-zerlegt.jpg)
 
-[BOM](https://en.wikipedia.org/wiki/Bill_of_materials) for PolicyCenter and BillingCenter SDKs: 60+%
+[BOM](https://en.wikipedia.org/wiki/Bill_of_materials) for PC and BC SDKs: ~750/1200 = 60+%
 
 average ratio: ~80% open source components
 
