@@ -80,7 +80,7 @@ OS (adoption) maturity model
 
 @color[white](no make or buy decision: _take_)
 
-@color[white](on application and module level)
+@color[white](on application and _module_ level)
 
 @color[white]("developer" underground revolution)
 
@@ -88,15 +88,14 @@ OS (adoption) maturity model
 
 @color[white](usage often has (legal) implications)
 
-@color[white](→ "most" is uncritical for Baloise)
+@color[lightgreen]("most" is uncritical for Baloise)
 
-@color[orange](→ public APIs check AGPL in back-end)
+@color[orange](public APIs: check AGPL in back-end)
 
 +++?color=#36363f
 ## @color[lightgreen](no vendor lock-in)
 
 @color[white](mitigation of risk)
-
 
 
 ---?color=#f15825
