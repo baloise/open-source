@@ -71,8 +71,6 @@ supports [CSR](https://en.wikipedia.org/wiki/Corporate_social_responsibility) as
 
 ![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
 
-OS (adoption) maturity model
-
 ---?color=#36363f
 # @color[white](0 → 1:) @color[lightgreen](benefits)
 
@@ -201,7 +199,7 @@ Companies have business models - Open Source can support those!
 
 [18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches) for companies and OSS
 
-Baloise Group: (services) being consumed and embedded in an open collaboration network
+# @color[lightgreen](Baloise Group: (services) being consumed and embedded in an open collaboration network)
 
 +++?image=https://www.atrsoft.com/wp-content/uploads/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1200x441.jpg&size=contain
 
