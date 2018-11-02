@@ -282,7 +282,9 @@ supporting (lightweight) guidance from 1-3
 3. Join working groups about vendor neutral vision: open-insurance
 
 ---
-# Q&A
+# Thanks for this opportunity!
+
+## Q&A
 
 ![](https://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgithub.com%2Fbaloise%2Fopen-source&amp;format=png&amp;ecc=H)
 
