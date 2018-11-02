@@ -212,13 +212,17 @@ Open Source @color[lightgreen](**best practice** for trust and de-coupling / pro
 
 +++
 
-[Microsoft acquires GitHub](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/) for $7.5 billion
+[Microsoft acquires GitHub](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/) for $7.5 Billion
 
 [Microsoft joins Open Invention Network](https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/) - giving access to 60,000 patents
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg&size=contain
 
 ![](https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg)
+
++++
+
+[IBM to Buy Red Hat](https://www.nytimes.com/2018/10/28/business/ibm-red-hat-cloud-computing.html), the top Linux Distributor, for $34 Billion
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/f/f7/Umbrella-C7068.jpg&size=contain&color=black
 
