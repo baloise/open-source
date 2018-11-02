@@ -125,10 +125,6 @@ explicit and implicit
 
 average ratio: ~80% open source components
 
-+++
-## summary
-
-
 
 ---?color=#b8b8b8
 # 2. Contribute
@@ -158,6 +154,21 @@ joined a couple of not-for-profit organizations
 CH-Open
 
 Eclipse Foundation
+
+---
+# (next) steps
+
++++?color=#f15825
+# @color[white](1. Use)
+
++++?color=#b8b8b8
+# 2. Contribute
+
++++?color=#f69517
+# @color[white](3. Champion)
+
++++?color=#36363f
+# @color[white](4. Strategic Invest)
 
 ---
 # Q&A
