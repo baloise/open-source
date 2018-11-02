@@ -199,7 +199,7 @@ Companies have business models - Open Source can support those!
 
 [18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches) for companies and OSS
 
-@color[lightgreen](Baloise Group: (services) being consumed and embedded in an open collaboration network)
+@color[lightgreen](Baloise Group: [services] being consumed and embedded in an open collaboration network)
 
 +++?image=https://www.atrsoft.com/wp-content/uploads/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1200x441.jpg&size=contain
 
