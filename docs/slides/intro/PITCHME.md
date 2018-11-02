@@ -194,6 +194,8 @@ regional / single project driven
 
 recommendation(s)
 
+idea(s) & vision(s)
+
 +++?color=#f15825
 # @color[white](1. Use)
 
