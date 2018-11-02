@@ -195,11 +195,14 @@ Die [Mobiliar & Baloise](http://www.liima.org/#partner) Group
 
 Open Source is a _software development model_ and has **no business model**
 
-Companies have business models - Open Source can support those!
-
-[18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches) for companies and OSS
+Companies have business models - Open Source can support those! ([18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches) for companies and OSS)
 
 @color[lightgreen](Baloise Group: [services] being consumed [**vendor neutral**] and embedded in an open collaboration network)
+
+@color[lightgreen](open source: trust and de-coupling / protection of each others business models)
+
++++
+# 2018
 
 +++?image=https://www.atrsoft.com/wp-content/uploads/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1200x441.jpg&size=contain
 
@@ -209,7 +212,9 @@ Companies have business models - Open Source can support those!
 
 [Microsoft joins Open Invention Network](https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/) - giving access to 60,000 patents
 
-+++?image=https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg&size=contain
++++?image=https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg&size=contain
+
+![](https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg)
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/f/f7/Umbrella-C7068.jpg&size=contain&color=black
 
