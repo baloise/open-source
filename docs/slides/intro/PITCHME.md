@@ -72,7 +72,7 @@ I can share my changes.
 OS (adoption) maturity model
 
 ---?color=#36363f
-# @color[white](0 → 1: benefits)
+# @color[white](0 → 1:) @color[lightgreen](benefits)
 ## @color[orange](potential risks)
 
 +++?color=#36363f
@@ -95,8 +95,11 @@ OS (adoption) maturity model
 +++?color=#36363f
 ## @color[lightgreen](no vendor lock-in)
 
-@color[white](mitigation of risk)
+@color[white](shared ownership of source code)
 
+@color[white](open data formats [de facto standards]: increase interoperability)
+
+@color[white](mitigation of risk)
 
 ---?color=#f15825
 # @color[white](1. Use)
