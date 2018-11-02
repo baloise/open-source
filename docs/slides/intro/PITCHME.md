@@ -125,6 +125,17 @@ explicit and implicit
 
 average ratio: ~80% open source components
 
++++
+
+# potential
+
+do not re-invent the wheel
+
+proved, used and tested by a huge, public community
+
+# risk
+
+consume: security and license violation(s)
 
 ---?color=#b8b8b8
 # 2. Contribute
@@ -156,8 +167,12 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 ---?color=#f69517
 # @color[white](3. Champion)
 
+
+
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
+
+
 
 +++
 ## Business Models
