@@ -127,7 +127,7 @@ explicit and implicit
 
 [BOM](https://en.wikipedia.org/wiki/Bill_of_materials) for PolicyCenter and BillingCenter SDKs: 60+%
 
-average ratio: ~80% open source components within application(s)
+average ratio: ~80% open source components
 
 +++
 ## DINA
