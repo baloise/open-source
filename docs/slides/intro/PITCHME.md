@@ -65,10 +65,11 @@ I can share my changes.
 ## share: ideas and knowledge
 
 ---
-# methodology 
-OS (adoption) maturity model
+# methodology
 
-+++?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
+![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
+
+OS (adoption) maturity model
 
 ---?color=#36363f
 # @color[white](0 → 1: benefits)
