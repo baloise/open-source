@@ -211,14 +211,18 @@ idea(s) & vision(s)
 +++?color=#f15825
 # @color[white](1. Use)
 
-build high-level tech radar and roadmap
+1. build high-level tech radar and roadmap
 
-automated BOMs analysis and risk mitigation program
+2. automated BOMs analysis and risk mitigation program
+
+3. success stories about OSS @ Baloise
 
 +++?color=#b8b8b8
 # 2. Contribute
 
-fix budget (time and money) for activities to learn and educate
+1. fix budget (time and money) for activities to learn and educate
+
+2. clear commitment to open source @ Baloise
 
 +++?color=#f69517
 # @color[white](3. Champion)
