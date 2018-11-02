@@ -80,7 +80,7 @@ OS (adoption) maturity model
 
 @color[white](no make or buy decision: _take_)
 
-@color[white](on application and _module_ level)
+@color[white](on application and _library_ level)
 
 @color[white]("developer" underground revolution)
 
@@ -106,13 +106,26 @@ OS (adoption) maturity model
 ---?color=#f15825
 # @color[white](1. Use)
 
+explicit and implicit
+
++++
+
+## explicit: wide variety 
+
+![](http://2.bp.blogspot.com/-J5btAKhCKJ8/UW1bt20M1kI/AAAAAAAAA-8/8TOYEQWpB1A/s1600/Marwell_Animals.jpg)
+
++++
+
+## PostgreSQL
+
+![](https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg)
+
+
 +++
 ## fleet
 
 +++
 ## BOM
-
-+++?image=http://2.bp.blogspot.com/-J5btAKhCKJ8/UW1bt20M1kI/AAAAAAAAA-8/8TOYEQWpB1A/s1600/Marwell_Animals.jpg&size=contain
 
 +++
 ## DINA
