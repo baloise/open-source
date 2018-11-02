@@ -277,11 +277,9 @@ supporting (lightweight) guidance from 1-3
 
 1. Commitment to Open Source @ Baloise
 
-2. Partner up
+2. Partner up: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](https://www.eclipse.org/org/)
 
-[CH-Open](https://www.ch-open.ch), [Eclipse Foundation](https://www.eclipse.org/org/)
-
-3. Vendor neutral vision: [open-insurance.org](https://open-insurance.org)
+3. Join working groups about vendor neutral vision: open-insurance
 
 ---
 # Q&A
