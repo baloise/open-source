@@ -194,7 +194,7 @@ Die [Mobiliar & Baloise](http://www.liima.org/#partner) Group
 
 Open Source is a _software development model_ and has **no business model**
 
-Companies have business models - Open Source can support those see [18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches)!
+Companies have business models - Open Source can support those (see [18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches))!
 
 +++
 ## Baloise Group
