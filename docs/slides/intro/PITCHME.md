@@ -216,11 +216,9 @@ Open Source @color[lightgreen](**best practice** for _trust_, _joined forces_ an
 
 [Microsoft joins Open Invention Network](https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/) - giving access to 60,000 patents
 
-+++?image=https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg&size=contain
++++?color=grey
 
 ![](https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg)
-
-+++
 
 [IBM to Buy Red Hat](https://www.nytimes.com/2018/10/28/business/ibm-red-hat-cloud-computing.html), the top Linux Distributor, for $34 Billion
 
