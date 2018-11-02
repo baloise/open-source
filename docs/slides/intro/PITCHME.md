@@ -64,22 +64,28 @@ I can share my changes.
 
 ## share: ideas and knowledge
 
----?color=#36363f
-# @color[white](0 → 1: benefits)
-
 ---
-# OSS Adoption Maturity
+# openness 
+adoption maturity
 
 +++?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
+
+---?color=#36363f
+# @color[white](0 → 1: benefits)
 
 ---?color=#f15825
 # @color[white](1. Use)
 
 +++
-## BOM
+## fleet
 
 +++
-## a Zoo
+## BOM
+
++++?image=http://2.bp.blogspot.com/-J5btAKhCKJ8/UW1bt20M1kI/AAAAAAAAA-8/8TOYEQWpB1A/s1600/Marwell_Animals.jpg&size=contain
+
++++
+## DINA
 
 ---?color=#b8b8b8
 # 2. Contribute
