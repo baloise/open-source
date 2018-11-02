@@ -197,7 +197,10 @@ Open Source is a _software development model_ and has **no business model**
 
 Companies have business models - Open Source can support those see [18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches)!
 
-@color[lightgreen](Baloise Group: [services] being consumed [**vendor neutral**] and embedded in an open collaboration network)
++++
+## Baloise Group
+
+@color[lightgreen]([services] being consumed [**vendor neutral**] and embedded in an open collaboration network)
 
 @color[lightgreen](open source: trust and de-coupling / protection of each others business models)
 
