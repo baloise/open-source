@@ -88,7 +88,7 @@ OS (adoption) maturity model
 
 @color[white](usage often has (legal) implications)
 
-@color[lightgreen]("most" is uncritical for Baloise)
+[most](https://baloise.github.io/open-source/docs/arc42/#_using_existing_open_source) @color[lightgreen](is uncritical for Baloise)
 
 @color[orange](public APIs: check AGPL in back-end)
 
