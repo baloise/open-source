@@ -73,6 +73,7 @@ OS (adoption) maturity model
 
 ---?color=#36363f
 # @color[white](0 → 1:) @color[lightgreen](benefits)
+
 ## @color[orange](potential risks)
 
 +++?color=#36363f
@@ -121,9 +122,12 @@ explicit and implicit
 ## @color[#f15825](implicit)
 
 +++
-## [BOM](https://en.wikipedia.org/wiki/Bill_of_materials)
 
 ![](https://www.welt.de/img/wirtschaft/mobile157906274/1601626057-ci23x11-w1600/Volkswagen-Tiguan-in-Einzelteile-zerlegt.jpg)
+
+[BOM](https://en.wikipedia.org/wiki/Bill_of_materials) for PC and BC SDK: 60%+ OSS components
+
+average BOM ratio: ~80% open source components  
 
 +++
 ## DINA
