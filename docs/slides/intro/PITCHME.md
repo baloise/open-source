@@ -220,7 +220,7 @@ idea(s) & vision(s)
 +++?color=#36363f
 # @color[white](4. Strategic Invest)
 
-partnerships: CH-Open (regional), Eclipse Foundation (international)
+partner up: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](https://www.eclipse.org/org/)
 
 ---
 # Q&A
