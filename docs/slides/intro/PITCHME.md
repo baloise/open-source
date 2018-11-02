@@ -199,9 +199,15 @@ Companies have business models - Open Source can support those!
 
 [18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches) for companies and OSS
 
-@color[lightgreen](Baloise Group: [services] being consumed and embedded in an open collaboration network)
+@color[lightgreen](Baloise Group: [services] being consumed [**vendor neutral**] and embedded in an open collaboration network)
 
 +++?image=https://www.atrsoft.com/wp-content/uploads/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1200x441.jpg&size=contain
+
++++
+
+[Microsoft acquires GitHub](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/) for $7.5 billion
+
+[Microsoft joins Open Invention Network - giving access to 60,000 patents](https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/)
 
 +++?image=https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg&size=contain
 
