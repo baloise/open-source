@@ -169,12 +169,12 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 ---?color=#f69517
 # @color[white](3. Champion)
 
+regional / single project driven
 
++++?image=https://rawgit.com/open-prevo/openprevo/master/doc/assets/img/logo.svg&size=contain
 
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
-
-
 
 +++
 ## Business Models
@@ -185,16 +185,9 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/f/f7/Umbrella-C7068.jpg&size=contain&color=black
 
+---?image=https://www.knowledgewave.com/hubfs/blog_images/iStock_3_steps.jpg&size=contain
+
 +++
-## Cross-cutting activities
-
-joined a couple of not-for-profit organizations
-
-CH-Open
-
-Eclipse Foundation
-
----
 # (next) steps
 
 recommendation(s)
@@ -210,6 +203,8 @@ recommendation(s)
 
 +++?color=#36363f
 # @color[white](4. Strategic Invest)
+
+partnerships: CH-Open (regional), Eclipse Foundation (international)
 
 ---
 # Q&A
