@@ -169,7 +169,9 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 ---?color=#f69517
 # @color[white](3. Champion)
 
-regional / single project driven
+being consumed
+
+regional / single project
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain
 
@@ -220,21 +222,23 @@ idea(s) & vision(s)
 +++?color=#b8b8b8
 # 2. Contribute
 
-1. Budget (time and money) for activities to learn and educate
+1. Budget (time and money) for activities to learn and educate @ Baloise
 
-2. Commitment to Open Source @ Baloise
+2. Sponsoring of strategic projects e.g. Java / JakartaEE
 
 +++?color=#f69517
 # @color[white](3. Champion)
 
-1. [Open source program team](https://baloise.github.io/open-source/docs/arc42/#section-design-os-team)
+1. [Open Source Program - Team](https://baloise.github.io/open-source/docs/arc42/#section-design-os-team)
 
 2. [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
 
-supportign lightweight guidance from 1-3
+supporting (lightweight) guidance from 1-3
 
 +++?color=#36363f
 # @color[white](4. Strategic Invest)
+
+1. Commitment to Open Source @ Baloise
 
 partner up: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](https://www.eclipse.org/org/)
 
