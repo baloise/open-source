@@ -226,13 +226,13 @@ Red Hat: a company dedicated to Open Source since the beginning (1993) with no* 
 
 +++
 
-# Open-Insurance
+## space for first-mover: open-insurance
 
 ![logo](https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png)
 
-Q1: We @ Baloise proposed term and registered domains [open-insurance.org](https://open-insurance.org)
+Q1, Q2: we @ Baloise proposed term and registered domains [open-insurance.org](https://open-insurance.org)
 
-Q3: Open Insurance initiative ([OPIN](https://openinsurance.io))
+Q3: Open Insurance initiative ([OPIN](https://openinsurance.io)) - incl. trademarks
 
 Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to-stay/)
 
