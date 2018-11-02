@@ -135,11 +135,11 @@ average ratio: ~80% open source components
 
 ![](https://png.pngtree.com/element_origin_min_pic/17/08/03/08b95a8c29ae5dd081aae3c70e1d8595.jpg)
 
-## [guerrilla gardening](https://en.wikipedia.org/wiki/Guerrilla_gardening)
+[guerrilla gardening](https://en.wikipedia.org/wiki/Guerrilla_gardening)
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain&color=#b8b8b8
 @title[Github]
-# [github.com/baloise](https://github.com/baloise)
+## [github.com/baloise](https://github.com/baloise)
 
 @color[white](founded in 2013: 5 year Happy Birthday!)
 
