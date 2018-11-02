@@ -202,7 +202,7 @@ Companies have business models - Open Source can support those see [18 business 
 
 (services) @color[lightgreen](being consumed [**vendor neutral**] and embedded) building an open collaboration network
 
-Open Source @color[lightgreen](**best practice** for __trust__, __joined forces__ and at the same time __protecting from each others business models__)
+Open Source @color[lightgreen](**best practice** for _trust_, _joined forces_ and at the same time _protecting from each others business models_)
 
 +++
 
@@ -223,6 +223,8 @@ Open Source @color[lightgreen](**best practice** for __trust__, __joined forces_
 +++
 
 [IBM to Buy Red Hat](https://www.nytimes.com/2018/10/28/business/ibm-red-hat-cloud-computing.html), the top Linux Distributor, for $34 Billion
+
+Red Hat: a company dedicated to Open Source since the beginning (1993) with no* exclusive intellectual property
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/f/f7/Umbrella-C7068.jpg&size=contain&color=black
 
