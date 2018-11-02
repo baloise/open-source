@@ -129,13 +129,13 @@ average ratio: ~80% open source components
 ---?color=#b8b8b8
 # 2. Contribute
 
-(Bug) reports, documentation, code fixes, blogs, kudos, project(s)
+(bug) reports, documentation, code fixes, blogs, kudos, project(s)
 
 +++
 
 ![](https://png.pngtree.com/element_origin_min_pic/17/08/03/08b95a8c29ae5dd081aae3c70e1d8595.jpg)
 
-[guerrilla gardening](https://en.wikipedia.org/wiki/Guerrilla_gardening)
+a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardening)
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain&color=#b8b8b8
 @title[Github]
@@ -145,7 +145,7 @@ average ratio: ~80% open source components
 
 @color[white](50+ repos, 4 plugins with total ~47.000 installations on Eclipse and Atlassian marketplace)
 
-@color[white](60+ people from Baloise)
+@color[white](60+ people from Baloise Group)
 
 @color[white](10+ external contributors fom Germany, California, Memphis, Tokyo)
 
