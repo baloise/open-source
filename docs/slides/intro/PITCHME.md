@@ -177,7 +177,7 @@ regional / single project driven
 
 +++
 
-Die Mobiliar & Baloise Group
+Die [Mobiliar & Baloise](http://www.liima.org/#partner) Group
 
 ![](https://rawgit.com/liimaorg/brand/master/logos/Logo%20Liima%20RGB.svg)
 
