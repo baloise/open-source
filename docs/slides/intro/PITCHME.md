@@ -116,7 +116,7 @@ explicit and implicit
 
 +++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain
 
-+++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USS_Enterprise_FS_Charles_de_Gaulle.jpg/1280px-USS_Enterprise_FS_Charles_de_Gaulle.jpg&size=contain
++++?image=http://fleetmagazine.mercedes-benz.co.uk/imgs/articles/fleet-awards/rectangle-1.jpg&size=contain
 
 ## @color[white](implicit)
 
