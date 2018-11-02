@@ -224,7 +224,7 @@ Q3 and Q4
 
 Red Hat: a company dedicated to Open Source since the beginning (1993) with no* exclusive intellectual property
 
-+++?image=https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png&size=contain
++++?image=https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png
 
 ## space for first-mover: open-insurance
 
