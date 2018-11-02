@@ -129,7 +129,19 @@ average ratio: ~80% open source components
 ---?color=#b8b8b8
 # 2. Contribute
 
+(Bug) reports, documentation, code fixes, blogs, kudos, project(s)
+
 +++?image=https://png.pngtree.com/element_origin_min_pic/17/08/03/08b95a8c29ae5dd081aae3c70e1d8595.jpg&size=contain
+
++++?image=https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png&size=contain&color=#b8b8b8
+@title[Github]
+https://github.com/baloise
+* founded in 2013: 5 year Happy Birthday!
+* 50+ repos, 4 plugins with total ~47.000 installations on Eclipse and Atlassian marketplace
+* 60+ people from Baloise
+* 10+ external contributors fom Germany, California, Memphis, Tokyo
+* translated into german, english, french and ...
+* everyone is encouraged to participate
 
 ---?color=#f69517
 # @color[white](3. Champion)
