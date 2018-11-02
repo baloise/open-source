@@ -109,11 +109,7 @@ OS (adoption) maturity model
 
 explicit and implicit
 
-+++
-
-## explicit: wide variety 
-
-![](http://2.bp.blogspot.com/-J5btAKhCKJ8/UW1bt20M1kI/AAAAAAAAA-8/8TOYEQWpB1A/s1600/Marwell_Animals.jpg)
++++?image=http://2.bp.blogspot.com/-J5btAKhCKJ8/UW1bt20M1kI/AAAAAAAAA-8/8TOYEQWpB1A/s1600/Marwell_Animals.jpg&size=contain
 
 +++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain
 
@@ -130,7 +126,9 @@ explicit and implicit
 average ratio: ~80% open source components
 
 +++
-## DINA
+## summary
+
+
 
 ---?color=#b8b8b8
 # 2. Contribute
