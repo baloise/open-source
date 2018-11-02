@@ -202,7 +202,7 @@ Companies have business models - Open Source can support those see [18 business 
 
 (services) @color[lightgreen](being consumed [**vendor neutral**] and embedded) building an open collaboration network
 
-Open Source @color[lightgreen](**best practice** for trust and de-coupling / protection of each others business models)
+Open Source @color[lightgreen](**best practice** for __trust__, __joined forces__ and at the same time __protecting from each others business models__)
 
 +++
 
