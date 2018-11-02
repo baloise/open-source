@@ -35,7 +35,6 @@ Open Source Developer & Enthusiast since 2010
 
 ![Open Source Ecology Project](https://player.vimeo.com/video/51764445)
 
-
 +++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Opensource.svg/1000px-Opensource.svg.png&size=contain
 
 +++?image=https://www.gnu.org/graphics/logo-fsf.org.png&size=contain
@@ -210,11 +209,9 @@ Open Source @color[lightgreen](**best practice** for _trust_, _joined forces_ an
 
 +++?image=https://www.atrsoft.com/wp-content/uploads/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1200x441.jpg&size=contain
 
-+++
+[acquires GitHub](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/) for $7.5 Billion
 
-[Microsoft acquires GitHub](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/) for $7.5 Billion
-
-[Microsoft joins Open Invention Network](https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/) - giving access to 60,000 patents
+[joins Open Invention Network](https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/) - giving access to 60,000 patents
 
 +++?color=grey
 
@@ -267,7 +264,9 @@ supporting (lightweight) guidance from 1-3
 
 1. Commitment to Open Source @ Baloise
 
-partner up: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](https://www.eclipse.org/org/)
+2. Partner up for 4.
+
+[CH-Open](https://www.ch-open.ch), [Eclipse Foundation](https://www.eclipse.org/org/)
 
 ---
 # Q&A
@@ -277,21 +276,3 @@ partner up: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](https://www.
 [available @ Github](https://github.com/baloise/open-source)
 
 licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
----
-
-+++
-
-## hardware (0th century)
-
-patents ([15th century](https://en.wikipedia.org/wiki/Patent#History))
-
-trademarks ([13th century](https://en.wikipedia.org/wiki/Trademark#History))
-
-## software (20th century)
-
-intellectual property ([17th century](https://en.wikipedia.org/wiki/Intellectual_property#History))
-
-copy-rights / -lefts: open licensing models
-
-started in 1980s / -90s
