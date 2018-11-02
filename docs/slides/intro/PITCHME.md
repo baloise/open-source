@@ -211,25 +211,27 @@ idea(s) & vision(s)
 +++?color=#f15825
 # @color[white](1. Use)
 
-1. build high-level tech radar and roadmap
+1. Build high-level tech radar and roadmap
 
-2. automated BOMs analysis and risk mitigation program
+2. Automated BOMs analysis and risk mitigation program
 
-3. success stories about OSS @ Baloise
+3. Success stories about OSS @ Baloise
 
 +++?color=#b8b8b8
 # 2. Contribute
 
-1. fix budget (time and money) for activities to learn and educate
+1. Budget (time and money) for activities to learn and educate
 
-2. clear commitment to open source @ Baloise
+2. Commitment to Open Source @ Baloise
 
 +++?color=#f69517
 # @color[white](3. Champion)
 
-lightweight [open source program team](https://baloise.github.io/open-source/docs/arc42/#section-design-os-team) offering guidance from 1-3
+1. [Open source program team](https://baloise.github.io/open-source/docs/arc42/#section-design-os-team)
 
-establish [Baloise Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
+2. [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
+
+supportign lightweight guidance from 1-3
 
 +++?color=#36363f
 # @color[white](4. Strategic Invest)
