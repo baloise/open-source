@@ -199,13 +199,14 @@ Companies have business models - Open Source can support those (see [18 business
 +++
 ## Baloise Group
 
-(services) @color[lightgreen](being consumed [**vendor neutral**] and embedded) building an open collaboration network
+(our services) @color[lightgreen](being consumed [**vendor neutral**] and embedded) building an open collaboration network
 
 Open Source @color[lightgreen](**best practice** for _trust_, _joined forces_ and at the same time _protecting from each others business models_)
 
 +++
 
-# Q3 and Q4 2018
+# 2018
+Q3 and Q4
 
 +++
 
@@ -223,7 +224,17 @@ Open Source @color[lightgreen](**best practice** for _trust_, _joined forces_ an
 
 Red Hat: a company dedicated to Open Source since the beginning (1993) with no* exclusive intellectual property
 
-+++?image=https://upload.wikimedia.org/wikipedia/commons/f/f7/Umbrella-C7068.jpg&size=contain&color=black
++++
+
+# Open-Insurance
+
+![logo](https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png)
+
+Q1: We @ Baloise proposed term and registered domains [open-insurance.org](https://open-insurance.org)
+
+Q3: Open Insurance initiative ([OPIN](https://openinsurance.io))
+
+Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to-stay/)
 
 ---?image=https://www.knowledgewave.com/hubfs/blog_images/iStock_3_steps.jpg&size=contain
 
@@ -266,9 +277,11 @@ supporting (lightweight) guidance from 1-3
 
 1. Commitment to Open Source @ Baloise
 
-2. Partner up for 4.
+2. Partner up
 
 [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](https://www.eclipse.org/org/)
+
+3. Vendor neutral vision: [open-insurance.org](https://open-insurance.org)
 
 ---
 # Q&A
