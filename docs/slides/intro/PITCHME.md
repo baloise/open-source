@@ -201,7 +201,7 @@ Companies have business models - Open Source can support those (see [18 business
 
 (our services) @color[lightgreen](being consumed [**vendor neutral**] and embedded) building an open collaboration network
 
-Open Source @color[lightgreen](**best practice**) for _trust_, _joined forces_ and at the same time _being protected_ from each others business models
+Open Source @color[lightgreen](**best practice**) for _trust_, _joined forces_ and at the same time _being protected_ from each other
 
 +++
 
@@ -275,11 +275,11 @@ supporting (lightweight) guidance from 1-3
 +++?color=#36363f
 # @color[white](4. Strategic Invest)
 
-1. Commitment to Open Source @ Baloise
+1. Commitment to Openness @ Baloise - new default?
 
-2. Partner up: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](https://www.eclipse.org/org/)
+2. Partner up: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](https://www.eclipse.org/org/), ...
 
-3. Join working groups about vendor neutral vision: open-insurance
+3. Join **industry working groups** about vendor neutral vision: open-insurance
 
 ---
 # Thanks!
