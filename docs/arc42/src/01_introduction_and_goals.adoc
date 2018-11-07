@@ -16,7 +16,9 @@ This document is therefore a guide, primarily for Baloise employees, on how to u
 The document should support and enable "permissionless innovation" (ask for forgiveness, not permission) as we want to foster a new default to openness at Baloise.
 
 === Requirements Overview
-
+.OS maturity model
+[#img-os-maturity-model]
+[caption="Figure 1: ",link=https://blogs.eclipse.org/post/mike-milinkovich/maturity-models-open-source-adoption]
 image::os-maturity-model.png[OS maturity model]
 
 This document is supposed to cover all three engineering driven steps of: using open source, contributing to open source as well as championing an individual open source project https://baloise.github.io/open-source/docs/md/goals/uplift.html#legend[enabling an uplift] and being ready for strategic investments in that area.

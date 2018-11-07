@@ -15,7 +15,9 @@ For both using and releasing Open source Software, there is the challenge of und
 * Use **Creative Commons licenses for non-source code** content 
 
 ==== Overview
-// https://timreview.ca/ojs/february11/february11_daffara1.png
+.OSS license spectrum
+[#img-oss-license-spectrum]
+[caption="Figure 2: ",link=https://timreview.ca/article/416]
 image::oss-license-spectrum.png[OSS license spectrum]
 
 Overall there are 3 types of licenses which you can use:
@@ -113,6 +115,9 @@ As for now we recommend using creative commons licensed content. Giving Attribut
 
 If the content is licensed with a NonCommercial (nc) e.g. https://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0] attribute you can not use that content at Baloise without further clarification.
 
+.Creative commons license spectrum by Shaddim via Wikimedia Commons
+[#img-cc-license-spectrum]
+[caption="Figure 3: ",link=https://creativecommons.org/share-your-work/licensing-types-examples/]
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Creative_commons_license_spectrum.svg/500px-Creative_commons_license_spectrum.svg.png[Creative commons license spectrum]
 
 A https://creativecommons.org/share-your-work/public-domain/freeworks/[set of the licences] are published and standardized by https://en.wikipedia.org/wiki/Creative_Commons[Creative Commons (CC) is an American non-profit organization].

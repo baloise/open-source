@@ -3,7 +3,7 @@
 :keywords: Zalando, documentation, open source
 
 :numbered!:
-**About Zalando**
+=== Zalando
 
 [role="lead"]
 Zalando SE, Open Source

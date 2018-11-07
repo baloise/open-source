@@ -1,8 +1,12 @@
 [[section-attribution]]
 == Attributions
 
+in alphabetical order
+
 include::about-arc42.adoc[]
 
-include::about-zalando.adoc[]
+include::about-eclipse-foundation.adoc[]
 
 include::about-university-of-bern.adoc[]
+
+include::about-zalando.adoc[]

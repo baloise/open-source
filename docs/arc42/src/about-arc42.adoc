@@ -3,7 +3,7 @@
 :keywords: software-architecture, documentation, template, arc42
 
 :numbered!:
-**About arc42**
+=== arc42
 
 [role="lead"]
 arc42, the Template for documentation of
