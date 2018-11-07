@@ -154,3 +154,23 @@ When you have checked off the compliance checklist and prepared your code for re
 
 When all the above points are in order and the review has been passed, the project is released
 on Baloise-Github Organization marked as an Incubator project.
+
+===== Incubator projects
+
+New projects shall be flagged as an "incubator project" until their maturity has been proven.
+
+.Incubator projects - visual flag
+[#img-release-incubator]
+[caption="Figure 4: ",link=https://github.com/eclipse-architecture/eclipse-development-process/blob/master/eclipse_development_process.adoc#623-incubation-phase]
+image::https://img.icons8.com/color/48/000000/egg-incubator.png[Incubator project]
+
+In addition to that the projects version number must reflect this status using a leading 0 in its major version; e.g. `0.47.11`.
+
+===== Maturity metrics
+
+All of the following maturity metrics shall be met before leaving the "incubator project" status
+
+. tbd
+. tbd
+. tbd
+. tbd
