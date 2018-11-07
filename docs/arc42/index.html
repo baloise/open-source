@@ -2024,7 +2024,7 @@ table.CodeRay td.code>pre{padding:0}
 <li><a href="#section-concepts">5. Cross-cutting Concepts</a>
 <ul class="sectlevel2">
 <li><a href="#section-licenses">5.1. Licensing</a></li>
-<li><a href="#section-dco">5.2. Certificate of Origin</a></li>
+<li><a href="#_certificate_of_origin">5.2. Certificate of Origin</a></li>
 <li><a href="#section-sustainability">5.3. Digital Sustainability</a></li>
 </ul>
 </li>
@@ -2075,7 +2075,7 @@ table.CodeRay td.code>pre{padding:0}
 <p>Despite widespread use, there are still many misconceptions and uncertainties for Baloise employees engaging in Open Source. Questions on legal issues, licensing and what is deemed confidential or internal information is common.</p>
 </div>
 <div class="paragraph">
-<p>This document is therefore a guide, primarily for Baloise employees, on how to adopt, modify and release Open Source code. There are a few references to internal Baloise sites or services, but with an effort to limit our use of internal resources.</p>
+<p>This document is therefore a guide, primarily for Baloise employees, on how to use, adopt, modify and release Open Source code. There are a few references to internal Baloise sites or services, but with an effort to limit our use of internal resources.</p>
 </div>
 <div class="paragraph">
 <p>The document should support and enable "permissionless innovation" (ask for forgiveness, not permission) as we want to foster a new default to openness at Baloise.</p>
@@ -2186,14 +2186,19 @@ table.CodeRay td.code>pre{padding:0}
 <p>Most open source code can be used in Baloise projects, but everyone has a responsibility to ensure that we respect and comply with the <a href="#section-licenses">Licensing</a>.</p>
 </div>
 <div class="paragraph">
-<p>We recommend checking the projects maturity before (heavily) relying on it. Website like e.g. <a href="https://www.openhub.net/p/apache">Apache HTTP Server at OpenHub</a> can help quickly identifying relevant metrics (activity, users, etc.).</p>
+<p>We recommend checking the project&#8217;s maturity, activity and heterogeneity of community before (heavily) relying on it. Websites like e.g. <a href="https://www.openhub.net">OpenHub</a> can help quickly identifying relevant metrics (source code history, level of activity, number of contributors, etc.) of most relevant open source projects.</p>
 </div>
 <div class="sect3">
 <h4 id="_use_source"><a class="anchor" href="#_use_source"></a>4.1.1. Use source</h4>
-
+<div class="paragraph">
+<p>&lt;2do&gt;</p>
+</div>
 </div>
 <div class="sect3">
 <h4 id="_use_binaries"><a class="anchor" href="#_use_binaries"></a>4.1.2. Use binaries</h4>
+<div class="paragraph">
+<p>&lt;2do&gt;</p>
+</div>
 <div class="sect4">
 <h5 id="_bill_of_material"><a class="anchor" href="#_bill_of_material"></a>Bill of material</h5>
 <div class="paragraph">
@@ -2205,39 +2210,27 @@ table.CodeRay td.code>pre{padding:0}
 <div class="sect2">
 <h3 id="_contributing_to_existing_open_source_projects"><a class="anchor" href="#_contributing_to_existing_open_source_projects"></a>4.2. Contributing to existing open source projects</h3>
 <div class="paragraph">
-<p>We encourage participation in open source projects and strive to have as few rules for this as possible, we expect participants to follow common sense on what code and information they contribute - if in doubt, contact the <a href="#section-design-os-team">Open Source Team</a>, or talk to your project lead.</p>
+<p>We encourage participation in open source projects and strive to have as few rules for this as possible, we expect participants to follow common sense on what code and information they contribute - if in doubt, contact the <a href="#section-design-os-team">Open Source Team</a>, or talk to your lead.</p>
 </div>
 <div class="sect3">
-<h4 id="_summary"><a class="anchor" href="#_summary"></a>4.2.1. Summary</h4>
-<div class="ulist">
-<ul>
-<li>
-<p>We encourage contributions upstream</p>
-</li>
-<li>
-<p>Make sure you don&#8217;t share confidential information</p>
-</li>
-<li>
-<p>Don&#8217;t contribute code which gives us an edge over competitors</p>
-</li>
-</ul>
-</div>
-</div>
-<div class="sect3">
-<h4 id="_common_contribution_rules"><a class="anchor" href="#_common_contribution_rules"></a>4.2.2. Common contribution rules</h4>
+<h4 id="_common_contribution_rules"><a class="anchor" href="#_common_contribution_rules"></a>4.2.1. Common contribution rules</h4>
 <div class="ulist">
 <ul>
 <li>
 <p>Do not share customer data or confidential Baloise information</p>
 </li>
 <li>
-<p>Code that cannot be contributed upstream</p>
-</li>
+<p>Code that cannot be contributed upstream:</p>
+<div class="ulist">
+<ul>
 <li>
 <p>confidential source code</p>
 </li>
 <li>
 <p>functionalities that give us an edge over competitors</p>
+</li>
+</ul>
+</div>
 </li>
 <li>
 <p>Remember that the Baloise Group legally has ownership over your contributions as you are an employee of Baloise</p>
@@ -2246,20 +2239,20 @@ table.CodeRay td.code>pre{padding:0}
 </div>
 </div>
 <div class="sect3">
-<h4 id="_non_code_contributions"><a class="anchor" href="#_non_code_contributions"></a>4.2.3. Non-code contributions</h4>
+<h4 id="_non_code_contributions"><a class="anchor" href="#_non_code_contributions"></a>4.2.2. Non-code contributions</h4>
 <div class="paragraph">
 <p>Contributions such as reporting issues, writing documentation, reviewing code and participating
 in project maintenance such as creating roadmaps, grooming backlogs etc.</p>
 </div>
 <div class="paragraph">
-<p>These activities are all sanctioned and encouraged as part of your employment at Baloise.</p>
+<p>These activities are all allowed and encouraged as part of your employment at Baloise.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_code_contributions"><a class="anchor" href="#_code_contributions"></a>4.2.4. Code contributions</h4>
+<h4 id="_code_contributions"><a class="anchor" href="#_code_contributions"></a>4.2.3. Code contributions</h4>
 <div class="paragraph">
 <p>Upstream code contributions are also encouraged and is a natural extension of our dependency of
-open source projects in our tech stack. Code contributions can generally be divided into 2 categories:</p>
+open source projects in our tech stack. Through contributing bug fixes and feature enhancements to the upstraem open source project our code changes will be integrated in future releases lowering the merging and maintenance effort of our own code. Code contributions can generally be divided into 2 categories:</p>
 </div>
 <div class="ulist">
 <ul>
@@ -2272,7 +2265,23 @@ open source projects in our tech stack. Code contributions can generally be divi
 </ul>
 </div>
 <div class="paragraph">
-<p>Both are sanctioned and does not require a review. Simply ensure that the project you are contributing to is not licensed under AGPL.</p>
+<p>Both are allowed and does not require a review. Simply ensure that</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>the project you are contributing to is not licensed under AGPL (see 5.1.6. "Network protective licenses" for reasons why)</p>
+</li>
+<li>
+<p>you are using your Baloise identity (<a href="mailto:your-eMail-address@baloise.TLD">your-eMail-address@baloise.TLD</a>) for the contribution</p>
+</li>
+<li>
+<p>you are aware of the basic rules and principles of a <a href="#section-dco">Developer Certificate of Origin (DCO)</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>If the upstream project requires a Contributor License Agreement (CLA) for your contribution please contact the <a href="#section-design-os-team">Open Source Team</a> as we want to make sure adressing this agreement globally on an corporate level rather than on an individual one.</p>
 </div>
 </div>
 </div>
@@ -2282,28 +2291,28 @@ open source projects in our tech stack. Code contributions can generally be divi
 <p>This is the process for how Baloise employees release a new open source project on the <a href="https://github.com/baloise">Baloise</a> Github Organization. The process is simple and the <a href="#section-design-os-team">Open Source Team</a> is ready to help you every step of the way.</p>
 </div>
 <div class="paragraph">
-<p>The level of ownership as in many open source projects and communities is also for us based on <a href="http://oss-watch.ac.uk/resources/meritocraticgovernancemodel">meritocratic principles</a>.</p>
+<p>The level of ownership as in many open source projects and communities is also for us based on <a href="http://oss-watch.ac.uk/resources/meritocraticgovernancemodel">meritocratic principles</a>. Meritocracy in open source projects means that the people who earned respect through positive contributions are empowered to make relevant decisions within the community.</p>
 </div>
 <div class="sect3">
 <h4 id="_overview"><a class="anchor" href="#_overview"></a>4.3.1. Overview</h4>
 <div class="paragraph">
 <p>Releasing a new open source project is a simple and fast process when you are already following Baloises rules of play:</p>
 </div>
-<div class="ulist">
-<ul>
+<div class="olist arabic">
+<ol class="arabic">
 <li>
-<p>Get Sign-off: Ensure you have organizational buy-in from your lead and that your project is possible to open source</p>
+<p>Get <strong>Sign-off</strong>: Ensure you have organizational buy-in from your lead and that your project is possible to open source</p>
 </li>
 <li>
-<p>Be Compliant: Ensure your project is compliant with rules of play and open source best practices</p>
+<p>Be <strong>Compliant</strong>: Ensure your project is compliant with rules of play and open source best practices</p>
 </li>
 <li>
-<p>Prepare your repository: Clean up and refactor your code to work outside the Baloise environment.</p>
+<p><strong>Prepare</strong> your repository: Clean up and refactor your code to work outside the Baloise environment.</p>
 </li>
 <li>
-<p>Get Reviewed: The Baloise <a href="#section-design-os-team">Open Source Team</a> is responsible for reviewing your project</p>
+<p>Get <strong>Reviewed</strong>: The Baloise <a href="#section-design-os-team">Open Source Team</a> is responsible for reviewing your project</p>
 </li>
-</ul>
+</ol>
 </div>
 </div>
 <div class="sect3">
@@ -2347,8 +2356,8 @@ open source projects in our tech stack. Code contributions can generally be divi
 <div class="paragraph">
 <p>All open source projects must comply with the open source specific rules of play, which applies to code that any Baloise employee releases. There are 3 areas which the rules cover:</p>
 </div>
-<div class="ulist">
-<ul>
+<div class="olist arabic">
+<ol class="arabic">
 <li>
 <p>Including the right files for licensing, documentation and ownership of the project</p>
 </li>
@@ -2358,7 +2367,7 @@ open source projects in our tech stack. Code contributions can generally be divi
 <li>
 <p>Respecting and assigning copyright</p>
 </li>
-</ul>
+</ol>
 </div>
 </div>
 <div class="sect4">
@@ -2477,7 +2486,7 @@ open source projects in our tech stack. Code contributions can generally be divi
 <div class="sect3">
 <h4 id="_get_reviewed"><a class="anchor" href="#_get_reviewed"></a>4.3.5. Get Reviewed</h4>
 <div class="paragraph">
-<p>When you have checked off the compliance checklist and prepared your code for release, request a review from the <a href="#section-design-os-team">Open Source Team</a> who will help you setup a Github repository and sign off on open sourcing your code.</p>
+<p>When you have checked off the compliance checklist and prepared your code for release, request a review from the <a href="#section-design-os-team">Open Source Team</a> who will help you setup a Github repository and sign-off on open sourcing your code.</p>
 </div>
 </div>
 <div class="sect3">
@@ -2503,7 +2512,7 @@ on Baloise-Github Organization marked as an Incubator project.</p>
 <p>For both using and releasing Open source Software, there is the challenge of understanding and respecting the licenses of your project dependencies. The purpose of this section is to outline what licenses to avoid, which ones you can freely use and which licenses comes with special requirements.</p>
 </div>
 <div class="sect3">
-<h4 id="_summary_2"><a class="anchor" href="#_summary_2"></a>5.1.1. Summary</h4>
+<h4 id="_summary"><a class="anchor" href="#_summary"></a>5.1.1. Summary</h4>
 <div class="ulist">
 <ul>
 <li>
@@ -2665,7 +2674,7 @@ and many more.</p>
 </div>
 <div class="sect3">
 <h4 id="_network_protective_licenses"><a class="anchor" href="#_network_protective_licenses"></a>5.1.6. Network protective licenses</h4>
-<div class="paragraph">
+<div id="section-agpl" class="paragraph">
 <p>Code licensed under <a href="https://tldrlegal.com/l/agpl3">AGPL</a> (Affero General Public License) and <a href="https://tldrlegal.com/license/reciprocal-public-license-1.5-(rpl-1.5)">RPL</a>, may not be used at Baloise.</p>
 </div>
 <div class="paragraph">
@@ -2711,21 +2720,103 @@ source code involved, e.g. for documentation, pretty often other licenses are us
 </div>
 </div>
 <div class="sect2">
-<h3 id="section-dco"><a class="anchor" href="#section-dco"></a>5.2. Certificate of Origin</h3>
+<h3 id="_certificate_of_origin"><a class="anchor" href="#_certificate_of_origin"></a>5.2. Certificate of Origin</h3>
 <div class="sect3">
-<h4 id="_dco"><a class="anchor" href="#_dco"></a>5.2.1. DCO</h4>
+<h4 id="section-dco"><a class="anchor" href="#section-dco"></a>5.2.1. Developer Certificate of Origin (DCO)</h4>
+<div class="literalblock">
+<div class="content">
+<pre>Developer Certificate of Origin
+Version 1.1
 
+Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
+1 Letterman Drive
+Suite D4700
+San Francisco, CA, 94129
+
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is not allowed.
+
+
+Developer's Certificate of Origin 1.1
+
+By making a contribution to this project, I certify that:
+
+(a) The contribution was created in whole or in part by me and I
+    have the right to submit it under the open source license
+    indicated in the file; or
+
+(b) The contribution is based upon previous work that, to the best
+    of my knowledge, is covered under an appropriate open source
+    license and I have the right under that license to submit that
+    work with modifications, whether created in whole or in part
+    by me, under the same open source license (unless I am
+    permitted to submit under a different license), as indicated
+    in the file; or
+
+(c) The contribution was provided directly to me by some other
+    person who certified (a), (b) or (c) and I have not modified
+    it.
+
+(d) I understand and agree that this project and the contribution
+    are public and that a record of the contribution (including all
+    personal information I submit with it, including my sign-off) is
+    maintained indefinitely and may be redistributed consistent with
+    this project or the open source license(s) involved.</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Technically by default <a href="https://git-scm.com/docs/git-commit#git-commit--s">you sign the DCO</a> by using <code>--signoff</code> within your commit(s).</p>
+</div>
 </div>
 <div class="sect3">
 <h4 id="_ca"><a class="anchor" href="#_ca"></a>5.2.2. CA</h4>
 <div class="sect4">
 <h5 id="_cla"><a class="anchor" href="#_cla"></a>CLA</h5>
-
+<div class="paragraph">
+<p>&lt;2do&gt;</p>
+</div>
 </div>
 </div>
 </div>
 <div class="sect2">
 <h3 id="section-sustainability"><a class="anchor" href="#section-sustainability"></a>5.3. Digital Sustainability</h3>
+<div class="paragraph">
+<p>Digital sustainability is a concept to target longevity of digital artifacts such as software. It explains why open source licensed code is necessary but not sufficient condition to be sustainable on the long run. <a href="https://link.springer.com/article/10.1007/s11625-016-0412-2">Sustainable digital artifacts</a> need to meet ten basic conditions regarding the digital good and its ecosystem:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><strong>Elaborateness</strong> of digital artifacts is determined through their modularity, integrity, accuracy, robustness, and other characteristics regarding the quality of their substance.</p>
+</li>
+<li>
+<p><strong>Transparent structures</strong> signify technical openness allowing access to the inner structures of digital artifacts, such as source code, standard specifications, content, or data structures.</p>
+</li>
+<li>
+<p><strong>Semantic information</strong> makes complex digital artifacts more easily intelligible to humans and machines through comprehensible structures and meta data.</p>
+</li>
+<li>
+<p><strong>Distributed location</strong> means data, software and other digital artifacts are stored and operated on multiple sites, e.g. through replicated data storage or peer-to-peer technology.</p>
+</li>
+<li>
+<p><strong>Open licensing regimes</strong> grant anyone the right to use and modify digital artifacts at no cost and for any purpose, thus providing improvements and enhancements without limitations.</p>
+</li>
+<li>
+<p><strong>Shared tacit knowledge</strong> of digital artifacts means there are many individuals and organizations that know through their experience how to understand, use, and modify the digital artifacts.</p>
+</li>
+<li>
+<p><strong>Participatory culture</strong> signifies permeability of contributions throughout the entire lifecycle of digital artifacts, enabling peer-review processes on all levels.</p>
+</li>
+<li>
+<p><strong>Good governance</strong> means the digital artifact and its ecosystem is not controlled by a single individual or organization, but governed decentralized by its contributors and other stakeholders.</p>
+</li>
+<li>
+<p><strong>Diversified funding</strong> allows cost covering of infrastructures, contributions, and other spending from various financial sources .</p>
+</li>
+<li>
+<p><strong>Contribution to sustainable development</strong> means sustainable digital artifacts must provide positive ecological, social or economic effects.</p>
+</li>
+</ol>
+</div>
 <div style="page-break-after: always;"></div>
 </div>
 </div>
@@ -2822,6 +2913,12 @@ source code involved, e.g. for documentation, pretty often other licenses are us
 <td class="tableblock halign-left valign-top"></td>
 </tr>
 <tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">DCO</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><strong>D</strong>eveloper <a href="https://en.wikipedia.org/wiki/Certificate_of_origin"><strong>C</strong>ertificate of <strong>O</strong>rigin</a></p></td>
+<td class="tableblock halign-left valign-top"></td>
+<td class="tableblock halign-left valign-top"></td>
+</tr>
+<tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock">FOSS</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://en.wikipedia.org/wiki/Free_and_open-source_software"><strong>F</strong>ree and <strong>o</strong>pen-<strong>s</strong>ource <strong>s</strong>oftware</a></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">freie und quelloffene Software</p></td>
@@ -2903,10 +3000,7 @@ Created by Dr. Peter Hruschka &amp; Dr. Gernot Starke.</p>
 <p>Zalando SE, Open Source</p>
 </div>
 <div class="paragraph">
-<p>Scaling Open Culture</p>
-</div>
-<div class="paragraph">
-<p><a href="https://github.com/zalando/zalando.github.io/graphs/contributors">Contributors</a></p>
+<p>Scaling Open Culture - <a href="https://github.com/zalando/zalando.github.io/graphs/contributors">Contributors</a></p>
 </div>
 <div class="paragraph">
 <p>Repo Version: 2084231478080ed4e6f034569c7e3c4ac57f6ca1</p>
@@ -2915,12 +3009,22 @@ Created by Dr. Peter Hruschka &amp; Dr. Gernot Starke.</p>
 <p>&#169;
 We acknowledge that this document uses material from Zalandos Open Source Documentation published under MIT.</p>
 </div>
+<div class="paragraph">
+<p><strong>About Research Center for Digital Sustainability - Institute of Information Systems at the University of Bern</strong></p>
+</div>
+<div class="paragraph lead">
+<p>The <a href="http://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html">Research Center for Digital Sustainability</a> is situated at the Institute of Information Systems at the University of Bern and was founded in 2014 with the support of the CH Open Association.</p>
+</div>
+<div class="paragraph">
+<p>&#169;
+We acknowledge that this document uses material contributed by Dr. Matthias Stürmer Head of the Research Center for Digital Sustainability - Institute of Information Systems at the University of Bern.</p>
+</div>
 </div>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2018-11-02 15:34:12 UTC
+Last updated 2018-11-07 11:27:00 UTC
 </div>
 </div>
 </body>
