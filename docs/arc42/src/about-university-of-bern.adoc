@@ -1,0 +1,12 @@
+:homepage: http://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html
+
+:keywords: Digital Sustainability, Research, University of Bern
+
+:numbered!:
+**About Research Center for Digital Sustainability - Institute of Information Systems at the University of Bern**
+
+[role="lead"]
+The http://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html[Research Center for Digital Sustainability] is situated at the Institute of Information Systems at the University of Bern and was founded in 2014 with the support of the CH Open Association.
+
+(C)
+We acknowledge that this document uses material contributed by Dr. Matthias Stürmer Head of the Research Center for Digital Sustainability - Institute of Information Systems at the University of Bern.

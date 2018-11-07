@@ -5,11 +5,15 @@
 
 Most open source code can be used in Baloise projects, but everyone has a responsibility to ensure that we respect and comply with the <<section-licenses>>.
 
-We recommend checking the projects maturity before (heavily) relying on it. Website like e.g. https://www.openhub.net/p/apache[Apache HTTP Server at OpenHub] can help quickly identifying relevant metrics (activity, users, etc.).
+We recommend checking the project's maturity, activity and heterogeneity of community before (heavily) relying on it. Websites like e.g. https://www.openhub.net[OpenHub] can help quickly identifying relevant metrics (source code history, level of activity, number of contributors, etc.) of most relevant open source projects.
 
 ==== Use source 
 
+<2do>
+
 ==== Use binaries
+
+<2do>
 
 ===== Bill of material
 
@@ -17,20 +21,14 @@ We recommend checking the projects maturity before (heavily) relying on it. Webs
 
 === Contributing to existing open source projects
 
-We encourage participation in open source projects and strive to have as few rules for this as possible, we expect participants to follow common sense on what code and information they contribute - if in doubt, contact the <<section-design-os-team>>, or talk to your project lead.
-
-==== Summary
-
-* We encourage contributions upstream
-* Make sure you don't share confidential information
-* Don't contribute code which gives us an edge over competitors
+We encourage participation in open source projects and strive to have as few rules for this as possible, we expect participants to follow common sense on what code and information they contribute - if in doubt, contact the <<section-design-os-team>>, or talk to your lead.
 
 ==== Common contribution rules
 
 * Do not share customer data or confidential Baloise information
-* Code that cannot be contributed upstream
-  * confidential source code
-  * functionalities that give us an edge over competitors
+* Code that cannot be contributed upstream:
+** confidential source code
+** functionalities that give us an edge over competitors
 * Remember that the Baloise Group legally has ownership over your contributions as you are an employee of Baloise
 
 ==== Non-code contributions
@@ -38,32 +36,38 @@ We encourage participation in open source projects and strive to have as few rul
 Contributions such as reporting issues, writing documentation, reviewing code and participating
 in project maintenance such as creating roadmaps, grooming backlogs etc.
 
-These activities are all sanctioned and encouraged as part of your employment at Baloise.
+These activities are all allowed and encouraged as part of your employment at Baloise.
 
 ==== Code contributions
 
 Upstream code contributions are also encouraged and is a natural extension of our dependency of
-open source projects in our tech stack. Code contributions can generally be divided into 2 categories:
+open source projects in our tech stack. Through contributing bug fixes and feature enhancements to the upstraem open source project our code changes will be integrated in future releases lowering the merging and maintenance effort of our own code. Code contributions can generally be divided into 2 categories:
 
 * Contributions triggered by a work task: eg. a dependency have a bug or shortcoming which block your work
 * Contributions on your own initiative
 
-Both are sanctioned and does not require a review. Simply ensure that the project you are contributing to is not licensed under AGPL.
+Both are allowed and does not require a review. Simply ensure that
+
+* the project you are contributing to is not licensed under AGPL (see 5.1.6. "Network protective licenses" for reasons why)
+* you are using your Baloise identity (your-eMail-address@baloise.TLD) for the contribution
+* you are aware of the basic rules and principles of a <<section-dco>>
+
+If the upstream project requires a Contributor License Agreement (CLA) for your contribution please contact the <<section-design-os-team>> as we want to make sure adressing this agreement globally on an corporate level rather than on an individual one.
 
 === Releasing new open source projects
 
 This is the process for how Baloise employees release a new open source project on the https://github.com/baloise[Baloise] Github Organization. The process is simple and the <<section-design-os-team>> is ready to help you every step of the way.
 
-The level of ownership as in many open source projects and communities is also for us based on http://oss-watch.ac.uk/resources/meritocraticgovernancemodel[meritocratic principles].
+The level of ownership as in many open source projects and communities is also for us based on http://oss-watch.ac.uk/resources/meritocraticgovernancemodel[meritocratic principles]. Meritocracy in open source projects means that the people who earned respect through positive contributions are empowered to make relevant decisions within the community.
 
 ==== Overview
 
 Releasing a new open source project is a simple and fast process when you are already following Baloises rules of play:
 
-* Get Sign-off: Ensure you have organizational buy-in from your lead and that your project is possible to open source 
-* Be Compliant: Ensure your project is compliant with rules of play and open source best practices
-* Prepare your repository: Clean up and refactor your code to work outside the Baloise environment.
-* Get Reviewed: The Baloise <<section-design-os-team>> is responsible for reviewing your project
+. Get **Sign-off**: Ensure you have organizational buy-in from your lead and that your project is possible to open source 
+. Be **Compliant**: Ensure your project is compliant with rules of play and open source best practices
+. **Prepare** your repository: Clean up and refactor your code to work outside the Baloise environment.
+. Get **Reviewed**: The Baloise <<section-design-os-team>> is responsible for reviewing your project
 
 ==== Get Sign-off  
 Ensure your lead and team are onboard with open sourcing your project, that everyone understand the time and effort required, and that there is no competitive disadvantages to Baloise.
@@ -89,19 +93,19 @@ Compliance covers the area of ensuring that we follow a safe and consistent prac
 
 All open source projects must comply with the open source specific rules of play, which applies to code that any Baloise employee releases. There are 3 areas which the rules cover:
 
-* Including the right files for licensing, documentation and ownership of the project
-* Following the right procedure for how you create and release code
-* Respecting and assigning copyright
+. Including the right files for licensing, documentation and ownership of the project
+. Following the right procedure for how you create and release code
+. Respecting and assigning copyright
 
 ===== Include the required assets
 
 Use https://github.com/baloise/repository-template-java[new-project] as a boilerplate for the files required for your project. These files are needed to correctly communicate ownership and guidelines for the project:
 
-1.  Create a meaningful `README.md` file, this is your most important piece of documentation
-2.  Include a `docs/CODEOWNERS` file with contact information https://help.github.com/articles/about-codeowners/[who is maintaining the project]
-3.  Include a `CONTRIBUTION.md` file with guidelines on how to contribute
-4.  Add a `LICENSE.md` file, license must be the https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)[Apache License 2.0] with the copyright set to Baloise Group. For non-source code content we recommend using https://creativecommons.org/licenses/by/4.0/[CC BY 4.0] (e.g. https://github.com/creativecommons/creativecommons.org/blob/master/docroot/legalcode/by_4.0.txt[plain license TXT])
-5.  Ensure you only use <<section-licenses>>-compatible code/dependencies
+. Create a meaningful `README.md` file, this is your most important piece of documentation
+. Include a `docs/CODEOWNERS` file with contact information https://help.github.com/articles/about-codeowners/[who is maintaining the project]
+. Include a `CONTRIBUTION.md` file with guidelines on how to contribute
+. Add a `LICENSE.md` file, license must be the https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)[Apache License 2.0] with the copyright set to Baloise Group. For non-source code content we recommend using https://creativecommons.org/licenses/by/4.0/[CC BY 4.0] (e.g. https://github.com/creativecommons/creativecommons.org/blob/master/docroot/legalcode/by_4.0.txt[plain license TXT])
+. Ensure you only use <<section-licenses>>-compatible code/dependencies
 
 The <<section-design-os-team>> can help you setting this up during a initial review. 
 
@@ -109,20 +113,20 @@ The <<section-design-os-team>> can help you setting this up during a initial rev
 
 When the project has been released as a public project on Github the following workflows are expected of you:
 
-1.  https://semver.org[Semantically version] project artifacts. You MUST tag all versions in GitHub with the exact version name: e.g., 0.1.0.
-2.  Sign-off every commit, as per the https://developercertificate.org/[DCO] - PGP signing is not required
-3.  Ensure that no credentials, private identifiers or personal data is at any time present in your repository
-4.  Enforce code-reviews with at least 2 sets of Baloise eyes on all code to minimize the risk of implanted security backdoors and vulnerable code.
-5. Ensure there is an active team of maintainers of at least 2 people from Baloise taking ownership of the project
+. https://semver.org[Semantically version] project artifacts. You MUST tag all versions in GitHub with the exact version name: e.g., 0.1.0.
+. Sign-off every commit, as per the https://developercertificate.org/[DCO] - PGP signing is not required
+. Ensure that no credentials, private identifiers or personal data is at any time present in your repository
+. Enforce code-reviews with at least 2 sets of Baloise eyes on all code to minimize the risk of implanted security backdoors and vulnerable code.
+. Ensure there is an active team of maintainers of at least 2 people from Baloise taking ownership of the project
 
 ===== Community best practices
 
 Besides the rules of play, there is also a set of best practices which we highly recommend you implement.
 
-1.  Have a <<section-code-of-conduct>> and enforce it to create a safe environment for collaboration
-2.  Set clear expectations for responses - let users know if your time is limited
-3.  Ask for help and be open to what kind of contributions would help your project
-4.  Be mindful of your documentation
+. Have a <<section-code-of-conduct>> and enforce it to create a safe environment for collaboration
+. Set clear expectations for responses - let users know if your time is limited
+. Ask for help and be open to what kind of contributions would help your project
+. Be mindful of your documentation
 
 https://opensource.guide/building-community/[opensource.guide] has plenty more resources and recommendations for maintainers.
 
@@ -144,7 +148,7 @@ Preparing a repository for open sourcing goes beyond ensuring it is in complianc
 
 ==== Get Reviewed
 
-When you have checked off the compliance checklist and prepared your code for release, request a review from the <<section-design-os-team>> who will help you setup a Github repository and sign off on open sourcing your code.
+When you have checked off the compliance checklist and prepared your code for release, request a review from the <<section-design-os-team>> who will help you setup a Github repository and sign-off on open sourcing your code.
 
 ==== Release
 

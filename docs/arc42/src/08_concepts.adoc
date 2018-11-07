@@ -87,6 +87,7 @@ Dependency can therefore be used for internal projects, but not for projects whi
 * If distributed, you must license your code under the same license.
 
 ==== Network protective licenses
+[[section-agpl]]
 
 Code licensed under https://tldrlegal.com/l/agpl3[AGPL] (Affero General Public License) and https://tldrlegal.com/license/reciprocal-public-license-1.5-(rpl-1.5)[RPL], may not be used at Baloise.
 
@@ -116,14 +117,71 @@ image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Creative_common
 
 A https://creativecommons.org/share-your-work/public-domain/freeworks/[set of the licences] are published and standardized by https://en.wikipedia.org/wiki/Creative_Commons[Creative Commons (CC) is an American non-profit organization].
 
-[[section-dco]]
 === Certificate of Origin
 
-==== DCO
+[[section-dco]]
+==== Developer Certificate of Origin (DCO)
+
+....
+Developer Certificate of Origin
+Version 1.1
+
+Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
+1 Letterman Drive
+Suite D4700
+San Francisco, CA, 94129
+
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is not allowed.
+
+
+Developer's Certificate of Origin 1.1
+
+By making a contribution to this project, I certify that:
+
+(a) The contribution was created in whole or in part by me and I
+    have the right to submit it under the open source license
+    indicated in the file; or
+
+(b) The contribution is based upon previous work that, to the best
+    of my knowledge, is covered under an appropriate open source
+    license and I have the right under that license to submit that
+    work with modifications, whether created in whole or in part
+    by me, under the same open source license (unless I am
+    permitted to submit under a different license), as indicated
+    in the file; or
+
+(c) The contribution was provided directly to me by some other
+    person who certified (a), (b) or (c) and I have not modified
+    it.
+
+(d) I understand and agree that this project and the contribution
+    are public and that a record of the contribution (including all
+    personal information I submit with it, including my sign-off) is
+    maintained indefinitely and may be redistributed consistent with
+    this project or the open source license(s) involved.
+....
+
+Technically by default link:++https://git-scm.com/docs/git-commit#git-commit--s++[you sign the DCO] by using `--signoff` within your commit(s).
 
 ==== CA
 
 ===== CLA
 
+<2do>
+
 [[section-sustainability]]
 === Digital Sustainability
+
+Digital sustainability is a concept to target longevity of digital artifacts such as software. It explains why open source licensed code is necessary but not sufficient condition to be sustainable on the long run. https://link.springer.com/article/10.1007/s11625-016-0412-2[Sustainable digital artifacts] need to meet ten basic conditions regarding the digital good and its ecosystem:
+
+. **Elaborateness** of digital artifacts is determined through their modularity, integrity, accuracy, robustness, and other characteristics regarding the quality of their substance.
+. **Transparent structures** signify technical openness allowing access to the inner structures of digital artifacts, such as source code, standard specifications, content, or data structures.
+. **Semantic information** makes complex digital artifacts more easily intelligible to humans and machines through comprehensible structures and meta data.
+. **Distributed location** means data, software and other digital artifacts are stored and operated on multiple sites, e.g. through replicated data storage or peer-to-peer technology.
+. **Open licensing regimes** grant anyone the right to use and modify digital artifacts at no cost and for any purpose, thus providing improvements and enhancements without limitations.
+. **Shared tacit knowledge** of digital artifacts means there are many individuals and organizations that know through their experience how to understand, use, and modify the digital artifacts.
+. **Participatory culture** signifies permeability of contributions throughout the entire lifecycle of digital artifacts, enabling peer-review processes on all levels.
+. **Good governance** means the digital artifact and its ecosystem is not controlled by a single individual or organization, but governed decentralized by its contributors and other stakeholders.
+. **Diversified funding** allows cost covering of infrastructures, contributions, and other spending from various financial sources .
+. **Contribution to sustainable development** means sustainable digital artifacts must provide positive ecological, social or economic effects.
