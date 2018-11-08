@@ -138,7 +138,7 @@ continuous peer review
 
 # @color[orange](risk)
 
-consume: security and license violation(s)
+consume: security, (patent) and license violation(s)
 
 ---?color=#b8b8b8
 # 2. Contribute
