@@ -95,7 +95,7 @@ supports [CSR](https://en.wikipedia.org/wiki/Corporate_social_responsibility) as
 +++?color=#36363f
 ## @color[lightgreen](mitigation of lock-in risks)
 
-@color[white](shared ownership of source code)
+@color[orange](shared ownership) @color[white](of source code)
 
 @color[white](open data formats → de facto standards)
 
@@ -268,14 +268,16 @@ idea(s) & vision(s)
 
 1. [Open Source Program - Team](https://baloise.github.io/open-source/docs/arc42/#section-design-os-team)
 
-2. [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
+2. (dedicated) Developers for OSS activities
+
+3. [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
 
 supporting (lightweight) guidance from 1-3
 
 +++?color=#36363f
 # @color[white](4. Strategic Invest)
 
-1. Commitment to Openness @ Baloise - new default?
+1. Commitment to Openness @ Baloise - new default!
 
 2. Partner up: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](https://www.eclipse.org/org/), ...
 
@@ -289,3 +291,8 @@ supporting (lightweight) guidance from 1-3
 ![](https://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgithub.com%2Fbaloise%2Fopen-source&amp;format=png&amp;ecc=H)
 
 [available @ Github](https://github.com/baloise/open-source) - licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
++++
+
+## further reading(s)
+[ERNST & YOUNG, 2011: Open source software in business-critical environments](https://www.ossdirectory.com/fileadmin/user_upload/opensource.ch/knowhow/2011_OpenSourceSoftwareInBusiness-criticalEnvironments.pdf)
