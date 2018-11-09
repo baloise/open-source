@@ -222,9 +222,11 @@ share TOC
 
 gain trust and visibility
 
+reputation
+
 # @color[orange](risk)
 
-public 
+ask for forgiveness (not for permission)
 
 +++
 
