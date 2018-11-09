@@ -177,7 +177,7 @@ regional / single project
 
 a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardening)
 
-+++?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain&color=#b8b8b8
++++?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain&color=gray
 @title[Github]
 ## [github.com/baloise](https://github.com/baloise)
 
