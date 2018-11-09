@@ -286,7 +286,7 @@ Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to
 
 # @color[lightgreen](potential)
 
-
+attack [GAFAM](https://en.wikipedia.org/wiki/Big_Four_tech_companies)
 
 # @color[orange](risk)
 
@@ -306,7 +306,7 @@ idea(s) & vision(s)
 +++?color=#f15825
 # @color[white](1. Use)
 
-1. Build high-level tech radar and roadmap
+1. Elimate technical infrastructure obstacles to use
 
 2. Automated BOMs analysis and risk mitigation program
 
@@ -322,9 +322,9 @@ idea(s) & vision(s)
 +++?color=#f69517
 # @color[white](3. Champion)
 
-1. [Open Source Program - Team](https://baloise.github.io/open-source/docs/arc42/#section-design-os-team)
+1. fix [Open Source Program - Team](https://baloise.github.io/open-source/docs/arc42/#section-design-os-team)
 
-2. (dedicated) Developers for OSS activities
+2. (dedicated) developers for OSS activities
 
 3. [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
 
