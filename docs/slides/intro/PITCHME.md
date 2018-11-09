@@ -198,8 +198,6 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 @color[white](translated into german, english, french and ...)
 
-@color[white](everyone is encouraged to participate)
-
 +++
 
 Die [Mobiliar & Baloise](http://www.liima.org/#partner) Group
