@@ -148,6 +148,29 @@ security, (patent) and license violation(s)
 
 (bug) reports, documentation, code fixes, blogs, kudos, project(s)
 
++++?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain
+
+# [baloise](https://github.com/baloise)
+
++++
+
+# @color[lightgreen](potential)
+
+
+# @color[orange](risk)
+
+
++++
+
+# 2 → 3
+
+---?color=#f69517
+# @color[white](3. Champion)
+
+being consumed
+
+regional / single project
+
 +++
 
 ![](https://png.pngtree.com/element_origin_min_pic/17/08/03/08b95a8c29ae5dd081aae3c70e1d8595.jpg)
@@ -169,29 +192,6 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 @color[white](translated into german, english, french and ...)
 
 @color[white](everyone is encouraged to participate)
-
-+++
-
-# @color[lightgreen](potential)
-
-
-# @color[orange](risk)
-
-
-+++
-
-# 2 → 3
-
----?color=#f69517
-# @color[white](3. Champion)
-
-being consumed
-
-regional / single project
-
-+++?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain
-
-# [baloise](https://github.com/baloise)
 
 +++
 
