@@ -269,6 +269,13 @@ Q3: Open Insurance initiative ([OPIN](https://openinsurance.io)) - incl. tradema
 
 Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to-stay/)
 
++++
+
+# @color[lightgreen](potential)
+
+
+# @color[orange](risk)
+
 ---?image=https://www.knowledgewave.com/hubfs/blog_images/iStock_3_steps.jpg&size=contain
 
 +++
