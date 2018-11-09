@@ -205,6 +205,10 @@ Die [Mobiliar & Baloise](http://www.liima.org/#partner) Group
 
 +++
 
+![Video](https://www.youtube.com/embed/rUL5tlhvwM0)
+
++++
+
 # @color[lightgreen](potential)
 
 
