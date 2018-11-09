@@ -142,11 +142,12 @@ security, (patent) and license violation(s)
 
 # 1 → 2
 
+adress the problem not the symptom
 
 ---?color=#b8b8b8
 # 2. Contribute
 
-(bug) reports, documentation, code fixes, blogs, kudos, project(s)
+(bug) reports, fixes, documentation, examples
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain
 
@@ -156,18 +157,24 @@ security, (patent) and license violation(s)
 
 # @color[lightgreen](potential)
 
+learn best practices for open collaboration
+
+intrinsic motivation @ work
 
 # @color[orange](risk)
 
+unclear handling of intellectual property
 
 +++
 
 # 2 → 3
 
+use open collaboration to champion
+
 ---?color=#f69517
 # @color[white](3. Champion)
 
-being consumed
+being consumed (used)
 
 regional / single project
 
@@ -211,13 +218,19 @@ Die [Mobiliar & Baloise](http://www.liima.org/#partner) Group
 
 # @color[lightgreen](potential)
 
+share TOC
+
+gain trust and visibility
 
 # @color[orange](risk)
+
 
 
 +++
 
 # 3 → 4
+
+active shaping of landscapes
 
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
@@ -274,7 +287,10 @@ Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to
 # @color[lightgreen](potential)
 
 
+
 # @color[orange](risk)
+
+
 
 ---?image=https://www.knowledgewave.com/hubfs/blog_images/iStock_3_steps.jpg&size=contain
 
