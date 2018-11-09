@@ -220,7 +220,7 @@ share TOC
 
 gain trust and visibility
 
-reputation
+reputation (also as employer)
 
 # @color[orange](risk)
 
