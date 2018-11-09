@@ -75,7 +75,7 @@ I can share my changes.
 ---?color=#36363f
 # @color[white](0 → 1:) @color[lightgreen](benefits)
 
-## @color[orange](potential risks)
+## @color[orange](risks)
 
 +++?color=#36363f
 ## @color[lightgreen](no primary license costs)
@@ -224,7 +224,7 @@ gain trust and visibility
 
 # @color[orange](risk)
 
-
+public 
 
 +++
 
@@ -245,7 +245,7 @@ Companies have business models - Open Source can support those (see [18 business
 +++
 ## Baloise Group
 
-(our services) @color[lightgreen](being consumed [**vendor neutral**] and embedded) building an open collaboration network
+(our) services @color[lightgreen](being consumed [**vendor neutral**] and embedded) building an open collaboration network
 
 Open Source @color[lightgreen](**best practice**) for _trust_, _joined forces_ and at the same time _being protected_ from each other
 
@@ -276,7 +276,7 @@ Red Hat: a company dedicated to Open Source since the beginning (1993) with no* 
 
 ![](https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png)
 
-Q1, Q2: we proposed term and [open-insurance.org](https://open-insurance.org)
+Q1, Q2: proposed term and [open-insurance.org](https://open-insurance.org)
 
 Q3: Open Insurance initiative ([OPIN](https://openinsurance.io)) - incl. trademarks
 
