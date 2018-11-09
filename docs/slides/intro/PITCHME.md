@@ -130,15 +130,18 @@ average ratio: ~80% open source components
 
 # @color[lightgreen](potential)
 
-do not re-invent the wheel
+take → safe money
 
-developed and used by huge, public communities
-
-continuous peer review
+driven by huge, public communities → vendor neutrality
 
 # @color[orange](risk)
 
-consume: security, (patent) and license violation(s)
+security, (patent) and license violation(s)
+
++++
+
+# 1 → 2
+
 
 ---?color=#b8b8b8
 # 2. Contribute
@@ -167,6 +170,18 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 @color[white](everyone is encouraged to participate)
 
++++
+
+# @color[lightgreen](potential)
+
+
+# @color[orange](risk)
+
+
++++
+
+# 2 → 3
+
 ---?color=#f69517
 # @color[white](3. Champion)
 
@@ -187,6 +202,18 @@ Die [Mobiliar & Baloise](http://www.liima.org/#partner) Group
 +++?image=https://rawgit.com/open-prevo/openprevo/master/doc/assets/img/logo.svg&size=contain
 
 # [OpenPrevo](https://github.com/open-prevo/openprevo#openprevo)
+
++++
+
+# @color[lightgreen](potential)
+
+
+# @color[orange](risk)
+
+
++++
+
+# 3 → 4
 
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
