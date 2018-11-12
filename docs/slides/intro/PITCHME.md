@@ -235,7 +235,7 @@ Die [Mobiliar & Baloise](http://www.liima.org/#partner) Group
 
 # @color[lightgreen](potential)
 
-shared costs
+share costs
 
 gain trust and visibility
 
@@ -311,7 +311,7 @@ idea(s) & vision(s)
 
 2. time to learn and educate @ Baloise
 
-3. sponsoring of strategic projects
+3. sponsoring of (strategic) projects
 
 +++?color=#f69517
 # @color[white](3. Champion)
