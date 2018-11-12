@@ -143,7 +143,7 @@ explicit and implicit
 
 [BOM](https://en.wikipedia.org/wiki/Bill_of_materials) for Guidewire SDKs: ~750/1200 = 60+%
 
-[average ratio](https://oss-studie.ch): ~80% open source components
+[average ratio](https://oss-studie.ch): ~**80%** open source components
 
 +++
 
@@ -163,7 +163,7 @@ security, (patent) and license violation(s)
 
 +++
 
-## 1 → 2: fix the problem not a symptom
+## 1 → 2: fix the problem (80%) not a symptom (20%)
 
 ![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
 
