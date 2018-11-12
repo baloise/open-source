@@ -80,6 +80,8 @@ consolidate current status 1 - 3, 4
 
 collaborate with department for digital sustainability of [University of Bern](http://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html) and write Baloise [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
 
+built and [index of other insurers](https://open-insurance.org/index/) and open source activities
+
 identify next evolutionary steps
 
 ---?color=#36363f
@@ -204,7 +206,7 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 @color[white](founded in **2013**)
 
-@color[white](50+ repos, 4 plugins with total ~47.000 installations on Eclipse and Atlassian marketplace)
+@color[white](50+ repos, 4 plugins with total ~47.000 installations on Eclipse and [Atlassian](https://marketplace.atlassian.com/vendors/1211530/baloise-group) marketplace)
 
 @color[white](60+ people [from Baloise Group](https://github.com/orgs/baloise/people))
 
@@ -230,7 +232,7 @@ shared costs
 
 gain trust and visibility
 
-reputation (also as employer)
+reputation as insurer and as employer
 
 # @color[orange](risk)
 
@@ -265,11 +267,11 @@ Open Source @color[lightgreen](**best practices**) for _trust_, _joined forces_ 
 
 ![](https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png)
 
-Q1, Q2: proposed term and [open-insurance.org](https://open-insurance.org)
+Q1, Q2: proposed term and [open-insurance.org](https://open-insurance.org), IIOB
 
 Q3: Open Insurance initiative ([OPIN](https://openinsurance.io)) - incl. trademarks
 
-Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to-stay/), IIOB
+Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to-stay/)
 
 +++
 
