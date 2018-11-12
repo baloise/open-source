@@ -68,9 +68,15 @@ I can share my changes.
 [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#10_Voraussetzungen_der_digitalen_Nachhaltigkeit)
 
 ---
-# methodology
+# maturity model
 
 ![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
+
++++
+
+# action(s) taken
+
+
 
 ---?color=#36363f
 # @color[white](0 → 1:) @color[lightgreen](benefits)
@@ -142,7 +148,9 @@ security, (patent) and license violation(s)
 
 # 1 → 2
 
-adress the problem not the symptom
+![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
+
+fix the problem not a symptom
 
 ---?color=#b8b8b8
 # 2. Contribute
@@ -168,6 +176,8 @@ unclear handling of intellectual property
 +++
 
 # 2 → 3
+
+![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
 
 use open collaboration to champion
 
@@ -229,6 +239,8 @@ ask for forgiveness (not for permission)
 +++
 
 # 3 → 4
+
+![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
 
 active shaping of landscapes
 
