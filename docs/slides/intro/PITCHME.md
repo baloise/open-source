@@ -73,11 +73,13 @@ aligns well with [corporate social responsibility](https://en.wikipedia.org/wiki
 
 consolidate current status
 
-collaborate with department for digital sustainability of [University of Bern](http://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html) and write Baloise [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
+created Baloise [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/) in collaboration with [University of Bern](http://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html) 
 
-built and [index of other insurers](https://open-insurance.org/index/) and open source activities
+built an [index of insurers](https://open-insurance.org/index/) and open source activities
 
-identify next evolutionary steps
+created partnerships: [CH-Open](https://www.ch-open.ch) and [Eclipse Foundation](https://www.eclipse.org/membership/showMember.php?member_id=1288)
+
+identified [backlog of ideas](https://github.com/baloise/open-source/issues) and next evolutionary steps
 
 +++
 
