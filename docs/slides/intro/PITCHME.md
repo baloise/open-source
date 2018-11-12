@@ -99,8 +99,6 @@ identified [backlog of ideas](https://github.com/baloise/open-source/issues) and
 
 @color[white](on application and _library_ level)
 
-@color[white]("developer" underground revolution)
-
 [TCO](https://en.wikipedia.org/wiki/Total_cost_of_ownership) @color[orange](not always taken into account)
 
 @color[white](usage often has (legal) implications)
