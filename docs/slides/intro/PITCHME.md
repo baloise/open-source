@@ -190,7 +190,7 @@ unclear handling of intellectual property
 
 +++
 
-## 2 → 3: use open collaboration to champion
+## 2 → 3: be(come) a part of the 80%
 
 ![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
 
@@ -247,7 +247,7 @@ ask for forgiveness (not for permission)
 
 +++
 
-## 3 → 4: active shaping of landscape(s)
+## 3 → 4: active shaping of the 80%-landscape
 
 ![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
 
