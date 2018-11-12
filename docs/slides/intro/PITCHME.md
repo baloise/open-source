@@ -68,21 +68,22 @@ I can share my changes.
 [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#10_Voraussetzungen_der_digitalen_Nachhaltigkeit)
 
 ---
-# maturity model
-
-![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
-
-+++
 
 # action(s) taken
 
-consolidate current status 1 - 3, 4
+consolidate current status
 
 collaborate with department for digital sustainability of [University of Bern](http://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html) and write Baloise [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
 
 built and [index of other insurers](https://open-insurance.org/index/) and open source activities
 
 identify next evolutionary steps
+
++++
+
+# maturity model
+
+![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
 
 ---?color=#36363f
 # @color[white](0 → 1:) @color[lightgreen](benefits)
