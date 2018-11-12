@@ -294,7 +294,7 @@ idea(s) & vision(s)
 
 1. elimate technical infrastructure obstacles
 
-2. success stories about OSS @ Baloise
+2. [success stories](https://www.ossdirectory.com/oss-firmen/single/ossfirm/baloise-group) about Open Source @ Baloise
 
 3. BOM analysis and risk mitigation program
 
@@ -312,7 +312,7 @@ idea(s) & vision(s)
 
 1. establish lightweight [Open Source Program - Team](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
 
-2. (dedicated) resources for OSS activities - [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
+2. (dedicated) resources for open source activities - [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
 
 3. spread [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
 
