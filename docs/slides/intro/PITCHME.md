@@ -80,7 +80,7 @@ consolidate current status 1 - 3, 4
 
 collaborate with department for digital sustainability of [University of Bern](http://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html)
 
-identify next (r)evolutionary steps
+identify next evolutionary steps
 
 ---?color=#36363f
 # @color[white](0 → 1:) @color[lightgreen](benefits)
@@ -273,11 +273,9 @@ Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to
 
 +++
 
-# @color[lightgreen](potential)
+### @color[lightgreen](potential) "attack" [GAFAM](https://en.wikipedia.org/wiki/Big_Four_tech_companies)
 
 ![](https://www.knolskape.com/wp-content/uploads/2018/07/KNOLSKAPE_GAFAM_blog_web_banner.png)
-
-attack [GAFAM](https://en.wikipedia.org/wiki/Big_Four_tech_companies)
 
 ---?image=https://www.knowledgewave.com/hubfs/blog_images/iStock_3_steps.jpg&size=contain
 
