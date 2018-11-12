@@ -78,7 +78,7 @@ I can share my changes.
 
 consolidate current status 1 - 3, 4
 
-collaborate with department for digital sustainability of [University of Bern](http://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html)
+collaborate with department for digital sustainability of [University of Bern](http://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html) and write Baloise [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
 
 identify next evolutionary steps
 
@@ -291,9 +291,9 @@ idea(s) & vision(s)
 
 1. elimate technical infrastructure obstacles
 
-2. BOM analysis and risk mitigation program
+2. success stories about OSS @ Baloise
 
-3. success stories about OSS @ Baloise
+3. BOM analysis and risk mitigation program
 
 +++?color=#b8b8b8
 # 2. Contribute
