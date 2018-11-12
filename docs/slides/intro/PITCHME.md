@@ -180,7 +180,7 @@ security, (patent) and license violation(s)
 
 # @color[lightgreen](potential)
 
-learn best practices for open collaboration
+learn [best practices](https://opensource.guide) for open collaboration
 
 intrinsic motivation @ work
 
