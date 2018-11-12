@@ -76,9 +76,11 @@ I can share my changes.
 
 # action(s) taken
 
-consolidate current status 1 - 4
+consolidate current status 1 - 3, 4
 
+collaborate with department for digital sustainability of [University of Bern](http://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html)
 
+identify next (r)evolutionary steps
 
 ---?color=#36363f
 # @color[white](0 → 1:) @color[lightgreen](benefits)
@@ -132,7 +134,7 @@ explicit and implicit
 
 [BOM](https://en.wikipedia.org/wiki/Bill_of_materials) for PC and BC SDKs: ~750/1200 = 60+%
 
-average ratio: ~80% open source components
+[average ratio](https://oss-studie.ch): ~80% open source components
 
 +++
 
@@ -196,7 +198,7 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 @title[Github]
 ## [github.com/baloise](https://github.com/baloise)
 
-@color[white](founded in 2013: 5 year Happy Birthday!)
+@color[white](founded in **2013**)
 
 @color[white](50+ repos, 4 plugins with total ~47.000 installations on Eclipse and Atlassian marketplace)
 
@@ -218,13 +220,9 @@ Die [Mobiliar & Baloise](http://www.liima.org/#partner) Group
 
 +++
 
-![Video](https://www.youtube.com/embed/rUL5tlhvwM0)
-
-+++
-
 # @color[lightgreen](potential)
 
-share TCO
+shared costs
 
 gain trust and visibility
 
@@ -255,32 +253,11 @@ Companies have business models - Open Source can support those (see [18 business
 
 (our) services @color[lightgreen](being consumed [**vendor neutral**] and embedded) building an open collaboration network
 
-Open Source @color[lightgreen](**best practice**) for _trust_, _joined forces_ and at the same time _being protected_ from each other
+Open Source @color[lightgreen](**best practices**) for _trust_, _joined forces_ and at the same time _being protected_ from each other
 
 +++
 
-# 2018
-Q3 and Q4
-
-+++
-
-![](https://www.atrsoft.com/wp-content/uploads/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1200x441.jpg)
-
-[acquires GitHub](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/) for $7.5 Billion
-
-[joins Open Invention Network](https://azure.microsoft.com/en-us/blog/microsoft-joins-open-invention-network-to-help-protect-linux-and-open-source/) - giving access to 60,000 patents
-
-+++?color=grey
-
-![](https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg)
-
-[IBM to Buy Red Hat](https://www.nytimes.com/2018/10/28/business/ibm-red-hat-cloud-computing.html) for $34 Billion
-
-Red Hat: a company dedicated to Open Source since the beginning (1993) with no* exclusive intellectual property
-
-+++
-
-## 2018 space for first-mover: open-insurance
+## 2018 space for open-insurance
 
 ![](https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png)
 
@@ -288,24 +265,20 @@ Q1, Q2: proposed term and [open-insurance.org](https://open-insurance.org)
 
 Q3: Open Insurance initiative ([OPIN](https://openinsurance.io)) - incl. trademarks
 
-Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to-stay/)
+Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to-stay/), IIOB
 
 +++
 
 # @color[lightgreen](potential)
 
+![](https://www.knolskape.com/wp-content/uploads/2018/07/KNOLSKAPE_GAFAM_blog_web_banner.png)
+
 attack [GAFAM](https://en.wikipedia.org/wiki/Big_Four_tech_companies)
-
-# @color[orange](risk)
-
-
 
 ---?image=https://www.knowledgewave.com/hubfs/blog_images/iStock_3_steps.jpg&size=contain
 
 +++
 # (next) steps
-
-(already) taken
 
 recommendation(s)
 
@@ -314,38 +287,34 @@ idea(s) & vision(s)
 +++?color=#f15825
 # @color[white](1. Use)
 
-1. Elimate technical infrastructure obstacles to use
+1. elimate technical infrastructure obstacles
 
-2. Automated BOMs analysis and risk mitigation program
+2. BOM analysis and risk mitigation program
 
-3. Success stories about OSS @ Baloise
+3. success stories about OSS @ Baloise
 
 +++?color=#b8b8b8
 # 2. Contribute
 
-1. Budget (time and money) for activities to learn and educate @ Baloise
+1. commitment to Openness @ Baloise - new default!
 
-2. Sponsoring of strategic projects e.g. Java / JakartaEE
+2. time to learn and educate @ Baloise
+
+3. sponsoring of strategic projects
 
 +++?color=#f69517
 # @color[white](3. Champion)
 
-1. fix [Open Source Program - Team](https://baloise.github.io/open-source/docs/arc42/#section-design-os-team)
+1. establish lightweight [Open Source Program - Team](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
 
-2. (dedicated) developers for OSS activities
+2. (dedicated) resources for OSS activities - [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
 
-3. [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
-
-supporting (lightweight) guidance from 1-3
+3. spread [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
 
 +++?color=#36363f
 # @color[white](4. Strategic Invest)
 
-1. Commitment to Openness @ Baloise - new default!
-
-2. Partner up: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](https://www.eclipse.org/org/), ...
-
-3. Join **industry working groups** about vendor neutral vision: open-insurance
+Join **[industry working groups](https://www.eclipse.org/org/workinggroups/)** about vendor neutral vision: open-insurance
 
 ---
 # Thanks!
