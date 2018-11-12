@@ -147,6 +147,10 @@ explicit and implicit
 
 +++
 
+![](swisscom.png)
+
++++
+
 # @color[lightgreen](potential)
 
 take → safe money
