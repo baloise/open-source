@@ -264,7 +264,7 @@ Companies have business models - Open Source can support those (see [18 business
 +++
 ## Baloise Group
 
-(our) services @color[lightgreen](being consumed [**vendor neutral**] and embedded) building an open collaboration network
+(our) [API](https://en.wikipedia.org/wiki/Application_programming_interface)s @color[lightgreen](being consumed [**vendor neutral**] and embedded) building an open collaboration network
 
 Open Source @color[lightgreen](**best practices**) for _trust_, _joined forces_ and at the same time _being protected_ from each other
 
