@@ -216,7 +216,7 @@ Die [Mobiliar & Baloise](http://www.liima.org/#partner) Group
 
 # @color[lightgreen](potential)
 
-share TOC
+share TCO
 
 gain trust and visibility
 
