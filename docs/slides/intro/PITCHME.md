@@ -312,9 +312,9 @@ idea(s) & vision(s)
 
 1. establish lightweight [Open Source Program - Team](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
 
-2. (dedicated) resources for open source activities - [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
+2. resources for open source activities - building a [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
 
-3. spread [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
+3. continue [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
 
 +++?color=#36363f
 # @color[white](4. Strategic Invest)
