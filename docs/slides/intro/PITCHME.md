@@ -124,6 +124,8 @@ explicit and implicit
 
 +++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain
 
+# @color[white](PostgreSQL)
+
 +++?image=http://fleetmagazine.mercedes-benz.co.uk/imgs/articles/fleet-awards/rectangle-1.jpg&size=contain
 
 ## @color[#f15825](implicit)
@@ -132,7 +134,7 @@ explicit and implicit
 
 ![](https://www.welt.de/img/wirtschaft/mobile157906274/1601626057-ci23x11-w1600/Volkswagen-Tiguan-in-Einzelteile-zerlegt.jpg)
 
-[BOM](https://en.wikipedia.org/wiki/Bill_of_materials) for PC and BC SDKs: ~750/1200 = 60+%
+[BOM](https://en.wikipedia.org/wiki/Bill_of_materials) for Guidewire SDKs: ~750/1200 = 60+%
 
 [average ratio](https://oss-studie.ch): ~80% open source components
 
