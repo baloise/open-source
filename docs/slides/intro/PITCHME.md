@@ -124,7 +124,7 @@ explicit and implicit
 
 +++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain
 
-## PostgreSQL
+## PostgreSQL @color[lightgreen](✓)
 
 +++?image=http://fleetmagazine.mercedes-benz.co.uk/imgs/articles/fleet-awards/rectangle-1.jpg&size=contain
 
