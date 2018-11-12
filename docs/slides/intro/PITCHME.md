@@ -206,7 +206,7 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 @color[white](50+ repos, 4 plugins with total ~47.000 installations on Eclipse and Atlassian marketplace)
 
-@color[white](60+ people from Baloise Group)
+@color[white](60+ people [from Baloise Group](https://github.com/orgs/baloise/people))
 
 @color[white](10+ external contributors fom Germany, California, Memphis, Tokyo)
 
