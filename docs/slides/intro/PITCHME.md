@@ -124,11 +124,13 @@ explicit and implicit
 
 +++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain
 
-# PostgreSQL
+## PostgreSQL
 
 +++?image=http://fleetmagazine.mercedes-benz.co.uk/imgs/articles/fleet-awards/rectangle-1.jpg&size=contain
 
-## @color[#f15825](implicit)
+@snap[south]
+@size[2.5em](@color[#f15825](implicit))
+@snapend
 
 +++
 
