@@ -147,7 +147,7 @@ explicit and implicit
 
 +++
 
-![](swisscom.png)
+![](https://github.com/baloise/open-source/raw/master/docs/slides/intro/swisscom.png)
 
 +++
 
