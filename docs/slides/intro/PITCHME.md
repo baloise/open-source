@@ -76,6 +76,8 @@ I can share my changes.
 
 # action(s) taken
 
+consolidate current status 1 - 4
+
 
 
 ---?color=#36363f
@@ -146,11 +148,9 @@ security, (patent) and license violation(s)
 
 +++
 
-# 1 → 2
+## 1 → 2: fix the problem not a symptom
 
 ![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
-
-fix the problem not a symptom
 
 ---?color=#b8b8b8
 # 2. Contribute
@@ -175,11 +175,9 @@ unclear handling of intellectual property
 
 +++
 
-# 2 → 3
+## 2 → 3: use open collaboration to champion
 
 ![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
-
-use open collaboration to champion
 
 ---?color=#f69517
 # @color[white](3. Champion)
@@ -238,11 +236,9 @@ ask for forgiveness (not for permission)
 
 +++
 
-# 3 → 4
+## 3 → 4: active shaping of landscape(s)
 
 ![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
-
-active shaping of landscapes
 
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
