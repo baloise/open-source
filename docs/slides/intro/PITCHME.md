@@ -301,11 +301,12 @@ Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to
 ---?image=https://www.knowledgewave.com/hubfs/blog_images/iStock_3_steps.jpg&size=contain
 
 +++
+
 # (next) steps
 
-recommendation(s)
+continue: execute on 1-3
 
-idea(s) & vision(s)
+recommendation(s): be ready for 4
 
 +++?color=#f15825
 # @color[white](1. Use)
@@ -323,21 +324,21 @@ idea(s) & vision(s)
 
 2. time to learn and educate @ Baloise
 
-3. identify and sponsor of (strategic) projects
+3. identify and sponsor (strategic) projects
 
 +++?color=#f69517
 # @color[white](3. Champion)
 
 1. start (small) [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
 
-2. resources for open source activities - building a [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
+2. resources for open source partnerships - building a [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
 
 3. [Open Source Guideline](https://baloise.github.io/open-source/docs/arc42/) execution
 
 +++?color=#36363f
 # @color[white](4. Strategic Invest)
 
-Join **[industry working groups](https://www.eclipse.org/org/workinggroups/)** about vendor neutral vision: open-insurance
+recommendation: join **[industry working groups](https://www.eclipse.org/org/workinggroups/)** about vendor neutral vision: open-insurance
 
 ---
 # Thanks!
