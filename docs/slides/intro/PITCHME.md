@@ -331,7 +331,7 @@ recommendation(s): be ready for 4
 
 1. start (small) [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
 
-2. resources for open source partnerships - building a [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
+2. resources for partnerships - building a [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
 
 3. [Open Source Guideline](https://baloise.github.io/open-source/docs/arc42/) execution
 
