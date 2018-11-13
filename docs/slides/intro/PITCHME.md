@@ -71,13 +71,13 @@ aligns well with [corporate social responsibility](https://en.wikipedia.org/wiki
 
 ### initial steps
 
-1. Identify and **use** open source data bases
+1. Identify and @color[#f15825](**use**) open source data bases
 
-2. Establish a ranking of projects to be **sponsored**
+2. Establish a ranking of projects to be @color[#b8b8b8](**sponsored**)
 
-3. Identify inhouse systems to be **released**
+3. Identify inhouse systems to be @color[#f69517](**released**)
 
-4. Build a **network** of interested insurers
+4. Build a @color[#36363f](**network**) of interested insurers
 
 Contact providers and IT service companies to elaborate contracts
 
