@@ -328,7 +328,7 @@ idea(s) & vision(s)
 +++?color=#f69517
 # @color[white](3. Champion)
 
-1. start small [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
+1. start (small) [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
 
 2. resources for open source activities - building a [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
 
