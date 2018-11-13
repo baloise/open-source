@@ -77,7 +77,7 @@ created Baloise [Open Source Guidelines](https://baloise.github.io/open-source/d
 
 built an [index of insurers](https://open-insurance.org/index/) and open source activities
 
-created partnerships: [CH-Open](https://www.ch-open.ch) and [Eclipse Foundation](https://www.eclipse.org/membership/showMember.php?member_id=1288)
+created partnerships: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](https://www.eclipse.org/membership/showMember.php?member_id=1288) and [OSS-Directory](https://www.ossdirectory.com/oss-firmen/single/ossfirm/baloise-group)
 
 identified [backlog of ideas](https://github.com/baloise/open-source/issues) and next evolutionary steps
 
@@ -86,6 +86,20 @@ identified [backlog of ideas](https://github.com/baloise/open-source/issues) and
 # maturity model
 
 ![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
+
++++
+
+# initial steps
+
+1. Identify and use open source data bases
+
+2. Establish a ranking of open source projects to be sponsored
+
+3. Identify inhouse systems to be released as open source
+
+4. Build a network of insurers interested in open source
+
+4. Contact providers and IT service companies to elaborate open source contracts
 
 ---?color=#36363f
 # @color[white](0 → 1:) @color[lightgreen](benefits)
