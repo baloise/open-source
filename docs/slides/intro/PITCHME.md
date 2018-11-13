@@ -286,7 +286,7 @@ Open Source @color[lightgreen](**best practices**) for _trust_, _joined forces_ 
 
 ![](https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png)
 
-Q1, Q2: proposed term and [open-insurance.org](https://open-insurance.org), IIOB
+Q1, Q2: proposed term and [open-insurance.org](https://open-insurance.org), IiaB
 
 Q3: Open Insurance initiative ([OPIN](https://openinsurance.io)) - incl. trademarks
 
