@@ -99,7 +99,7 @@ built an [index of insurers](https://open-insurance.org/index/) and open source 
 
 created partnerships: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](https://www.eclipse.org/membership/showMember.php?member_id=1288) and [OSS-Directory](https://www.ossdirectory.com/oss-firmen/single/ossfirm/baloise-group)
 
-identified [backlog of ideas](https://github.com/baloise/open-source/issues) and next evolutionary steps
+[backlog of ideas](https://github.com/baloise/open-source/issues) with next evolutionary steps
 
 ---?color=#36363f
 # @color[white](0 → 1:) @color[lightgreen](benefits)
