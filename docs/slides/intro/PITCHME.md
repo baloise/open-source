@@ -93,7 +93,7 @@ Contact providers and IT service companies to elaborate contracts
 
 consolidate current status
 
-created Baloise [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/) in collaboration with [University of Bern](http://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html) 
+created Baloise [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/) in collaboration with [University of Bern](http://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html) for steps 1-3
 
 built an [index of insurers](https://open-insurance.org/index/) and open source activities
 
@@ -319,20 +319,20 @@ idea(s) & vision(s)
 +++?color=#b8b8b8
 # 2. Contribute
 
-1. commitment to Openness @ Baloise - new default!
+1. commitment to Openness @ Baloise - add to CoC
 
 2. time to learn and educate @ Baloise
 
-3. sponsoring of (strategic) projects
+3. identify and sponsor of (strategic) projects
 
 +++?color=#f69517
 # @color[white](3. Champion)
 
-1. establish [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
+1. start small [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
 
 2. resources for open source activities - building a [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
 
-3. continue [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
+3. [Open Source Guideline](https://baloise.github.io/open-source/docs/arc42/) execution
 
 +++?color=#36363f
 # @color[white](4. Strategic Invest)
