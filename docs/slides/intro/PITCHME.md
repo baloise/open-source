@@ -91,7 +91,7 @@ Contact providers and IT service companies to elaborate contracts
 
 # action(s) taken
 
-consolidate [current status](https://github.com/baloise/open-source)
+consolidate [current status](https://github.com/baloise/open-source) : 1-4
 
 created Baloise [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/) in collaboration with [University of Bern](http://www.digitale-nachhaltigkeit.unibe.ch/index_eng.html) for steps 1-3
 
