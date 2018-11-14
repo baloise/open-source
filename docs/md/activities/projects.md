@@ -2,7 +2,7 @@
 
 sorted alphabetically by name
 
-# projects
+# projects & organizations
 
 ## hosted
 
