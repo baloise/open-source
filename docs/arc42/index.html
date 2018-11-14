@@ -2007,41 +2007,34 @@ table.CodeRay td.code>pre{padding:0}
 <li><a href="#_stakeholders">1.5. Stakeholders</a></li>
 </ul>
 </li>
-<li><a href="#section-architecture-constraints">2. Architecture Constraints</a></li>
-<li><a href="#section-system-scope-and-context">3. System Scope and Context</a>
+<li><a href="#section-solution-strategy">2. Solution Strategy for handling open source</a>
 <ul class="sectlevel2">
-<li><a href="#_business_context">3.1. Business Context</a></li>
-<li><a href="#_technical_context">3.2. Technical Context</a></li>
+<li><a href="#_using_existing_open_source">2.1. Using existing open source</a></li>
+<li><a href="#_contributing_to_existing_open_source_projects">2.2. Contributing to existing open source projects</a></li>
+<li><a href="#_releasing_new_open_source_projects">2.3. Releasing new open source projects</a></li>
 </ul>
 </li>
-<li><a href="#section-solution-strategy">4. Solution Strategy for handling open source</a>
+<li><a href="#section-concepts">3. Cross-cutting Concepts</a>
 <ul class="sectlevel2">
-<li><a href="#_using_existing_open_source">4.1. Using existing open source</a></li>
-<li><a href="#_contributing_to_existing_open_source_projects">4.2. Contributing to existing open source projects</a></li>
-<li><a href="#_releasing_new_open_source_projects">4.3. Releasing new open source projects</a></li>
+<li><a href="#section-licenses">3.1. Licensing</a></li>
+<li><a href="#_certificate_of_origin">3.2. Certificate of Origin</a></li>
+<li><a href="#section-sustainability">3.3. Digital Sustainability</a></li>
 </ul>
 </li>
-<li><a href="#section-concepts">5. Cross-cutting Concepts</a>
+<li><a href="#section-design-decisions">4. Design Decisions</a>
 <ul class="sectlevel2">
-<li><a href="#section-licenses">5.1. Licensing</a></li>
-<li><a href="#_certificate_of_origin">5.2. Certificate of Origin</a></li>
-<li><a href="#section-sustainability">5.3. Digital Sustainability</a></li>
+<li><a href="#section-design-os-team">4.1. Open Source Team</a></li>
 </ul>
 </li>
-<li><a href="#section-design-decisions">6. Design Decisions</a>
+<li><a href="#section-quality-scenarios">5. Quality Requirements</a>
 <ul class="sectlevel2">
-<li><a href="#section-design-os-team">6.1. Open Source Team</a></li>
+<li><a href="#_quality_tree">5.1. Quality Tree</a></li>
+<li><a href="#_quality_scenarios">5.2. Quality Scenarios</a></li>
 </ul>
 </li>
-<li><a href="#section-quality-scenarios">7. Quality Requirements</a>
-<ul class="sectlevel2">
-<li><a href="#_quality_tree">7.1. Quality Tree</a></li>
-<li><a href="#_quality_scenarios">7.2. Quality Scenarios</a></li>
-</ul>
-</li>
-<li><a href="#section-technical-risks">8. Risks and Technical Debts</a></li>
-<li><a href="#section-glossary">9. Glossary</a></li>
-<li><a href="#section-attribution">10. Attributions</a>
+<li><a href="#section-technical-risks">6. Risks and Technical Debts</a></li>
+<li><a href="#section-glossary">7. Glossary</a></li>
+<li><a href="#section-attribution">8. Attributions</a>
 <ul class="sectlevel2">
 <li><a href="#_arc42">arc42</a></li>
 <li><a href="#_eclipse_foundation">Eclipse Foundation</a></li>
@@ -2149,47 +2142,16 @@ table.CodeRay td.code>pre{padding:0}
 </tbody>
 </table>
 <div style="page-break-after: always;"></div>
-</div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="section-architecture-constraints"><a class="anchor" href="#section-architecture-constraints"></a>2. Architecture Constraints</h2>
-<div class="sectionbody">
 <div style="page-break-after: always;"></div>
-</div>
-</div>
-<div class="sect1">
-<h2 id="section-system-scope-and-context"><a class="anchor" href="#section-system-scope-and-context"></a>3. System Scope and Context</h2>
-<div class="sectionbody">
-<div class="sect2">
-<h3 id="_business_context"><a class="anchor" href="#_business_context"></a>3.1. Business Context</h3>
-<div class="paragraph">
-<p><strong>&lt;Diagram or Table&gt;</strong></p>
-</div>
-<div class="paragraph">
-<p><strong>&lt;optionally: Explanation of external domain interfaces&gt;</strong></p>
-</div>
-</div>
-<div class="sect2">
-<h3 id="_technical_context"><a class="anchor" href="#_technical_context"></a>3.2. Technical Context</h3>
-<div class="paragraph">
-<p><strong>&lt;Diagram or Table&gt;</strong></p>
-</div>
-<div class="paragraph">
-<p><strong>&lt;optionally: Explanation of technical interfaces&gt;</strong></p>
-</div>
-<div class="paragraph">
-<p><strong>&lt;Mapping Input/Output to Channels&gt;</strong></p>
-</div>
 <div style="page-break-after: always;"></div>
 </div>
 </div>
 </div>
 <div class="sect1">
-<h2 id="section-solution-strategy"><a class="anchor" href="#section-solution-strategy"></a>4. Solution Strategy for handling open source</h2>
+<h2 id="section-solution-strategy"><a class="anchor" href="#section-solution-strategy"></a>2. Solution Strategy for handling open source</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="_using_existing_open_source"><a class="anchor" href="#_using_existing_open_source"></a>4.1. Using existing open source</h3>
+<h3 id="_using_existing_open_source"><a class="anchor" href="#_using_existing_open_source"></a>2.1. Using existing open source</h3>
 <div class="paragraph">
 <p>In general open source components can be used in Baloise projects, but everyone has a responsibility to ensure that we respect and comply the individual <a href="#section-licenses">Licensing</a> obligations.</p>
 </div>
@@ -2197,13 +2159,13 @@ table.CodeRay td.code>pre{padding:0}
 <p>We recommend checking the project&#8217;s maturity, activity and heterogeneity of community before (heavily) relying on it. Websites like e.g. <a href="https://www.openhub.net">OpenHub</a> can help quickly identifying relevant metrics (source code history, level of activity, number of contributors, etc.) of most relevant open source projects.</p>
 </div>
 <div class="sect3">
-<h4 id="_use_source"><a class="anchor" href="#_use_source"></a>4.1.1. Use source</h4>
+<h4 id="_use_source"><a class="anchor" href="#_use_source"></a>2.1.1. Use source</h4>
 <div class="paragraph">
 <p>&lt;2do&gt;</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_use_binaries"><a class="anchor" href="#_use_binaries"></a>4.1.2. Use binaries</h4>
+<h4 id="_use_binaries"><a class="anchor" href="#_use_binaries"></a>2.1.2. Use binaries</h4>
 <div class="paragraph">
 <p>&lt;2do&gt;</p>
 </div>
@@ -2216,12 +2178,12 @@ table.CodeRay td.code>pre{padding:0}
 </div>
 </div>
 <div class="sect2">
-<h3 id="_contributing_to_existing_open_source_projects"><a class="anchor" href="#_contributing_to_existing_open_source_projects"></a>4.2. Contributing to existing open source projects</h3>
+<h3 id="_contributing_to_existing_open_source_projects"><a class="anchor" href="#_contributing_to_existing_open_source_projects"></a>2.2. Contributing to existing open source projects</h3>
 <div class="paragraph">
 <p>We encourage participation in open source projects and strive to have as few rules for this as possible, we expect participants to follow common sense on what code and information they contribute - if in doubt, contact the <a href="#section-design-os-team">Open Source Team</a>, or talk to your lead in charge.</p>
 </div>
 <div class="sect3">
-<h4 id="_common_contribution_rules"><a class="anchor" href="#_common_contribution_rules"></a>4.2.1. Common contribution rules</h4>
+<h4 id="_common_contribution_rules"><a class="anchor" href="#_common_contribution_rules"></a>2.2.1. Common contribution rules</h4>
 <div class="ulist">
 <ul>
 <li>
@@ -2247,7 +2209,7 @@ table.CodeRay td.code>pre{padding:0}
 </div>
 </div>
 <div class="sect3">
-<h4 id="_non_code_contributions"><a class="anchor" href="#_non_code_contributions"></a>4.2.2. Non-code contributions</h4>
+<h4 id="_non_code_contributions"><a class="anchor" href="#_non_code_contributions"></a>2.2.2. Non-code contributions</h4>
 <div class="paragraph">
 <p>Contributions such as reporting issues, writing documentation, reviewing code and participating
 in project maintenance such as creating roadmaps, grooming backlogs etc.</p>
@@ -2257,7 +2219,7 @@ in project maintenance such as creating roadmaps, grooming backlogs etc.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_code_contributions"><a class="anchor" href="#_code_contributions"></a>4.2.3. Code contributions</h4>
+<h4 id="_code_contributions"><a class="anchor" href="#_code_contributions"></a>2.2.3. Code contributions</h4>
 <div class="paragraph">
 <p>Upstream code contributions are also encouraged and are a natural extension of our dependency of open source projects in our tech stack. Through contributing bug fixes and feature enhancements to the upstream open source project our code changes will be integrated in future releases lowering the merging and maintenance effort of our own code. Code contributions can generally be divided into 2 categories:</p>
 </div>
@@ -2293,7 +2255,7 @@ in project maintenance such as creating roadmaps, grooming backlogs etc.</p>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_releasing_new_open_source_projects"><a class="anchor" href="#_releasing_new_open_source_projects"></a>4.3. Releasing new open source projects</h3>
+<h3 id="_releasing_new_open_source_projects"><a class="anchor" href="#_releasing_new_open_source_projects"></a>2.3. Releasing new open source projects</h3>
 <div class="paragraph">
 <p>This is the process for how Baloise employees release a new open source project on the <a href="https://github.com/baloise">Baloise</a> Github Organization. The process is simple and the <a href="#section-design-os-team">Open Source Team</a> is ready to help you every step of the way.</p>
 </div>
@@ -2301,7 +2263,7 @@ in project maintenance such as creating roadmaps, grooming backlogs etc.</p>
 <p>The level of ownership as in many open source projects and communities is also for us based on <a href="http://oss-watch.ac.uk/resources/meritocraticgovernancemodel">meritocratic principles</a>. Meritocracy in open source projects means that the people who earned respect through positive contributions are empowered to make relevant decisions within the community.</p>
 </div>
 <div class="sect3">
-<h4 id="_overview_2"><a class="anchor" href="#_overview_2"></a>4.3.1. Overview</h4>
+<h4 id="_overview_2"><a class="anchor" href="#_overview_2"></a>2.3.1. Overview</h4>
 <div class="paragraph">
 <p>Releasing a new open source project is a simple and fast process when you are already following Baloises rules of play:</p>
 </div>
@@ -2323,7 +2285,7 @@ in project maintenance such as creating roadmaps, grooming backlogs etc.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_get_sign_off"><a class="anchor" href="#_get_sign_off"></a>4.3.2. Get Sign-off</h4>
+<h4 id="_get_sign_off"><a class="anchor" href="#_get_sign_off"></a>2.3.2. Get Sign-off</h4>
 <div class="paragraph">
 <p>Ensure your lead and team are onboard with open sourcing your project, that everyone understand the time and effort required, and that there is no competitive disadvantages to Baloise.</p>
 </div>
@@ -2354,7 +2316,7 @@ in project maintenance such as creating roadmaps, grooming backlogs etc.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_be_compliant"><a class="anchor" href="#_be_compliant"></a>4.3.3. Be Compliant</h4>
+<h4 id="_be_compliant"><a class="anchor" href="#_be_compliant"></a>2.3.3. Be Compliant</h4>
 <div class="paragraph">
 <p>Compliance covers the area of ensuring that we follow a safe and consistent practice for sharing and collaborating.</p>
 </div>
@@ -2466,7 +2428,7 @@ in project maintenance such as creating roadmaps, grooming backlogs etc.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_prepare_your_repository"><a class="anchor" href="#_prepare_your_repository"></a>4.3.4. Prepare your repository</h4>
+<h4 id="_prepare_your_repository"><a class="anchor" href="#_prepare_your_repository"></a>2.3.4. Prepare your repository</h4>
 <div class="paragraph">
 <p>Preparing a repository for open sourcing goes beyond ensuring it is in compliance with the rules above. This can include refactoring and documenting your code better to ensure that users and potential contributors can make sense of it.</p>
 </div>
@@ -2491,13 +2453,13 @@ in project maintenance such as creating roadmaps, grooming backlogs etc.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_get_reviewed"><a class="anchor" href="#_get_reviewed"></a>4.3.5. Get Reviewed</h4>
+<h4 id="_get_reviewed"><a class="anchor" href="#_get_reviewed"></a>2.3.5. Get Reviewed</h4>
 <div class="paragraph">
 <p>When you have checked off the compliance checklist and prepared your code for release, request a review from the <a href="#section-design-os-team">Open Source Team</a> who will help you setup a Github repository and sign-off on open sourcing your code.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_release"><a class="anchor" href="#_release"></a>4.3.6. Release</h4>
+<h4 id="_release"><a class="anchor" href="#_release"></a>2.3.6. Release</h4>
 <div class="paragraph">
 <p>When all the above points are in order and the review has been passed, the project is released
 on Baloise-Github Organization marked as an Incubator project.</p>
@@ -2548,15 +2510,15 @@ on Baloise-Github Organization marked as an Incubator project.</p>
 </div>
 </div>
 <div class="sect1">
-<h2 id="section-concepts"><a class="anchor" href="#section-concepts"></a>5. Cross-cutting Concepts</h2>
+<h2 id="section-concepts"><a class="anchor" href="#section-concepts"></a>3. Cross-cutting Concepts</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="section-licenses"><a class="anchor" href="#section-licenses"></a>5.1. Licensing</h3>
+<h3 id="section-licenses"><a class="anchor" href="#section-licenses"></a>3.1. Licensing</h3>
 <div class="paragraph">
 <p>For both using and releasing Open source Software, there is the challenge of understanding and respecting the licenses of your project dependencies. The purpose of this section is to outline what licenses to avoid, which ones you can freely use and which licenses comes with special requirements.</p>
 </div>
 <div class="sect3">
-<h4 id="_summary"><a class="anchor" href="#_summary"></a>5.1.1. Summary</h4>
+<h4 id="_summary"><a class="anchor" href="#_summary"></a>3.1.1. Summary</h4>
 <div class="ulist">
 <ul>
 <li>
@@ -2581,7 +2543,7 @@ on Baloise-Github Organization marked as an Incubator project.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_overview_3"><a class="anchor" href="#_overview_3"></a>5.1.2. Overview</h4>
+<h4 id="_overview_3"><a class="anchor" href="#_overview_3"></a>3.1.2. Overview</h4>
 <div id="img-oss-license-spectrum" class="imageblock">
 <div class="content">
 <a class="image" href="https://timreview.ca/article/416"><img src="images/oss-license-spectrum.png" alt="OSS license spectrum"></a>
@@ -2622,7 +2584,7 @@ on Baloise-Github Organization marked as an Incubator project.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_permissive_licenses"><a class="anchor" href="#_permissive_licenses"></a>5.1.3. Permissive licenses</h4>
+<h4 id="_permissive_licenses"><a class="anchor" href="#_permissive_licenses"></a>3.1.3. Permissive licenses</h4>
 <div class="paragraph">
 <p><a href="https://tldrlegal.com/l/afl3">AFL</a>,
 <a href="https://tldrlegal.com/l/apache2">Apache</a>,
@@ -2654,7 +2616,7 @@ and many more.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_weak_copyleft_licenses"><a class="anchor" href="#_weak_copyleft_licenses"></a>5.1.4. Weak copyleft licenses</h4>
+<h4 id="_weak_copyleft_licenses"><a class="anchor" href="#_weak_copyleft_licenses"></a>3.1.4. Weak copyleft licenses</h4>
 <div class="paragraph">
 <p><a href="https://tldrlegal.com/l/aspl2">APSL</a>,
 <a href="https://tldrlegal.com/l/lgpl-3.0)">LGPL</a>,
@@ -2686,7 +2648,7 @@ and many more.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_strong_copyleft_licenses"><a class="anchor" href="#_strong_copyleft_licenses"></a>5.1.5. Strong Copyleft licenses</h4>
+<h4 id="_strong_copyleft_licenses"><a class="anchor" href="#_strong_copyleft_licenses"></a>3.1.5. Strong Copyleft licenses</h4>
 <div class="paragraph">
 <p><a href="https://tldrlegal.com/l/gpl-3.0)">GPL</a>,
 <a href="https://tldrlegal.com/license/netscape-public-license-v1.1-(npl-1.1)">NPL</a>,
@@ -2718,7 +2680,7 @@ and many more.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_network_protective_licenses"><a class="anchor" href="#_network_protective_licenses"></a>5.1.6. Network protective licenses</h4>
+<h4 id="_network_protective_licenses"><a class="anchor" href="#_network_protective_licenses"></a>3.1.6. Network protective licenses</h4>
 <div id="section-agpl" class="paragraph">
 <p>Code licensed under <a href="https://tldrlegal.com/l/agpl3">AGPL</a> (Affero General Public License) and <a href="https://tldrlegal.com/license/reciprocal-public-license-1.5-(rpl-1.5)">RPL</a>, may not be used at Baloise.</p>
 </div>
@@ -2730,7 +2692,7 @@ and many more.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_unlicensed_code"><a class="anchor" href="#_unlicensed_code"></a>5.1.7. Unlicensed code</h4>
+<h4 id="_unlicensed_code"><a class="anchor" href="#_unlicensed_code"></a>3.1.7. Unlicensed code</h4>
 <div class="paragraph">
 <p>Code which does not include a license or have no clear ownership cannot be used at Baloise.</p>
 </div>
@@ -2743,7 +2705,7 @@ of the author and cannot be used without permission.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_creative_commons_licenses"><a class="anchor" href="#_creative_commons_licenses"></a>5.1.8. Creative Commons licenses</h4>
+<h4 id="_creative_commons_licenses"><a class="anchor" href="#_creative_commons_licenses"></a>3.1.8. Creative Commons licenses</h4>
 <div class="paragraph">
 <p>The previously mentioned licence types are primarily aimed for licensing source code. Hence if there is not directly
 source code involved, e.g. for documentation, pretty often other licenses are used for good reasons.</p>
@@ -2766,9 +2728,9 @@ source code involved, e.g. for documentation, pretty often other licenses are us
 </div>
 </div>
 <div class="sect2">
-<h3 id="_certificate_of_origin"><a class="anchor" href="#_certificate_of_origin"></a>5.2. Certificate of Origin</h3>
+<h3 id="_certificate_of_origin"><a class="anchor" href="#_certificate_of_origin"></a>3.2. Certificate of Origin</h3>
 <div class="sect3">
-<h4 id="section-dco"><a class="anchor" href="#section-dco"></a>5.2.1. Developer Certificate of Origin (DCO)</h4>
+<h4 id="section-dco"><a class="anchor" href="#section-dco"></a>3.2.1. Developer Certificate of Origin (DCO)</h4>
 <div class="literalblock">
 <div class="content">
 <pre>Developer Certificate of Origin
@@ -2815,7 +2777,7 @@ By making a contribution to this project, I certify that:
 </div>
 </div>
 <div class="sect3">
-<h4 id="_ca"><a class="anchor" href="#_ca"></a>5.2.2. CA</h4>
+<h4 id="_ca"><a class="anchor" href="#_ca"></a>3.2.2. CA</h4>
 <div class="sect4">
 <h5 id="_cla"><a class="anchor" href="#_cla"></a>CLA</h5>
 <div class="paragraph">
@@ -2825,7 +2787,7 @@ By making a contribution to this project, I certify that:
 </div>
 </div>
 <div class="sect2">
-<h3 id="section-sustainability"><a class="anchor" href="#section-sustainability"></a>5.3. Digital Sustainability</h3>
+<h3 id="section-sustainability"><a class="anchor" href="#section-sustainability"></a>3.3. Digital Sustainability</h3>
 <div class="paragraph">
 <p>Digital sustainability is a concept to target longevity of digital artifacts such as software. It explains why open source licensed code is necessary but not sufficient condition to be sustainable on the long run. <a href="https://link.springer.com/article/10.1007/s11625-016-0412-2">Sustainable digital artifacts</a> need to meet ten basic conditions regarding the digital good and its ecosystem:</p>
 </div>
@@ -2868,10 +2830,10 @@ By making a contribution to this project, I certify that:
 </div>
 </div>
 <div class="sect1">
-<h2 id="section-design-decisions"><a class="anchor" href="#section-design-decisions"></a>6. Design Decisions</h2>
+<h2 id="section-design-decisions"><a class="anchor" href="#section-design-decisions"></a>4. Design Decisions</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="section-design-os-team"><a class="anchor" href="#section-design-os-team"></a>6.1. Open Source Team</h3>
+<h3 id="section-design-os-team"><a class="anchor" href="#section-design-os-team"></a>4.1. Open Source Team</h3>
 <div class="paragraph">
 <p>It&#8217;s good practice having dedicated people being responsible for handling open source matters within a company.</p>
 </div>
@@ -2879,7 +2841,7 @@ By making a contribution to this project, I certify that:
 <p>For now we go with a lightweight approach of an <a href="https://todogroup.org/guides/create-program/#the-role-of-the-open-source-program-office">open source program office</a>.</p>
 </div>
 <div class="sect3">
-<h4 id="_open_source_lead"><a class="anchor" href="#_open_source_lead"></a>6.1.1. Open Source - Lead</h4>
+<h4 id="_open_source_lead"><a class="anchor" href="#_open_source_lead"></a>4.1.1. Open Source - Lead</h4>
 <div class="imageblock">
 <div class="content">
 <img src="https://pbs.twimg.com/profile_images/935895329072959488/_qPd_hEQ_400x400.jpg" alt="Open Source - Lead">
@@ -2891,7 +2853,7 @@ By making a contribution to this project, I certify that:
 </div>
 </div>
 <div class="sect3">
-<h4 id="_open_source_community_manager"><a class="anchor" href="#_open_source_community_manager"></a>6.1.2. Open Source - Community Manager</h4>
+<h4 id="_open_source_community_manager"><a class="anchor" href="#_open_source_community_manager"></a>4.1.2. Open Source - Community Manager</h4>
 <div class="imageblock">
 <div class="content">
 <img src="https://github.com/MarkusTiede/about/raw/master/img/me-circle.png" alt="Open Source - Community Manager @ Baloise">
@@ -2903,7 +2865,7 @@ By making a contribution to this project, I certify that:
 </div>
 </div>
 <div class="sect3">
-<h4 id="_inner_source_manager"><a class="anchor" href="#_inner_source_manager"></a>6.1.3. Inner Source Manager</h4>
+<h4 id="_inner_source_manager"><a class="anchor" href="#_inner_source_manager"></a>4.1.3. Inner Source Manager</h4>
 <div class="imageblock">
 <div class="content">
 <img src="https://png.icons8.com/metro/80/000000/decision.png" alt="Inner Source Manager @ Baloise">
@@ -2915,26 +2877,26 @@ By making a contribution to this project, I certify that:
 </div>
 </div>
 <div class="sect1">
-<h2 id="section-quality-scenarios"><a class="anchor" href="#section-quality-scenarios"></a>7. Quality Requirements</h2>
+<h2 id="section-quality-scenarios"><a class="anchor" href="#section-quality-scenarios"></a>5. Quality Requirements</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="_quality_tree"><a class="anchor" href="#_quality_tree"></a>7.1. Quality Tree</h3>
+<h3 id="_quality_tree"><a class="anchor" href="#_quality_tree"></a>5.1. Quality Tree</h3>
 
 </div>
 <div class="sect2">
-<h3 id="_quality_scenarios"><a class="anchor" href="#_quality_scenarios"></a>7.2. Quality Scenarios</h3>
+<h3 id="_quality_scenarios"><a class="anchor" href="#_quality_scenarios"></a>5.2. Quality Scenarios</h3>
 <div style="page-break-after: always;"></div>
 </div>
 </div>
 </div>
 <div class="sect1">
-<h2 id="section-technical-risks"><a class="anchor" href="#section-technical-risks"></a>8. Risks and Technical Debts</h2>
+<h2 id="section-technical-risks"><a class="anchor" href="#section-technical-risks"></a>6. Risks and Technical Debts</h2>
 <div class="sectionbody">
 <div style="page-break-after: always;"></div>
 </div>
 </div>
 <div class="sect1">
-<h2 id="section-glossary"><a class="anchor" href="#section-glossary"></a>9. Glossary</h2>
+<h2 id="section-glossary"><a class="anchor" href="#section-glossary"></a>7. Glossary</h2>
 <div class="sectionbody">
 <table class="tableblock frame-all grid-all spread">
 <colgroup>
@@ -3018,7 +2980,7 @@ By making a contribution to this project, I certify that:
 </div>
 </div>
 <div class="sect1">
-<h2 id="section-attribution"><a class="anchor" href="#section-attribution"></a>10. Attributions</h2>
+<h2 id="section-attribution"><a class="anchor" href="#section-attribution"></a>8. Attributions</h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>in alphabetical order</p>
@@ -3092,7 +3054,7 @@ We acknowledge that this document uses material from Zalandos Open Source Docume
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2018-11-14 08:40:21 UTC
+Last updated 2018-11-14 08:43:58 UTC
 </div>
 </div>
 </body>
