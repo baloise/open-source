@@ -40,7 +40,7 @@ These activities are all allowed and encouraged as part of your employment at Ba
 
 ==== Code contributions
 
-Upstream code contributions are also encouraged and is a natural extension of our dependency of
+Upstream code contributions are also encouraged and are a natural extension of our dependency of
 open source projects in our tech stack. Through contributing bug fixes and feature enhancements to the upstraem open source project our code changes will be integrated in future releases lowering the merging and maintenance effort of our own code. Code contributions can generally be divided into 2 categories:
 
 * Contributions triggered by a work task: e.g. a dependency (library, module, project, product) has a bug or a shortcoming which blocks your work
