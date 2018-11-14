@@ -135,6 +135,8 @@ created partnerships: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](ht
 ---?color=#f15825
 # @color[white](1. Use)
 
+make or buy? take!
+
 explicit and implicit
 
 +++?image=http://2.bp.blogspot.com/-J5btAKhCKJ8/UW1bt20M1kI/AAAAAAAAA-8/8TOYEQWpB1A/s1600/Marwell_Animals.jpg&size=contain
@@ -209,9 +211,9 @@ unclear handling of intellectual property
 ---?color=#f69517
 # @color[white](3. Champion)
 
-being consumed (used)
+being consumed / used - single project / regional
 
-regional / single project
+share costs - gain trust, reputation and visibility
 
 +++
 
@@ -271,7 +273,9 @@ ask for forgiveness (not for permission)
 
 Open Source is a _software development model_ and has **no business model**
 
-Companies have business models - Open Source can support those (see [18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches))!
+Companies have business models - Open Source can support those
+
+[18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches)
 
 +++
 ## Baloise Group
@@ -294,7 +298,7 @@ Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to
 
 +++
 
-### @color[lightgreen](potential) "attack" [GAFAM](https://en.wikipedia.org/wiki/Big_Four_tech_companies)
+### @color[lightgreen](potential) "challenge" [GAFAM](https://en.wikipedia.org/wiki/Big_Four_tech_companies)
 
 ![](https://www.knolskape.com/wp-content/uploads/2018/07/KNOLSKAPE_GAFAM_blog_web_banner.png)
 
