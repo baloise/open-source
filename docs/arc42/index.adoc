@@ -3,7 +3,7 @@
 //
 // ====================================
 
-= image:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png[DINA - Open Government] [DRAFT] Baloise Open Source Guidelines
+= image:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png[DINA - Open Government] https://github.com/baloise/open-source/pull/58[DRAFT] - Baloise Open Source Guidelines
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Table of Contents
 
