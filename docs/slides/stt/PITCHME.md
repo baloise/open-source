@@ -18,15 +18,15 @@
 
 ### initial steps
 
-1. Identify and @color[#f15825](**use**) open source data bases
+1. Identify and @color[#f15825](**use**) open source data bases: [#4](https://github.com/baloise/open-source/issues/4)
 
-2. Establish a ranking of projects to be @color[#b8b8b8](**sponsored**)
+2. Establish a ranking of projects to be @color[#b8b8b8](**sponsored**): [#20](https://github.com/baloise/open-source/issues/20)
 
-3. Identify inhouse systems to be @color[#f69517](**released**)
+3. Identify inhouse systems to be @color[#f69517](**released**): [#18](https://github.com/baloise/open-source/issues/18)
 
-4. Build a @color[#36363f](**network**) of interested insurers
+4. Build a @color[#36363f](**network**) of interested insurers: [#11](https://github.com/baloise/open-source/issues/11)
 
-Contact providers and IT service companies to elaborate contracts
+Contact providers and IT service companies to elaborate contracts: [#19](https://github.com/baloise/open-source/issues/19)
 
 +++
 
