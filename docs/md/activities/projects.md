@@ -16,7 +16,7 @@ sorted alphabetically by name
 
 | name | website | phase<sup>1</sup> |
 |:-------------:|:---------:|:-----:|
-| [firewalld](https://github.com/crayfishx/puppet-firewalld) | [![logo](https://forge.puppet.com/assets/806a71c/images/forge-logo.png)](https://forge.puppet.com/crayfishx/firewalld) | mature |
+| [firewalld](https://github.com/crayfishx/puppet-firewalld) | [![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Puppet_Logo.svg/320px-Puppet_Logo.svg.png)](https://forge.puppet.com/crayfishx/firewalld) | mature |
 | [Jerakia](https://github.com/crayfishx/jerakia) | [![logo](http://jerakia.io/lerakia-logo.png)](http://jerakia.io/) | mature |
 | [Liima](https://github.com/liimaorg) | [![logo](https://rawgit.com/liimaorg/brand/master/logos/Logo%20Liima%20RGB.svg)](http://www.liima.org) | mature |
 
