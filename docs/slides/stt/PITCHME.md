@@ -2,23 +2,6 @@
 
 # @color[#FFFFFF](Open Source)
 
-+++
-@title[about/me]
-
-![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png)
-
-[@MarkusTiede](https://twitter.com/markustiede)
-
-Software & Security Engineer @ [Baloise](https://www.baloise.com)
-
-Open Source Developer & Enthusiast since 2010
-
-+++
-
-## Q3 / Q4 - #Option 35: Open-Source
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/1024px-121212_2_OpenSwissKnife.png)
-
 ---
 
 # openness
@@ -27,45 +10,9 @@ Open Source Developer & Enthusiast since 2010
 
 ## share: ideas and knowledge
 
-+++?image=https://opensource.org/files/AffiliateLogosFinal_33.png&size=contain
-
-+++
-
-@css[title-top-right](OS Hardware in 2012)
-
-![Open Source Ecology Project](https://player.vimeo.com/video/51764445)
-
-+++?image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Opensource.svg/1000px-Opensource.svg.png&size=contain
-
-+++?image=https://www.gnu.org/graphics/logo-fsf.org.png&size=contain
-
 +++?image=https://theundercoverchristian.files.wordpress.com/2013/07/free-beer.jpg
 
 +++?image=https://upload.wikimedia.org/wikipedia/commons/a/a6/Freebeer_english3.2.svg&size=contain
-
-+++
-
-### Freedom 0: Free to use
-Anyone can use it, however they like.
-
-### Freedom 1: Free to copy
-Anyone can get a copy for the cost of media.
-
-### Freedom 2: Free to modify
-If I don't like how it works, I can change it.
-
-### Freedom 3: Free to distribute
-I can share my changes.
-
-+++
-
-# freedom
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg/200px-Icon_Digitale_Nachhaltigkeit_Farbig.svg.png)
-
-necessary precondition to meet factors for [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#10_Voraussetzungen_der_digitalen_Nachhaltigkeit)
-
-aligns well with [corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility)
 
 ---
 
@@ -101,63 +48,12 @@ created partnerships: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](ht
 
 [backlog of ideas](https://github.com/baloise/open-source/issues) with next evolutionary steps
 
----?color=#36363f
-# @color[white](0 → 1:) @color[lightgreen](benefits)
-
-## @color[orange](risks)
-
-+++?color=#36363f
-## @color[lightgreen](no primary license costs)
-
-@color[white](no make or buy decision: _take_)
-
-@color[white](on application and _library_ level)
-
-[TCO](https://en.wikipedia.org/wiki/Total_cost_of_ownership) @color[orange](not always taken into account)
-
-@color[white](usage often has (legal) implications)
-
-[most](https://baloise.github.io/open-source/docs/arc42/#_using_existing_open_source) @color[lightgreen](is uncritical for Baloise)
-
-@color[orange](public APIs: check AGPL in back-end)
-
-+++?color=#36363f
-## @color[lightgreen](mitigation of lock-in risks)
-
-@color[orange](shared ownership) @color[white](of source code)
-
-@color[white](open data formats → de facto standards)
-
-@color[white](increased interoperability)
-
-@color[lightgreen](vendor flexibility / neutrality)
-
 ---?color=#f15825
 # @color[white](1. Use)
 
 make or buy? take!
 
 explicit and implicit
-
-+++?color=#f15825
-
-![](https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg)
-
-[IBM to Buy Red Hat](https://www.nytimes.com/2018/10/28/business/ibm-red-hat-cloud-computing.html) for $34 Billion
-
-Red Hat: a company dedicated to Open Source since the beginning (1993) with no* exclusive intellectual property
-
-+++?image=http://2.bp.blogspot.com/-J5btAKhCKJ8/UW1bt20M1kI/AAAAAAAAA-8/8TOYEQWpB1A/s1600/Marwell_Animals.jpg&size=contain
-
-+++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain
-
-## PostgreSQL @color[lightgreen](✓)
-
-+++?image=http://fleetmagazine.mercedes-benz.co.uk/imgs/articles/fleet-awards/rectangle-1.jpg&size=contain
-
-@snap[south]
-@size[2.5em](@color[#f15825](implicit))
-@snapend
 
 +++
 
@@ -171,52 +67,12 @@ Red Hat: a company dedicated to Open Source since the beginning (1993) with no* 
 
 ![](https://github.com/baloise/open-source/raw/master/docs/slides/intro/swisscom.png)
 
-+++
-
-# @color[lightgreen](potential)
-
-take → safe money
-
-driven by huge, public communities → vendor neutrality
-
-# @color[orange](risk)
-
-security, (patent) and license violation(s)
-
-+++
-
-## 1 → 2: fix the problem (80%) not a symptom (20%)
-
-![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
-
 ---?color=#b8b8b8
 # 2. Contribute
 
 (bug) reports, fixes, documentation, examples
 
 intrinsic learn of [best practices](https://opensource.guide) for open collaboration
-
-+++?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain
-
-# [baloise](https://github.com/baloise)
-
-+++
-
-# @color[lightgreen](potential)
-
-learn [best practices](https://opensource.guide) for open collaboration
-
-intrinsic motivation @ work
-
-# @color[orange](risk)
-
-unclear handling of intellectual property
-
-+++
-
-## 2 → 3: be(come) a part of the 80%
-
-![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
 
 ---?color=#f69517
 # @color[white](3. Champion)
@@ -226,56 +82,6 @@ being consumed / used
 single project / regional
 
 share costs + gain trust, reputation and visibility
-
-+++
-
-![](https://png.pngtree.com/element_origin_min_pic/17/08/03/08b95a8c29ae5dd081aae3c70e1d8595.jpg)
-
-a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardening)
-
-+++?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain&color=gray
-@title[Github]
-## [github.com/baloise](https://github.com/baloise)
-
-@color[white](founded in **2013**)
-
-@color[white](50+ repos, 4 plugins with total ~47.000 installations on Eclipse and [Atlassian](https://marketplace.atlassian.com/vendors/1211530/baloise-group) marketplace)
-
-@color[white](60+ people [from Baloise Group](https://github.com/orgs/baloise/people))
-
-@color[white](10+ external contributors fom Germany, California, Memphis, Tokyo)
-
-@color[white](translated into german, english, french and ...)
-
-+++
-
-Die [Mobiliar & Baloise](http://www.liima.org/#partner) Group
-
-![](https://rawgit.com/liimaorg/brand/master/logos/Logo%20Liima%20RGB.svg)
-
-+++?image=https://rawgit.com/open-prevo/openprevo/master/doc/assets/img/logo.svg&size=contain
-
-# [OpenPrevo](https://github.com/open-prevo/openprevo#openprevo)
-
-+++
-
-# @color[lightgreen](potential)
-
-share costs
-
-gain trust and visibility
-
-reputation as insurer and as employer
-
-# @color[orange](risk)
-
-ask for forgiveness (not for permission)
-
-+++
-
-## 3 → 4: active shaping of the 80%-landscape
-
-![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
 
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
@@ -305,12 +111,6 @@ Q1, Q2: proposed term and [open-insurance.org](https://open-insurance.org), IiaB
 Q3: Open Insurance initiative ([OPIN](https://openinsurance.io)) - incl. trademarks
 
 Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to-stay/)
-
-+++
-
-### @color[lightgreen](potential) "challenge" [GAFAM](https://en.wikipedia.org/wiki/Big_Four_tech_companies)
-
-![](https://www.knolskape.com/wp-content/uploads/2018/07/KNOLSKAPE_GAFAM_blog_web_banner.png)
 
 ---?image=https://www.knowledgewave.com/hubfs/blog_images/iStock_3_steps.jpg&size=contain
 
