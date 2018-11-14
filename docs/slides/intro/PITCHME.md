@@ -194,6 +194,8 @@ security, (patent) and license violation(s)
 
 (bug) reports, fixes, documentation, examples
 
+intrinsic learn of [best practices](https://opensource.guide) for open collaboration
+
 +++?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain
 
 # [baloise](https://github.com/baloise)
@@ -219,9 +221,11 @@ unclear handling of intellectual property
 ---?color=#f69517
 # @color[white](3. Champion)
 
-being consumed / used - single project / regional
+being consumed / used
 
-share costs - gain trust, reputation and visibility
+single project / regional
+
+share costs + gain trust, reputation and visibility
 
 +++
 
@@ -281,16 +285,14 @@ ask for forgiveness (not for permission)
 
 Open Source is a _software development model_ and has **no business model**
 
-Companies have business models - Open Source can support those
-
-[18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches)
+Companies have business models - Open Source can support those: [18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches)
 
 +++
 ## Baloise Group
 
-(our) [API](https://en.wikipedia.org/wiki/Application_programming_interface)s @color[lightgreen](being consumed [**vendor neutral**] and embedded) building an open collaboration network
+@color[grey]([our]) [API](https://en.wikipedia.org/wiki/Application_programming_interface)s @color[lightgreen](being consumed [**vendor neutral**] and embedded) building an open collaboration network
 
-Open Source @color[lightgreen](**best practices**) for _trust_, _joined forces_ and at the same time _being protected_ from each other
+Open Source: @color[lightgreen](**best practices**) for _trust_ (by transparency), _joined forces_ and at the same time _being protected_ (by freedom granting licenses) from each other
 
 +++
 
