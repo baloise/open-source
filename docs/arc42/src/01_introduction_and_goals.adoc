@@ -26,9 +26,9 @@ This document is supposed to cover all three engineering driven steps of: using 
 [[section-code-of-conduct]]
 === Code of Conduct
 
-<2do> - Summary
+As a general rule, it is the responsibility of each individual employee to ensure his or her behaviour is in keeping with legal and ethical principles. To provide basic behavioural guidelines, we link our to https://baloise.github.io/open-source/docs/md/guides/governance.html#code-of-conduct[code of conduct(s)] containing these essential ethical and legal rules.
 
-Meet corporate governance guidelines as well as open source community best practices by having and respecting https://baloise.github.io/open-source/docs/md/guides/governance.html#code-of-conduct[our code of conduct(s)].
+In **summary** - https://en.wikipedia.org/wiki/Don%27t_be_evil["Do the right thing!"]
 
 === Stakeholders
 
