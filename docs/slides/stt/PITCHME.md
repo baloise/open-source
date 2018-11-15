@@ -53,7 +53,7 @@ created partnerships: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](ht
 
 make or buy? take!
 
-explicit and implicit
+explicit and impli(ɔ)it
 
 +++
 
