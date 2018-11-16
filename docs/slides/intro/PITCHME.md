@@ -159,9 +159,9 @@ RHEL(inux), OpenShift, Ansible, JBoss, ...
 
 ### @color[lightgreen](PostgreSQL ✓)
 
-### @color[lightgreen](MySQL, MariaDB, h2 ✓)
+#### @color[lightgreen](MySQL → MariaDB, h2 ✓)
 
-### @color[lightgreen](SOLR, prometheus, neo4j ✓)
+#### @color[lightgreen](SOLR, prometheus, neo4j ✓)
 
 +++?image=http://fleetmagazine.mercedes-benz.co.uk/imgs/articles/fleet-awards/rectangle-1.jpg&size=contain
 
