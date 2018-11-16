@@ -153,7 +153,7 @@ RHEL(inux), OpenShift, Ansible, JBoss, ...
 
 +++?image=http://2.bp.blogspot.com/-J5btAKhCKJ8/UW1bt20M1kI/AAAAAAAAA-8/8TOYEQWpB1A/s1600/Marwell_Animals.jpg&size=contain
 
-+++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain
++++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain&color=black
 
 ## data base systems
 
