@@ -387,5 +387,9 @@ recommendation: join **[industry working groups](https://www.eclipse.org/org/wor
 
 +++
 
-## further reading(s)
+## further information
 [ERNST & YOUNG, 2011: Open source software in business-critical environments](https://www.ossdirectory.com/fileadmin/user_upload/opensource.ch/knowhow/2011_OpenSourceSoftwareInBusiness-criticalEnvironments.pdf)
+
+[Our projects and sponsorings](https://baloise.github.io/open-source/docs/md/activities/projects.html#hosted)
+
+[Media about open source @ Baloise](https://baloise.github.io/open-source/docs/md/activities/media.html#about-us)
