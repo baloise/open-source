@@ -273,9 +273,9 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 # [OpenPrevo](https://github.com/open-prevo/openprevo#openprevo)
 
-## Baloise, Helvetia, (Zurich), Prevo
+Baloise, Helvetia, (Zurich), Prevo
 
-## MVP: June - August 2018
+MVP: June - August 2018
 
 +++
 
