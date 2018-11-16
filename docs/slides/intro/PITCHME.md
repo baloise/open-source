@@ -155,13 +155,13 @@ RHEL(inux), OpenShift, Ansible, JBoss, ...
 
 +++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain&color=black
 
-## data base systems
+## @color[black](data bases)
 
-### PostgreSQL @color[lightgreen](✓)
+### @color[lightgreen](PostgreSQL ✓)
 
-### MySQL, MariaDB, h2 @color[lightgreen](✓)
+### @color[lightgreen](MySQL, MariaDB, h2 ✓)
 
-### SOLR, prometheus, neo4j @color[lightgreen](✓)
+### @color[lightgreen](SOLR, prometheus, neo4j ✓)
 
 +++?image=http://fleetmagazine.mercedes-benz.co.uk/imgs/articles/fleet-awards/rectangle-1.jpg&size=contain
 
