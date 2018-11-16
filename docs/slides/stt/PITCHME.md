@@ -149,11 +149,11 @@ recommendation(s): be ready for 4
 +++?color=#b8b8b8
 # 2. Contribute
 
-1. commitment to Openness @ Baloise - add to CoC
+1. commitment to Openness - add to [Code of Conduct](https://www.baloise.com/en/home/about-us/corporate-governance.html)
 
-2. time to learn and contribute @ Baloise
+2. time to learn and contribute
 
-3. identify and sponsor (strategic) projects
+3. sponsor (strategic) projects: in- and external
 
 +++?color=#f69517
 # @color[white](3. Champion)
