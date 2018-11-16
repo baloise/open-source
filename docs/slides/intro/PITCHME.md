@@ -302,7 +302,12 @@ ask for forgiveness (not for permission)
 
 structure follows strategy
 
++++?color=#36363f
+
+[![](https://github.com/baloise/open-source/raw/master/docs/slides/intro/strategic-invest.png)](https://github.com/kubernetes/kubernetes)
+
 +++
+
 ## Business Models
 
 Open Source is a _software development model_ and has **no business model**
