@@ -267,7 +267,7 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 @color[white](10+ external contributors fom Germany, California, Memphis, Tokyo)
 
-@color[white]([TAF](https://github.com/baloise/test-automation-framework), talks, workshops, POCs, ...)
+[TAF](https://github.com/baloise/test-automation-framework), @color[white](talks, workshops, POCs, ...)
 
 +++?image=https://rawgit.com/open-prevo/openprevo/master/doc/assets/img/logo.svg&size=contain
 
