@@ -220,7 +220,7 @@ intrinsic learn of [best practices](https://opensource.guide) for open collabora
 
 Craig Dunn - (Jerakia &) [firewalld](https://forge.puppet.com/crayfishx/firewalld): 300k downloads - used [@CERN](https://gitlab.cern.ch/linuxsupport/puppet-firewalld/tree/master/code#author)
 
-[Die Mobiliar & Baloise Group](http://www.liima.org/#partner) - Liima: middleware automation
+[Die Mobiliar & Baloise Group & Puzzle ITC GmbH](http://www.liima.org/#partner) - Liima: middleware automation
 
 +++
 
@@ -272,6 +272,10 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 +++?image=https://rawgit.com/open-prevo/openprevo/master/doc/assets/img/logo.svg&size=contain
 
 # [OpenPrevo](https://github.com/open-prevo/openprevo#openprevo)
+
+## Baloise, Helvetia, (Zurich), Prevo
+
+## MVP: June - August 2018
 
 +++
 
