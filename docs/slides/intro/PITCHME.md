@@ -216,6 +216,14 @@ intrinsic learn of [best practices](https://opensource.guide) for open collabora
 
 +++
 
+# [sponsoring](https://baloise.github.io/open-source/docs/md/activities/projects.html#sponsored)
+
+Craig Dunn - (Jerakia &) [firewalld](https://forge.puppet.com/crayfishx/firewalld): 300k downloads - used [@CERN](https://gitlab.cern.ch/linuxsupport/puppet-firewalld/tree/master/code#author)
+
+[Die Mobiliar & Baloise Group](http://www.liima.org/#partner) - Liima: middleware automation
+
++++
+
 # @color[lightgreen](potential)
 
 learn [best practices](https://opensource.guide) for open collaboration
