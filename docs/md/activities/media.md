@@ -2,7 +2,9 @@
 
 # Media
 
-## Articles
+## about us
+
+### articles
 
 ### `de` 28.08.2018 - "Entwicklung einer Vorsorge-Plattform", _Thomas Schöb_ - [Baloise Semesterabschluss 2018 - C-Level Insights](https://www.baloise.com/de/home/medien/semesterabschluss/c-level-insights-thomas-schoeb.html)
 
@@ -12,6 +14,11 @@
 
 ### `de` 22.02.2017 - "Schweizer 'Automatisierungs-Middleware' wird Open Source" - [inside-it.ch](https://www.inside-it.ch/articles/46717)
 
-## Presentations
+### presentations
 
 ### `en` ["Introduction to Open-Source @ Baloise"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro), _Markus Tiede_
+
+
+## about others
+
+### videos
