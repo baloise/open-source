@@ -2,7 +2,9 @@
 
 # Media
 
-## Articles
+## about us
+
+### articles
 
 ### `de` 28.08.2018 - "Entwicklung einer Vorsorge-Plattform", _Thomas Schöb_ - [Baloise Semesterabschluss 2018 - C-Level Insights](https://www.baloise.com/de/home/medien/semesterabschluss/c-level-insights-thomas-schoeb.html)
 
@@ -12,6 +14,31 @@
 
 ### `de` 22.02.2017 - "Schweizer 'Automatisierungs-Middleware' wird Open Source" - [inside-it.ch](https://www.inside-it.ch/articles/46717)
 
-## Presentations
+### presentations
 
 ### `en` ["Introduction to Open-Source @ Baloise"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro), _Markus Tiede_
+
+
+## about others
+
+### videos
+
+#### introduction
+
+##### `en` ["Open Source Basics | Intel Software" - @youtube.com by Intel Software](https://www.youtube.com/watch?v=Tyd0FO0tko8)
+
+##### `en` ["What is Open Source explained in LEGO" - @youtube.com by Socialsquare](https://www.youtube.com/watch?v=a8fHgx9mE5U)
+
+#### inspiring
+
+##### `en` ["Build yourself. | Tristan Copley Smith" - @vimeo.com by Focus Forward Films](https://vimeo.com/51764445)
+
+##### `en` ["Civilization starter kit | Marcin Jakubowski | TEDxKC" - @youtube.com by TEDx Talks](https://www.youtube.com/watch?v=S63Cy64p2lQ)
+
+##### `en` ["How Linux is Built" - @youtube.com by The Linux Foundation](https://www.youtube.com/watch?v=yVpbFMhOAwE)
+
+#### Red Hat
+
+##### `en` ["The Red Hat Way" - @youtube.com by Red Hat Videos](https://www.youtube.com/watch?v=ySyPIoyXJ-k)
+
+##### `en` ["Truth Happens Remix" - @youtube.com by Red Hat Videos](https://www.youtube.com/watch?v=5EkkMfjetEY)
