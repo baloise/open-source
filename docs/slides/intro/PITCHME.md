@@ -302,6 +302,14 @@ ask for forgiveness (not for permission)
 
 structure follows strategy
 
++++
+
+## Business Models
+
+Open Source is a _software development model_ and has **no business model**
+
+Companies have business models - Open Source can support those: [18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches)
+
 +++?color=#36363f
 
 The Linux Foundation: [$5 Billion Value in 2015](https://www.linux.com/publications/estimating-total-development-cost-linux-foundations-collaborative-projects)
@@ -313,14 +321,6 @@ Cloud Native Computing Foundation (CNCF) - Q4/2018: [funding of $17.3 Billion](h
 The Eclipse Foundation: [$8.7 Billion Value in 2018](https://blogs.eclipse.org/post/thabang-mashologu/87-billion-shared-investment-sizing-economic-value-eclipse-community)
 
 Case Study: » [Bosch Pursues An Open Strategy](https://iot.eclipse.org/case-studies/bosch-leadership-in-eclipse-iot/)
-
-+++
-
-## Business Models
-
-Open Source is a _software development model_ and has **no business model**
-
-Companies have business models - Open Source can support those: [18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches)
 
 +++
 ## Baloise Group
