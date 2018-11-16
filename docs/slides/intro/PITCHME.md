@@ -269,12 +269,6 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 @color[white](translated into german, english, french and ...)
 
-+++
-
-Die [Mobiliar & Baloise](http://www.liima.org/#partner) Group
-
-![](https://rawgit.com/liimaorg/brand/master/logos/Logo%20Liima%20RGB.svg)
-
 +++?image=https://rawgit.com/open-prevo/openprevo/master/doc/assets/img/logo.svg&size=contain
 
 # [OpenPrevo](https://github.com/open-prevo/openprevo#openprevo)
