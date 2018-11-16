@@ -2,7 +2,6 @@
 *.log
 
 # IDE settings
-.settings
 .classpath
 .project
 

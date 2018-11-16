@@ -53,7 +53,7 @@ created partnerships: [CH-Open](https://www.ch-open.ch), [Eclipse Foundation](ht
 
 make or buy? take!
 
-explicit and implicit
+explicit and impli(ɔ)it
 
 +++
 
@@ -85,6 +85,8 @@ share costs + gain trust, reputation and visibility
 
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
+
+structure follows strategy
 
 +++
 ## Business Models
@@ -136,7 +138,7 @@ recommendation(s): be ready for 4
 
 1. commitment to Openness @ Baloise - add to CoC
 
-2. time to learn and educate @ Baloise
+2. time to learn and contribute @ Baloise
 
 3. identify and sponsor (strategic) projects
 
