@@ -143,9 +143,11 @@ explicit and impli(ɔ)it
 
 ## @color[white](strategic)
 
-RHEL, JBoss, OpenShift, Ansible, ...
+operating system, container, automation, middleware, ...
 
 ![](https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg)
+
+RHEL(inux), OpenShift, Ansible, JBoss, ...
 
 [IBM to Buy Red Hat](https://www.nytimes.com/2018/10/28/business/ibm-red-hat-cloud-computing.html) for $34 Billion
 
