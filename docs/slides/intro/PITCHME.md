@@ -151,6 +151,10 @@ RHEL(inux), OpenShift, Ansible, JBoss, ...
 
 [IBM to Buy Red Hat](https://www.nytimes.com/2018/10/28/business/ibm-red-hat-cloud-computing.html) for $34 Billion
 
++++?color=#f15825
+
+## @color[white](non-strategic: take)
+
 +++?image=http://2.bp.blogspot.com/-J5btAKhCKJ8/UW1bt20M1kI/AAAAAAAAA-8/8TOYEQWpB1A/s1600/Marwell_Animals.jpg&size=contain
 
 +++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain&color=black
