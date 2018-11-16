@@ -141,11 +141,13 @@ explicit and impli(ɔ)it
 
 +++?color=#f15825
 
+## @color[white](strategic)
+
+RHEL, JBoss, OpenShift, Ansible, ...
+
 ![](https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg)
 
 [IBM to Buy Red Hat](https://www.nytimes.com/2018/10/28/business/ibm-red-hat-cloud-computing.html) for $34 Billion
-
-Red Hat: a company dedicated to Open Source since the beginning (1993) with no* exclusive intellectual property
 
 +++?image=http://2.bp.blogspot.com/-J5btAKhCKJ8/UW1bt20M1kI/AAAAAAAAA-8/8TOYEQWpB1A/s1600/Marwell_Animals.jpg&size=contain
 
