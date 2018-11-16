@@ -86,6 +86,8 @@ share costs + gain trust, reputation and visibility
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
 
+structure follows strategy
+
 +++
 ## Business Models
 
