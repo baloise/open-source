@@ -304,7 +304,15 @@ structure follows strategy
 
 +++?color=#36363f
 
+The Linux Foundation: [$5 Billion Value in 2015](https://www.linux.com/publications/estimating-total-development-cost-linux-foundations-collaborative-projects) - in same year sub-project founded:
+
+Cloud Native Computing Foundation ([CNCF landscape](https://landscape.cncf.io)) - Q4/2018: funding of $17.3 Billion
+
 [![](https://github.com/baloise/open-source/raw/master/docs/slides/intro/strategic-invest.png)](https://github.com/kubernetes/kubernetes)
+
+The Eclipse Foundation: [$8.7 Billion Value in 2018](https://blogs.eclipse.org/post/thabang-mashologu/87-billion-shared-investment-sizing-economic-value-eclipse-community)
+
+Case Study: » [Bosch Pursues An Open Strategy To Transform IoT](https://iot.eclipse.org/case-studies/bosch-leadership-in-eclipse-iot/)
 
 +++
 
