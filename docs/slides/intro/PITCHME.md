@@ -338,7 +338,7 @@ recommendation(s): be ready for 4
 
 1. commitment to Openness @ Baloise - add to CoC
 
-2. time to learn and educate @ Baloise
+2. time to learn and contribute @ Baloise
 
 3. identify and sponsor (strategic) projects
 
