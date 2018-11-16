@@ -141,7 +141,7 @@ explicit and impli(ɔ)it
 
 +++?color=#f15825
 
-## @color[white](strategic)
+## @color[white](strategic: buy & take)
 
 operating system, container, automation, middleware, ...
 
@@ -155,12 +155,18 @@ RHEL(inux), OpenShift, Ansible, JBoss, ...
 
 +++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain
 
-## PostgreSQL @color[lightgreen](✓)
+## data base systems
+
+### PostgreSQL @color[lightgreen](✓)
+
+### MySQL, MariaDB, h2 @color[lightgreen](✓)
+
+### SOLR, prometheus, neo4j @color[lightgreen](✓)
 
 +++?image=http://fleetmagazine.mercedes-benz.co.uk/imgs/articles/fleet-awards/rectangle-1.jpg&size=contain
 
 @snap[south]
-@size[2.5em](@color[#f15825](implicit))
+@size[2.5em](@color[#f15825](implicit use))
 @snapend
 
 +++
