@@ -373,16 +373,16 @@ recommendation(s): be ready for 4
 
 1. commitment to Openness - add to [Code of Conduct](https://www.baloise.com/en/home/about-us/corporate-governance.html)
 
-2. time to learn and contribute
+2. time to learn and contribute: Goldcards+
 
 3. sponsor (strategic) projects: in- and external
 
 +++?color=#f69517
 # @color[white](3. Champion)
 
-1. start (small) [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office) - 3 FTEs
+1. start (3 FTEs) [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
 
-2. resources for partnerships - building a [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network) - 50k per year
+2. resources (50k / year) for [partnerships](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
 
 3. [Open Source Guideline](https://baloise.github.io/open-source/docs/arc42/) execution
 
