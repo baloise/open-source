@@ -391,7 +391,7 @@ recommendation(s): be ready for 4
 
 recommendation: join **[industry working groups](https://www.eclipse.org/org/workinggroups/)** about vendor neutral vision: open-insurance
 
-business driver: IiaB + API management (IT CH)
+business driver: IiaB & API management
 
 ---
 # Thanks!
