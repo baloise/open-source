@@ -355,12 +355,14 @@ Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to
 
 continue: execute on 1-3
 
+CIT and IT-CH → apply to Baloise Group
+
 recommendation(s): be ready for 4
 
 +++?color=#f15825
 # @color[white](1. Use)
 
-1. elimate technical infrastructure obstacles
+1. eliminate technical infrastructure obstacles
 
 2. [success stories](https://www.ossdirectory.com/oss-firmen/single/ossfirm/baloise-group) about Open Source @ Baloise
 
@@ -378,9 +380,9 @@ recommendation(s): be ready for 4
 +++?color=#f69517
 # @color[white](3. Champion)
 
-1. start (small) [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
+1. start (small) [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office) - 3 FTEs
 
-2. resources for partnerships - building a [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
+2. resources for partnerships - building a [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network) - 50k per year
 
 3. [Open Source Guideline](https://baloise.github.io/open-source/docs/arc42/) execution
 
@@ -388,6 +390,8 @@ recommendation(s): be ready for 4
 # @color[white](4. Strategic Invest)
 
 recommendation: join **[industry working groups](https://www.eclipse.org/org/workinggroups/)** about vendor neutral vision: open-insurance
+
+use IiaB as a business driver for these activities + API management
 
 ---
 # Thanks!
