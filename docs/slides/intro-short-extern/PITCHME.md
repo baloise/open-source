@@ -6,8 +6,6 @@
 
 +++?image=https://github.com/baloise/talk-cicd-javascript/raw/master/img/baloise-park.jpg&size=contain
 
-## @color[#20519a](Baloise Group)
-
 +++
 @title[about]
 
