@@ -160,9 +160,9 @@ recommendation(s): be ready for 4
 +++?color=#f69517
 # @color[white](3. Champion)
 
-1. start (3 FTEs) [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
+1. start [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
 
-2. resources (50k / year) for [partnerships](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
+2. resources for [partnerships](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
 
 3. [Open Source Guideline](https://baloise.github.io/open-source/docs/arc42/) execution
 

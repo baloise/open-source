@@ -143,7 +143,7 @@ explicit and impli(ɔ)it
 
 ## @color[white](strategic: buy & take)
 
-operating system, container, automation, middleware, ...
+operating system, container, automation, middleware
 
 ![](https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg)
 
@@ -170,7 +170,7 @@ RHEL(inux), OpenShift, Ansible, JBoss, ...
 +++?image=http://fleetmagazine.mercedes-benz.co.uk/imgs/articles/fleet-awards/rectangle-1.jpg&size=contain
 
 @snap[south]
-@size[2.5em](@color[#f15825](implicit use))
+@size[1.5em](@color[#f15825](implicit use))
 @snapend
 
 +++
@@ -220,7 +220,7 @@ intrinsic learn of [best practices](https://opensource.guide) for open collabora
 
 Craig Dunn - (Jerakia &) [firewalld](https://forge.puppet.com/crayfishx/firewalld): 300k downloads - used [@CERN](https://gitlab.cern.ch/linuxsupport/puppet-firewalld/tree/master/code#author)
 
-[Die Mobiliar & Baloise Group & Puzzle ITC GmbH](http://www.liima.org/#partner) - Liima: middleware automation
+[Die Mobiliar & Baloise Group & Puzzle ITC GmbH](http://www.liima.org/#partner) - [Liima](https://github.com/liimaorg): middleware automation
 
 +++
 
@@ -261,9 +261,9 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 @color[white](founded in **2013**)
 
-@color[white](50+ repos, 4 plugins with total ~47.000 installations on Eclipse and [Atlassian](https://marketplace.atlassian.com/vendors/1211530/baloise-group) marketplace)
+@color[white](50+ repos, 4 plugins with total ~47.000 installations on Eclipse and) [Atlassian marketplace](https://marketplace.atlassian.com/vendors/1211530/baloise-group)
 
-@color[white](60+ people [from Baloise Group](https://github.com/orgs/baloise/people))
+@color[white](60+ people) [from Baloise Group](https://github.com/orgs/baloise/people)
 
 @color[white](10+ external contributors fom Germany, California, Memphis, Tokyo)
 
@@ -380,9 +380,9 @@ recommendation(s): be ready for 4
 +++?color=#f69517
 # @color[white](3. Champion)
 
-1. start (3 FTEs) [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
+1. start [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
 
-2. resources (50k / year) for [partnerships](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
+2. resources for [partnerships](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
 
 3. [Open Source Guideline](https://baloise.github.io/open-source/docs/arc42/) execution
 
