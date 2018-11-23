@@ -11,10 +11,8 @@
 +++
 @title[about]
 
-[@MarkusTiede](https://twitter.com/MarkusTiede)
+[@MarkusTiede](https://twitter.com/MarkusTiede) - ![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse") - Software Engineer
  
 ![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png)
 
-![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
-
-Software Engineer & **Open Source Advocat** @ [Baloise](https://www.baloise.com)
+**Open Source Advocate** @ [Baloise CH](https://www.baloise.ch)
