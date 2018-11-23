@@ -17,7 +17,7 @@
 
 ---
 
-# explain freedom of OS
+# explain open source
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg/200px-Icon_Digitale_Nachhaltigkeit_Farbig.svg.png)
 
@@ -25,9 +25,7 @@ precondition for [digital sustainability](https://de.wikipedia.org/wiki/Digitale
 
 [corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility)
 
-+++
-
-![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
++++?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
 
 ---?color=#f15825
 # @color[white](1. Use)
@@ -40,7 +38,7 @@ explicit and impli(ɔ)it
 
 ## @color[white](strategic: buy & take)
 
-operating system, container, automation, middleware, ...
+operating system, container, automation, middleware
 
 ![](https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg)
 
@@ -52,20 +50,10 @@ RHEL(inux), OpenShift, Ansible, JBoss, ...
 
 +++?image=http://2.bp.blogspot.com/-J5btAKhCKJ8/UW1bt20M1kI/AAAAAAAAA-8/8TOYEQWpB1A/s1600/Marwell_Animals.jpg&size=contain
 
-+++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain&color=black
-
-## @color[black](data bases)
-
-### @color[lightgreen](PostgreSQL ✓)
-
-#### @color[lightgreen](MySQL → MariaDB, h2 ✓)
-
-#### @color[lightgreen](SOLR, prometheus, neo4j ✓)
-
 +++?image=http://fleetmagazine.mercedes-benz.co.uk/imgs/articles/fleet-awards/rectangle-1.jpg&size=contain
 
 @snap[south]
-@size[2.5em](@color[#f15825](implicit use))
+@size[1.5em](@color[#f15825](implicit use))
 @snapend
 
 +++
@@ -120,14 +108,6 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 [TAF](https://github.com/baloise/test-automation-framework)@color[white](, talks, workshops, POCs, ...)
 
-+++?image=https://rawgit.com/open-prevo/openprevo/master/doc/assets/img/logo.svg&size=contain
-
-# [OpenPrevo](https://github.com/open-prevo/openprevo#openprevo)
-
-Baloise, Helvetia, (Zurich), Prevo
-
-MVP: June - August 2018
-
 +++
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png)
@@ -141,7 +121,7 @@ structure follows strategy
 
 +++
 
-## 2018 space for open-insurance
+### 2018 / 2019: open-insurance?
 
 ![](https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png)
 
