@@ -123,11 +123,11 @@ structure follows strategy
 
 ![](https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png)
 
+2017: [Open Source Edition of (...) Allianz Business System (ABS)](https://www.allianz.com/en_GB/press/news/business/insurance/180129-allianz-sets-up-open-platform.html)
+
 Q1, Q2: proposed term and [open-insurance.org](https://open-insurance.org)
 
-Q3: Open Insurance initiative ([OPIN](https://openinsurance.io)) - incl. trademarks
-
-Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to-stay/)
+Q3, Q4: ([OPIN](https://openinsurance.io)) + [OpenCologne](http://deliverythinking.com/insurance-to-stay/)
 
 ---
 # Thanks!
