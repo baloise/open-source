@@ -73,7 +73,7 @@ intrinsic learn of [best practices](https://opensource.guide) for open collabora
 
 Craig Dunn - (Jerakia &) [firewalld](https://forge.puppet.com/crayfishx/firewalld): 300k downloads - used [@CERN](https://gitlab.cern.ch/linuxsupport/puppet-firewalld/tree/master/code#author)
 
-[Die Mobiliar & Baloise Group & Puzzle ITC GmbH](http://www.liima.org/#partner) - Liima: middleware automation
+[Die Mobiliar & Baloise Group & Puzzle ITC GmbH](http://www.liima.org/#partner) - [Liima](https://github.com/liimaorg): middleware automation
 
 ---?color=#f69517
 # @color[white](3. Champion)
@@ -96,9 +96,9 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 @color[white](founded in **2013**)
 
-@color[white](50+ repos, 4 plugins with total ~47.000 installations on Eclipse and [Atlassian](https://marketplace.atlassian.com/vendors/1211530/baloise-group) marketplace)
+@color[white](50+ repos, 4 plugins with total ~47.000 installations on Eclipse and) [Atlassian marketplace](https://marketplace.atlassian.com/vendors/1211530/baloise-group)
 
-@color[white](60+ people [from Baloise Group](https://github.com/orgs/baloise/people))
+@color[white](60+ people) [from Baloise Group](https://github.com/orgs/baloise/people)
 
 @color[white](10+ external contributors fom Germany, California, Memphis, Tokyo)
 
