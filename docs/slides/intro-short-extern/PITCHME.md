@@ -3,3 +3,7 @@
 @snap[south]
 @size[1.25em](... @color[red](♥) Open Source)
 @snapend
+
++++?image=https://github.com/baloise/talk-cicd-javascript/raw/master/img/baloise-park.jpg&size=contain
+
+## @color[white](about/[baloise](https://www.baloise.com))
