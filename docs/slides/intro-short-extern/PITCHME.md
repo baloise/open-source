@@ -17,7 +17,7 @@
 
 ---
 
-# explain open source
+## explain open source
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg/200px-Icon_Digitale_Nachhaltigkeit_Farbig.svg.png)
 
@@ -43,10 +43,6 @@ operating system, container, automation, middleware
 ![](https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg)
 
 RHEL(inux), OpenShift, Ansible, JBoss, ...
-
-+++?color=#f15825
-
-## @color[white](non-strategic: take)
 
 +++?image=http://2.bp.blogspot.com/-J5btAKhCKJ8/UW1bt20M1kI/AAAAAAAAA-8/8TOYEQWpB1A/s1600/Marwell_Animals.jpg&size=contain
 
@@ -110,9 +106,11 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 +++
 
+## [Baloise OS Guidelines](https://baloise.github.io/open-source/docs/arc42/)
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png)
 
-## [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
+thanks to [Zalando Open Source](https://opensource.zalando.com)!
 
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
