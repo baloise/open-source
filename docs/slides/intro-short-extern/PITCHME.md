@@ -6,4 +6,13 @@
 
 +++?image=https://github.com/baloise/talk-cicd-javascript/raw/master/img/baloise-park.jpg&size=contain
 
-## @color[white](about/[baloise](https://www.baloise.com))
+## @color[white](about/baloise)
+
++++
+@title[about]
+ 
+![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png)
+
+![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
+
+Software Engineer & **Open Source Advocat** @ [Baloise](https://www.baloise.com)
