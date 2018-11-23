@@ -123,7 +123,7 @@ structure follows strategy
 
 ![](https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png)
 
-2017: [Open Source Edition of (...) Allianz Business System (ABS)](https://www.allianz.com/en_GB/press/news/business/insurance/180129-allianz-sets-up-open-platform.html)
+2017: [Allianz Business System goes OS](https://www.allianz.com/en_GB/press/news/business/insurance/180129-allianz-sets-up-open-platform.html)
 
 Q1, Q2: proposed term and [open-insurance.org](https://open-insurance.org)
 
