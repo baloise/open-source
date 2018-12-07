@@ -3,7 +3,7 @@
 //
 // ====================================
 
-= image:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png[DINA - Open Government] https://github.com/baloise/open-source/pull/58[DRAFT] - Baloise Open Source Guidelines
+= image:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png[DINA - Open Government] Baloise Open Source Guidelines
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Table of Contents
 
@@ -79,3 +79,14 @@ include::src/12_glossary.adoc[]
 <<<<
 // 13. Attribution
 include::src/about-attribution.adoc[]
+
+<<<<
+
+== License
+
+This document itself is published under https://creativecommons.org/licenses/by/4.0/[CC BY 4.0] - please feel free to use it (and give attribution)!
+
+.Baloise Open Source - Licensed under
+[#img-baloise-open-source-license.png]
+[caption="Figure 4: ",link=https://creativecommons.org/licenses/by/4.0/]
+image::baloise-open-source-license.png[CC BY 4.0]

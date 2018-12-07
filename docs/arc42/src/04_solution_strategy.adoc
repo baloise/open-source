@@ -1,24 +1,14 @@
 [[section-solution-strategy]]
 == Solution Strategy for handling open source
 
+[[section-os-use]]
 === Using existing open source
 
 In general open source components can be used in Baloise projects, but everyone has a responsibility to ensure that we respect and comply the individual <<section-licenses>> obligations.
 
 We recommend checking the project's maturity, activity and heterogeneity of community before (heavily) relying on it. Websites like e.g. https://www.openhub.net[OpenHub] can help quickly identifying relevant metrics (source code history, level of activity, number of contributors, etc.) of most relevant open source projects.
 
-==== Use source 
-
-<2do>
-
-==== Use binaries
-
-<2do>
-
-===== Bill of material
-
-<2do>
-
+[[section-os-contribute]]
 === Contributing to existing open source projects
 
 We encourage participation in open source projects and strive to have as few rules for this as possible, we expect participants to follow common sense on what code and information they contribute - if in doubt, contact the <<section-design-os-team>>, or talk to your lead in charge.
@@ -53,6 +43,7 @@ Both are allowed and do not require a review. Simply ensure that
 
 If the upstream project requires a Contributor License Agreement (CLA) for your contribution please contact the <<section-design-os-team>> as we want to make sure adressing this agreement globally on an corporate level rather than on an individual one.
 
+[[section-os-release]]
 === Releasing new open source projects
 
 This is the process for how Baloise employees release a new open source project on the https://github.com/baloise[Baloise] Github Organization. The process is simple and the <<section-design-os-team>> is ready to help you every step of the way.
@@ -169,7 +160,6 @@ In addition to that the projects version number must reflect this status using a
 
 All of the following maturity metrics shall be met before leaving the "incubator project" status
 
-. tbd
-. tbd
-. tbd
-. tbd
+. project is used in- and externally of Baloise
+. project has released 3+ minor versions of itself
+. project has 10+ stars and a minimum of 2 codeowner

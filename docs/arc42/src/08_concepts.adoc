@@ -169,11 +169,19 @@ By making a contribution to this project, I certify that:
 
 Technically by default link:++https://git-scm.com/docs/git-commit#git-commit--s++[you sign the DCO] by using `--signoff` within your commit(s).
 
-==== CA
+==== Contributor (License) Agreement
 
-===== CLA
+https://en.wikipedia.org/wiki/Contributor_License_Agreement[CLA]s are often asked for when participating in larger communities.
 
-<2do>
+===== signed on corporate level
+
+We should make sure building an index of signed CLAs on corporate level at here. So far contributing to these organizations is covered
+
+ * Eclipse Foundation (by being an https://baloise.github.io/open-source/docs/md/activities/profiles.html#eclipse-foundation---solution-member[Eclipse Foundation - Solution member])
+
+===== signing new ones
+
+As an individual you should avoid signing CLAs on your own. Please contact the <<section-design-os-team>> if you require a CLA for a contribution to a project or organization. We'll make sure to get an official one on coroporate level.
 
 [[section-sustainability]]
 === Digital Sustainability

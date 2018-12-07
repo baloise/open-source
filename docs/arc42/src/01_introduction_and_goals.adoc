@@ -4,7 +4,12 @@
 [[section-tldr]]
 === too long; didn't read (https://en.wikipedia.org/wiki/TL;DR[TL;DR])
 
-<2do>
+* At Baloise we foster the use, contribution and release of open source (software)!
+* This guidelines cover all three stages
+ - <<section-os-use>>,
+ - <<section-os-contribute>> and 
+ - <<section-os-release>>
+* Feel free to participate: https://github.com/baloise/open-source/issues/new[file issues] or https://github.com/baloise/open-source/pulls[provide PRs] if you'd like to see extensions!
 
 [[section-introduction-and-goals]]
 === Goals
