@@ -16,7 +16,7 @@
 
 ### presentations
 
-### `en` ["Introduction to Open-Source @ Baloise"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro), _Markus Tiede_
+### `en` 23.11.2018 - [CH-Open](https://www.ch-open.ch): ["Open Source @ Baloise"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-extern), _Markus Tiede_
 
 
 ## about others
