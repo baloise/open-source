@@ -89,11 +89,24 @@ share costs + gain trust, reputation and visibility
 structure follows strategy
 
 +++
+
 ## Business Models
 
 Open Source is a _software development model_ and has **no business model**
 
 Companies have business models - Open Source can support those: [18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches)
+
++++?color=#36363f
+
+The Linux Foundation: [$5 Billion Value in 2015](https://www.linux.com/publications/estimating-total-development-cost-linux-foundations-collaborative-projects)
+
+Cloud Native Computing Foundation (CNCF) - Q4/2018: [funding of $17.3 Billion](https://landscape.cncf.io)
+
+[![](https://github.com/baloise/open-source/raw/master/docs/slides/intro/strategic-invest.png)](https://github.com/kubernetes/kubernetes)
+
+The Eclipse Foundation: [$8.7 Billion Value in 2018](https://blogs.eclipse.org/post/thabang-mashologu/87-billion-shared-investment-sizing-economic-value-eclipse-community)
+
+Case Study: » [Bosch Pursues An Open Strategy](https://iot.eclipse.org/case-studies/bosch-leadership-in-eclipse-iot/)
 
 +++
 ## Baloise Group
@@ -122,12 +135,14 @@ Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to
 
 continue: execute on 1-3
 
+CIT and IT-CH → apply to Baloise Group
+
 recommendation(s): be ready for 4
 
 +++?color=#f15825
 # @color[white](1. Use)
 
-1. elimate technical infrastructure obstacles
+1. eliminate technical infrastructure obstacles
 
 2. [success stories](https://www.ossdirectory.com/oss-firmen/single/ossfirm/baloise-group) about Open Source @ Baloise
 
@@ -136,18 +151,18 @@ recommendation(s): be ready for 4
 +++?color=#b8b8b8
 # 2. Contribute
 
-1. commitment to Openness @ Baloise - add to CoC
+1. commitment to Openness - add to [Code of Conduct](https://www.baloise.com/en/home/about-us/corporate-governance.html)
 
-2. time to learn and contribute @ Baloise
+2. time to learn and contribute: Goldcards+
 
-3. identify and sponsor (strategic) projects
+3. sponsor (strategic) projects: in- and external
 
 +++?color=#f69517
 # @color[white](3. Champion)
 
-1. start (small) [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
+1. start [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
 
-2. resources for partnerships - building a [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
+2. resources for [partnerships](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
 
 3. [Open Source Guideline](https://baloise.github.io/open-source/docs/arc42/) execution
 
@@ -155,6 +170,8 @@ recommendation(s): be ready for 4
 # @color[white](4. Strategic Invest)
 
 recommendation: join **[industry working groups](https://www.eclipse.org/org/workinggroups/)** about vendor neutral vision: open-insurance
+
+business driver: IiaB & API management
 
 ---
 # Thanks!
@@ -167,5 +184,9 @@ recommendation: join **[industry working groups](https://www.eclipse.org/org/wor
 
 +++
 
-## further reading(s)
+## further information
 [ERNST & YOUNG, 2011: Open source software in business-critical environments](https://www.ossdirectory.com/fileadmin/user_upload/opensource.ch/knowhow/2011_OpenSourceSoftwareInBusiness-criticalEnvironments.pdf)
+
+[Our projects and sponsorings](https://baloise.github.io/open-source/docs/md/activities/projects.html#hosted)
+
+[Media about open source @ Baloise](https://baloise.github.io/open-source/docs/md/activities/media.html#about-us)

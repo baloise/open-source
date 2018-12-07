@@ -9,7 +9,7 @@
 
 [@MarkusTiede](https://twitter.com/markustiede)
 
-Software & Security Engineer @ [Baloise](https://www.baloise.com)
+Software & Security Engineer @ Baloise in IT-CH
 
 Open Source Developer & Enthusiast since 2010
 
@@ -141,22 +141,36 @@ explicit and impli(ɔ)it
 
 +++?color=#f15825
 
+## @color[white](strategic: buy & take)
+
+operating system, container, automation, middleware
+
 ![](https://upload.wikimedia.org/wikipedia/de/d/d8/Red_Hat_logo.svg)
+
+RHEL(inux), OpenShift, Ansible, JBoss, ...
 
 [IBM to Buy Red Hat](https://www.nytimes.com/2018/10/28/business/ibm-red-hat-cloud-computing.html) for $34 Billion
 
-Red Hat: a company dedicated to Open Source since the beginning (1993) with no* exclusive intellectual property
++++?color=#f15825
+
+## @color[white](non-strategic: take)
 
 +++?image=http://2.bp.blogspot.com/-J5btAKhCKJ8/UW1bt20M1kI/AAAAAAAAA-8/8TOYEQWpB1A/s1600/Marwell_Animals.jpg&size=contain
 
-+++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain
++++?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain&color=black
 
-## PostgreSQL @color[lightgreen](✓)
+## @color[black](data bases)
+
+### @color[lightgreen](PostgreSQL ✓)
+
+#### @color[lightgreen](MySQL → MariaDB, h2 ✓)
+
+#### @color[lightgreen](SOLR, prometheus, neo4j ✓)
 
 +++?image=http://fleetmagazine.mercedes-benz.co.uk/imgs/articles/fleet-awards/rectangle-1.jpg&size=contain
 
 @snap[south]
-@size[2.5em](@color[#f15825](implicit))
+@size[1.5em](@color[#f15825](implicit use))
 @snapend
 
 +++
@@ -202,6 +216,14 @@ intrinsic learn of [best practices](https://opensource.guide) for open collabora
 
 +++
 
+# [sponsoring](https://baloise.github.io/open-source/docs/md/activities/projects.html#sponsored)
+
+Craig Dunn - (Jerakia &) [firewalld](https://forge.puppet.com/crayfishx/firewalld): 300k downloads - used [@CERN](https://gitlab.cern.ch/linuxsupport/puppet-firewalld/tree/master/code#author)
+
+[Die Mobiliar & Baloise Group & Puzzle ITC GmbH](http://www.liima.org/#partner) - [Liima](https://github.com/liimaorg): middleware automation
+
++++
+
 # @color[lightgreen](potential)
 
 learn [best practices](https://opensource.guide) for open collaboration
@@ -239,23 +261,21 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 @color[white](founded in **2013**)
 
-@color[white](50+ repos, 4 plugins with total ~47.000 installations on Eclipse and [Atlassian](https://marketplace.atlassian.com/vendors/1211530/baloise-group) marketplace)
+@color[white](50+ repos, 4 plugins with total ~47.000 installations on Eclipse and) [Atlassian marketplace](https://marketplace.atlassian.com/vendors/1211530/baloise-group)
 
-@color[white](60+ people [from Baloise Group](https://github.com/orgs/baloise/people))
+@color[white](60+ people) [from Baloise Group](https://github.com/orgs/baloise/people)
 
 @color[white](10+ external contributors fom Germany, California, Memphis, Tokyo)
 
-@color[white](translated into german, english, french and ...)
-
-+++
-
-Die [Mobiliar & Baloise](http://www.liima.org/#partner) Group
-
-![](https://rawgit.com/liimaorg/brand/master/logos/Logo%20Liima%20RGB.svg)
+[TAF](https://github.com/baloise/test-automation-framework)@color[white](, talks, workshops, POCs, ...)
 
 +++?image=https://rawgit.com/open-prevo/openprevo/master/doc/assets/img/logo.svg&size=contain
 
 # [OpenPrevo](https://github.com/open-prevo/openprevo#openprevo)
+
+Baloise, Helvetia, (Zurich), Prevo
+
+MVP: June - August 2018
 
 +++
 
@@ -283,11 +303,24 @@ ask for forgiveness (not for permission)
 structure follows strategy
 
 +++
+
 ## Business Models
 
 Open Source is a _software development model_ and has **no business model**
 
 Companies have business models - Open Source can support those: [18 business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software#Approaches)
+
++++?color=#36363f
+
+The Linux Foundation: [$5 Billion Value in 2015](https://www.linux.com/publications/estimating-total-development-cost-linux-foundations-collaborative-projects)
+
+Cloud Native Computing Foundation (CNCF) - Q4/2018: [funding of $17.3 Billion](https://landscape.cncf.io)
+
+[![](https://github.com/baloise/open-source/raw/master/docs/slides/intro/strategic-invest.png)](https://github.com/kubernetes/kubernetes)
+
+The Eclipse Foundation: [$8.7 Billion Value in 2018](https://blogs.eclipse.org/post/thabang-mashologu/87-billion-shared-investment-sizing-economic-value-eclipse-community)
+
+Case Study: » [Bosch Pursues An Open Strategy](https://iot.eclipse.org/case-studies/bosch-leadership-in-eclipse-iot/)
 
 +++
 ## Baloise Group
@@ -322,12 +355,14 @@ Q4: Insurance to Stay – [OpenCologne](http://deliverythinking.com/insurance-to
 
 continue: execute on 1-3
 
+CIT and IT-CH → apply to Baloise Group
+
 recommendation(s): be ready for 4
 
 +++?color=#f15825
 # @color[white](1. Use)
 
-1. elimate technical infrastructure obstacles
+1. eliminate technical infrastructure obstacles
 
 2. [success stories](https://www.ossdirectory.com/oss-firmen/single/ossfirm/baloise-group) about Open Source @ Baloise
 
@@ -336,18 +371,18 @@ recommendation(s): be ready for 4
 +++?color=#b8b8b8
 # 2. Contribute
 
-1. commitment to Openness @ Baloise - add to CoC
+1. commitment to Openness - add to [Code of Conduct](https://www.baloise.com/en/home/about-us/corporate-governance.html)
 
-2. time to learn and contribute @ Baloise
+2. time to learn and contribute: Goldcards+
 
-3. identify and sponsor (strategic) projects
+3. sponsor (strategic) projects: in- and external
 
 +++?color=#f69517
 # @color[white](3. Champion)
 
-1. start (small) [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
+1. start [Open Source Program Office](https://todogroup.org/guides/create-program/#why-create-an-open-source-program-office)
 
-2. resources for partnerships - building a [CoIN](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
+2. resources for [partnerships](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
 
 3. [Open Source Guideline](https://baloise.github.io/open-source/docs/arc42/) execution
 
@@ -355,6 +390,8 @@ recommendation(s): be ready for 4
 # @color[white](4. Strategic Invest)
 
 recommendation: join **[industry working groups](https://www.eclipse.org/org/workinggroups/)** about vendor neutral vision: open-insurance
+
+business driver: IiaB & API management
 
 ---
 # Thanks!
@@ -367,5 +404,9 @@ recommendation: join **[industry working groups](https://www.eclipse.org/org/wor
 
 +++
 
-## further reading(s)
+## further information
 [ERNST & YOUNG, 2011: Open source software in business-critical environments](https://www.ossdirectory.com/fileadmin/user_upload/opensource.ch/knowhow/2011_OpenSourceSoftwareInBusiness-criticalEnvironments.pdf)
+
+[Our projects and sponsorings](https://baloise.github.io/open-source/docs/md/activities/projects.html#hosted)
+
+[Media about open source @ Baloise](https://baloise.github.io/open-source/docs/md/activities/media.html#about-us)
