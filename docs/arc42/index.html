@@ -5,7 +5,7 @@
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 1.5.6.1">
-<title>DRAFT - Baloise Open Source Guidelines</title>
+<title>Baloise Open Source Guidelines</title>
 <style>
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic|Noto+Serif:400,400italic,700,700italic|Droid+Sans+Mono:400);
 
@@ -1994,7 +1994,7 @@ table.CodeRay td.code>pre{padding:0}
 </head>
 <body class="book toc2 toc-left">
 <div id="header">
-<h1><span class="image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png" alt="DINA - Open Government"></span> <a href="https://github.com/baloise/open-source/pull/58">DRAFT</a> - Baloise Open Source Guidelines</h1>
+<h1><span class="image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png" alt="DINA - Open Government"></span> Baloise Open Source Guidelines</h1>
 <div id="toc" class="toc2">
 <div id="toctitle">Table of Contents</div>
 <ul class="sectlevel1">
@@ -2009,9 +2009,9 @@ table.CodeRay td.code>pre{padding:0}
 </li>
 <li><a href="#section-solution-strategy">2. Solution Strategy for handling open source</a>
 <ul class="sectlevel2">
-<li><a href="#_using_existing_open_source">2.1. Using existing open source</a></li>
-<li><a href="#_contributing_to_existing_open_source_projects">2.2. Contributing to existing open source projects</a></li>
-<li><a href="#_releasing_new_open_source_projects">2.3. Releasing new open source projects</a></li>
+<li><a href="#section-os-use">2.1. Using existing open source</a></li>
+<li><a href="#section-os-contribute">2.2. Contributing to existing open source projects</a></li>
+<li><a href="#section-os-release">2.3. Releasing new open source projects</a></li>
 </ul>
 </li>
 <li><a href="#section-concepts">3. Cross-cutting Concepts</a>
@@ -2035,6 +2035,7 @@ table.CodeRay td.code>pre{padding:0}
 <li><a href="#_zalando">Zalando</a></li>
 </ul>
 </li>
+<li><a href="#_license">License</a></li>
 </ul>
 </div>
 </div>
@@ -2058,8 +2059,31 @@ table.CodeRay td.code>pre{padding:0}
 <div class="sectionbody">
 <div class="sect2">
 <h3 id="section-tldr"><a class="anchor" href="#section-tldr"></a>1.1. too long; didn&#8217;t read (<a href="https://en.wikipedia.org/wiki/TL;DR">TL;DR</a>)</h3>
-<div class="paragraph">
-<p>&lt;2do&gt;</p>
+<div class="ulist">
+<ul>
+<li>
+<p>At Baloise we foster the use, contribution and release of open source (software)!</p>
+</li>
+<li>
+<p>This guidelines cover all three stages</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="#section-os-use">Using existing open source</a>,</p>
+</li>
+<li>
+<p><a href="#section-os-contribute">Contributing to existing open source projects</a> and</p>
+</li>
+<li>
+<p><a href="#section-os-release">Releasing new open source projects</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Feel free to participate: <a href="https://github.com/baloise/open-source/issues/new">file issues</a> or <a href="https://github.com/baloise/open-source/pulls">provide PRs</a> if you&#8217;d like to see extensions!</p>
+</li>
+</ul>
 </div>
 </div>
 <div class="sect2">
@@ -2144,34 +2168,16 @@ table.CodeRay td.code>pre{padding:0}
 <h2 id="section-solution-strategy"><a class="anchor" href="#section-solution-strategy"></a>2. Solution Strategy for handling open source</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="_using_existing_open_source"><a class="anchor" href="#_using_existing_open_source"></a>2.1. Using existing open source</h3>
+<h3 id="section-os-use"><a class="anchor" href="#section-os-use"></a>2.1. Using existing open source</h3>
 <div class="paragraph">
 <p>In general open source components can be used in Baloise projects, but everyone has a responsibility to ensure that we respect and comply the individual <a href="#section-licenses">Licensing</a> obligations.</p>
 </div>
 <div class="paragraph">
 <p>We recommend checking the project&#8217;s maturity, activity and heterogeneity of community before (heavily) relying on it. Websites like e.g. <a href="https://www.openhub.net">OpenHub</a> can help quickly identifying relevant metrics (source code history, level of activity, number of contributors, etc.) of most relevant open source projects.</p>
 </div>
-<div class="sect3">
-<h4 id="_use_source"><a class="anchor" href="#_use_source"></a>2.1.1. Use source</h4>
-<div class="paragraph">
-<p>&lt;2do&gt;</p>
-</div>
-</div>
-<div class="sect3">
-<h4 id="_use_binaries"><a class="anchor" href="#_use_binaries"></a>2.1.2. Use binaries</h4>
-<div class="paragraph">
-<p>&lt;2do&gt;</p>
-</div>
-<div class="sect4">
-<h5 id="_bill_of_material"><a class="anchor" href="#_bill_of_material"></a>Bill of material</h5>
-<div class="paragraph">
-<p>&lt;2do&gt;</p>
-</div>
-</div>
-</div>
 </div>
 <div class="sect2">
-<h3 id="_contributing_to_existing_open_source_projects"><a class="anchor" href="#_contributing_to_existing_open_source_projects"></a>2.2. Contributing to existing open source projects</h3>
+<h3 id="section-os-contribute"><a class="anchor" href="#section-os-contribute"></a>2.2. Contributing to existing open source projects</h3>
 <div class="paragraph">
 <p>We encourage participation in open source projects and strive to have as few rules for this as possible, we expect participants to follow common sense on what code and information they contribute - if in doubt, contact the <a href="#section-design-os-team">Open Source Team</a>, or talk to your lead in charge.</p>
 </div>
@@ -2238,7 +2244,7 @@ in project maintenance such as creating roadmaps, grooming backlogs etc.</p>
 <p>you are using your Baloise identity (<a href="mailto:your-eMail-address@baloise.TLD">your-eMail-address@baloise.TLD</a>) for the work related contribution</p>
 </li>
 <li>
-<p>you are aware of the basic rules and principles of a <a href="#section-dco">Developer Certificate of Origin (DCO)</a></p>
+<p>you are aware of the basic rules and principles of a <a href="#section-dco">Developer Certificate of Origin (DCO)</a>: as it&#8217;s often required to sign-off every commit.</p>
 </li>
 </ul>
 </div>
@@ -2248,7 +2254,7 @@ in project maintenance such as creating roadmaps, grooming backlogs etc.</p>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_releasing_new_open_source_projects"><a class="anchor" href="#_releasing_new_open_source_projects"></a>2.3. Releasing new open source projects</h3>
+<h3 id="section-os-release"><a class="anchor" href="#section-os-release"></a>2.3. Releasing new open source projects</h3>
 <div class="paragraph">
 <p>This is the process for how Baloise employees release a new open source project on the <a href="https://github.com/baloise">Baloise</a> Github Organization. The process is simple and the <a href="#section-design-os-team">Open Source Team</a> is ready to help you every step of the way.</p>
 </div>
@@ -2371,9 +2377,6 @@ in project maintenance such as creating roadmaps, grooming backlogs etc.</p>
 <p><a href="https://semver.org">Semantically version</a> project artifacts. You MUST tag all versions in GitHub with the exact version name: e.g., 0.1.0.</p>
 </li>
 <li>
-<p>Sign-off every commit, as per the <a href="https://developercertificate.org/">DCO</a> - PGP signing is not required</p>
-</li>
-<li>
 <p>Ensure that no credentials, private identifiers or personal data is at any time present in your repository</p>
 </li>
 <li>
@@ -2480,16 +2483,13 @@ on Baloise-Github Organization marked as an Incubator project.</p>
 <div class="olist arabic">
 <ol class="arabic">
 <li>
-<p>tbd</p>
+<p>project is used in- and externally of Baloise</p>
 </li>
 <li>
-<p>tbd</p>
+<p>project has released 3+ minor versions of itself</p>
 </li>
 <li>
-<p>tbd</p>
-</li>
-<li>
-<p>tbd</p>
+<p>project has 10+ stars and a minimum of 2 codeowner</p>
 </li>
 </ol>
 </div>
@@ -2770,11 +2770,27 @@ By making a contribution to this project, I certify that:
 </div>
 </div>
 <div class="sect3">
-<h4 id="_ca"><a class="anchor" href="#_ca"></a>3.2.2. CA</h4>
-<div class="sect4">
-<h5 id="_cla"><a class="anchor" href="#_cla"></a>CLA</h5>
+<h4 id="_contributor_license_agreement"><a class="anchor" href="#_contributor_license_agreement"></a>3.2.2. Contributor (License) Agreement</h4>
 <div class="paragraph">
-<p>&lt;2do&gt;</p>
+<p><a href="https://en.wikipedia.org/wiki/Contributor_License_Agreement">CLA</a>s are often asked for when participating in larger communities.</p>
+</div>
+<div class="sect4">
+<h5 id="_signed_on_corporate_level"><a class="anchor" href="#_signed_on_corporate_level"></a>signed on corporate level</h5>
+<div class="paragraph">
+<p>We should make sure building an index of signed CLAs on corporate level at here. So far contributing to these organizations is covered</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Eclipse Foundation (by being an <a href="https://baloise.github.io/open-source/docs/md/activities/profiles.html#eclipse-foundation---solution-member">Eclipse Foundation - Solution member</a>)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_signing_new_ones"><a class="anchor" href="#_signing_new_ones"></a>signing new ones</h5>
+<div class="paragraph">
+<p>As an individual you should avoid signing CLAs on your own. Please contact the <a href="#section-design-os-team">Open Source Team</a> if you require a CLA for a contribution to a project or organization. We&#8217;ll make sure to get an official one on coroporate level.</p>
 </div>
 </div>
 </div>
@@ -2831,43 +2847,24 @@ By making a contribution to this project, I certify that:
 <p>It&#8217;s good practice having dedicated people being responsible for handling open source matters within a company.</p>
 </div>
 <div class="paragraph">
-<p>For now we go with a lightweight approach of an <a href="https://todogroup.org/guides/create-program/#the-role-of-the-open-source-program-office">open source program office</a>.</p>
+<p>For now we go with a lightweight approach of an <a href="https://todogroup.org/guides/create-program/#the-role-of-the-open-source-program-office">open source program office</a>:</p>
 </div>
-<div class="sect3">
-<h4 id="_open_source_lead"><a class="anchor" href="#_open_source_lead"></a>4.1.1. Open Source - Lead</h4>
-<div class="imageblock">
-<div class="content">
-<img src="https://pbs.twimg.com/profile_images/935895329072959488/_qPd_hEQ_400x400.jpg" alt="Open Source - Lead">
-</div>
-</div>
-<div class="sect4">
-<h5 id="_a_href_https_github_com_culmat_matthias_cullmann_a_a_href_https_twitter_com_culmat_twitter_a"><a class="anchor" href="#_a_href_https_github_com_culmat_matthias_cullmann_a_a_href_https_twitter_com_culmat_twitter_a"></a><a href="https://github.com/culmat">Matthias Cullmann</a> - <a href="https://twitter.com/culmat">@Twitter</a></h5>
-
-</div>
-</div>
-<div class="sect3">
-<h4 id="_open_source_community_manager"><a class="anchor" href="#_open_source_community_manager"></a>4.1.2. Open Source - Community Manager</h4>
-<div class="imageblock">
-<div class="content">
-<img src="https://github.com/MarkusTiede/about/raw/master/img/me-circle.png" alt="Open Source - Community Manager @ Baloise">
-</div>
-</div>
-<div class="sect4">
-<h5 id="_a_href_https_github_com_markustiede_markus_tiede_a_open_source_advocate_eclipse_committer_certified_scrum_master_speaker_a_href_https_twitter_com_markustiede_twitter_a"><a class="anchor" href="#_a_href_https_github_com_markustiede_markus_tiede_a_open_source_advocate_eclipse_committer_certified_scrum_master_speaker_a_href_https_twitter_com_markustiede_twitter_a"></a><a href="https://github.com/MarkusTiede">Markus Tiede</a> - Open Source Advocate | Eclipse Committer | Certified Scrum Master | Speaker | <a href="https://twitter.com/markustiede">@Twitter</a></h5>
-
-</div>
-</div>
-<div class="sect3">
-<h4 id="_inner_source_manager"><a class="anchor" href="#_inner_source_manager"></a>4.1.3. Inner Source Manager</h4>
-<div class="imageblock">
-<div class="content">
-<img src="https://png.icons8.com/metro/80/000000/decision.png" alt="Inner Source Manager @ Baloise">
-</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Open Source - Lead: <a href="https://github.com/culmat">Matthias Cullmann</a> - <a href="https://twitter.com/culmat">@Twitter</a></p>
+</li>
+<li>
+<p>Open Source - Community Manager: <a href="https://github.com/MarkusTiede">Markus Tiede</a> - <a href="https://twitter.com/markustiede">@Twitter</a></p>
+</li>
+<li>
+<p>Inner Source Manager - TDB</p>
+</li>
+</ul>
 </div>
 <div style="page-break-after: always;"></div>
 <div style="page-break-after: always;"></div>
 <div style="page-break-after: always;"></div>
-</div>
 </div>
 </div>
 </div>
@@ -3024,13 +3021,28 @@ We acknowledge that this document uses material contributed by Dr. Matthias Stü
 <p>&#169;
 We acknowledge that this document uses material from Zalandos Open Source Documentation published under MIT.</p>
 </div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_license"><a class="anchor" href="#_license"></a>License</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>This document itself is published under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> - please feel free to use it (and give attribution)!</p>
+</div>
+<div id="img-baloise-open-source-license" class="imageblock png">
+<div class="content">
+<a class="image" href="https://creativecommons.org/licenses/by/4.0/"><img src="images/baloise-open-source-license.png" alt="CC BY 4.0"></a>
+</div>
+<div class="title">Figure 4: Baloise Open Source - Licensed under</div>
 </div>
 </div>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2018-12-07 13:00:51 UTC
+Last updated 2018-12-07 13:42:22 UTC
 </div>
 </div>
 </body>
