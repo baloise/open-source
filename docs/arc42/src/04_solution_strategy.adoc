@@ -39,7 +39,7 @@ Both are allowed and do not require a review. Simply ensure that
 
 * the project you are contributing to is not licensed under AGPL (see 5.1.6. "Network protective licenses" for reasons why)
 * you are using your Baloise identity (your-eMail-address@baloise.TLD) for the work related contribution
-* you are aware of the basic rules and principles of a <<section-dco>>
+* you are aware of the basic rules and principles of a <<section-dco>>: as it's often required to sign-off every commit.
 
 If the upstream project requires a Contributor License Agreement (CLA) for your contribution please contact the <<section-design-os-team>> as we want to make sure adressing this agreement globally on an corporate level rather than on an individual one.
 
@@ -104,7 +104,6 @@ The <<section-design-os-team>> can help you setting this up during a initial rev
 When the project has been released as a public project on Github the following workflows are expected of you:
 
 . https://semver.org[Semantically version] project artifacts. You MUST tag all versions in GitHub with the exact version name: e.g., 0.1.0.
-. Sign-off every commit, as per the https://developercertificate.org/[DCO] - PGP signing is not required
 . Ensure that no credentials, private identifiers or personal data is at any time present in your repository
 . Enforce code-reviews with at least 2 sets of Baloise eyes on all code to minimize the risk of implanted security backdoors and vulnerable code.
 . Ensure there is an active team of maintainers of at least 2 people from Baloise taking ownership of the project
