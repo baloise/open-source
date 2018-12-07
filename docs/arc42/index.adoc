@@ -3,7 +3,7 @@
 //
 // ====================================
 
-= image:arc42-logo.png[arc42] Open-Source Strategy
+= image:https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png[DINA - Open Government] Baloise Open Source Guidelines
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Table of Contents
 
@@ -25,15 +25,6 @@ endif::basebackend-html[]
 // configure EN settings for asciidoc
 include::src/config.adoc[]
 
-
-include::src/about-arc42.adoc[]
-
-// horizontal line
-***
-
-
-
-
 // numbering from here on
 :numbered:
 
@@ -43,11 +34,11 @@ include::src/01_introduction_and_goals.adoc[]
 
 <<<<
 // 2. Architecture Constraints
-include::src/02_architecture_constraints.adoc[]
+// include::src/02_architecture_constraints.adoc[]
 
 <<<<
 // 3. System Scope and Context
-include::src/03_system_scope_and_context.adoc[]
+// include::src/03_system_scope_and_context.adoc[]
 
 <<<<
 // 4. Solution Strategy
@@ -55,15 +46,15 @@ include::src/04_solution_strategy.adoc[]
 
 <<<<
 // 5. Building Block View
-include::src/05_building_block_view.adoc[]
+// include::src/05_building_block_view.adoc[]
 
 <<<<
 // 6. Runtime View
-include::src/06_runtime_view.adoc[]
+// include::src/06_runtime_view.adoc[]
 
 <<<<
 // 7. Deployment View
-include::src/07_deployment_view.adoc[]
+// include::src/07_deployment_view.adoc[]
 
 <<<<
 // 8. Concepts
@@ -75,14 +66,27 @@ include::src/09_design_decisions.adoc[]
 
 <<<<
 // 10. Quality Scenarios
-include::src/10_quality_scenarios.adoc[]
+// include::src/10_quality_scenarios.adoc[]
 
 <<<<
 // 11. Technical Risks
-include::src/11_technical_risks.adoc[]
+// include::src/11_technical_risks.adoc[]
 
 <<<<
 // 12. Glossary
 include::src/12_glossary.adoc[]
 
+<<<<
+// 13. Attribution
+include::src/about-attribution.adoc[]
 
+<<<<
+
+== License
+
+This document itself is published under https://creativecommons.org/licenses/by/4.0/[CC BY 4.0] - please feel free to use it (and give attribution)!
+
+.Baloise Open Source - Licensed under
+[#img-baloise-open-source-license.png]
+[caption="Figure 4: ",link=https://creativecommons.org/licenses/by/4.0/]
+image::baloise-open-source-license.png[CC BY 4.0]

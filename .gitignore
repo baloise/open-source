@@ -4,6 +4,7 @@
 # IDE settings
 .classpath
 .project
+.vscode
 
 # IntelliJ files
 **/*.iml

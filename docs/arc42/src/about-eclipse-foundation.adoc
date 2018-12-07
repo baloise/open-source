@@ -1,0 +1,16 @@
+:homepage: https://www.eclipse.org
+
+:keywords: Eclipse Foundation, open source
+
+:numbered!:
+=== Eclipse Foundation
+[role="lead"]
+
+The https://www.eclipse.org/org/value/[Eclipse Foundation] provides individuals and organizations with a commercially focused environment for open source software innovation.
+
+In the era of digitalization, all companies are becoming technology companies. More and more organizations are embracing open source software as a vital element of business technology strategy.
+
+The Eclipse Foundation provides a mature, scalable and commercially focused environment for collaboration and innovation that enables companies to leverage the strategic value of open source.
+
+(C)
+We acknowledge that this document uses material from the Eclipse Foundation published under EPL-2.0.

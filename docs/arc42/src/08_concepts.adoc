@@ -1,22 +1,200 @@
 [[section-concepts]]
 == Cross-cutting Concepts
+[[section-licenses]]
+=== Licensing
+
+For both using and releasing Open source Software, there is the challenge of understanding and respecting the licenses of your project dependencies. The purpose of this section is to outline what licenses to avoid, which ones you can freely use and which licenses comes with special requirements.
+
+==== Summary
+
+* Any dependency with a **permissive license can be used**
+* Copyleft licensed code **can be used** if you plan **NOT to distribute** outside Baloise
+* Make sure to **investigate the specific terms of the copyleft licenses, when building components meant for distribution**
+* You **cannot use AGPL** licensed code
+* You **cannot use unlicensed code**
+* Use **Creative Commons licenses for non-source code** content 
+
+==== Overview
+.OSS license spectrum
+[#img-oss-license-spectrum]
+[caption="Figure 2: ",link=https://timreview.ca/article/416]
+image::oss-license-spectrum.png[OSS license spectrum]
+
+Overall there are 3 types of licenses which you can use:
+
+* Permissive licenses
+* Weak copyleft licenses
+* Strong Copyleft licenses
+
+And 2 types which you cannot use in any way:
+
+* Network protective: AGPL, RPL or variants licensed code
+* Unlicensed code
+
+This document is a general overview and does not represent legal advice. Always check the details of each license and if you are in doubt, get in touch with legal.
+
+==== Permissive licenses
+
+https://tldrlegal.com/l/afl3[AFL],
+https://tldrlegal.com/l/apache2[Apache],
+https://tldrlegal.com/l/bsd3[BSD],
+https://tldrlegal.com/l/mit[MIT],
+https://tldrlegal.com/l/mspl[MS-PL],
+https://tldrlegal.com/l/isc[ISC],
+https://tldrlegal.com/license/the-php-license-3.0.1[PHP License],
+and many more.
+
+Code dependency which you are free to use and change without limitations, but must include the license and copyright of the dependency.
+
+Permissive licensed dependencies can be used without issues both for internal and for open source projects.
+
+* You are free to: **use** commercially, **modify**, **distribute** and **sublicense**.
+* You must include: **copyright** and **license**
+* You cannot hold the author liable.
+
+==== Weak copyleft licenses
+
+https://tldrlegal.com/l/aspl2[APSL],
+https://tldrlegal.com/l/lgpl-3.0)[LGPL],
+https://tldrlegal.com/l/cddl[CDDL],
+https://tldrlegal.com/license/common-public-license-1.0-(cpl-1.0)[CPL],
+https://tldrlegal.com/l/epl[EPL],
+https://tldrlegal.com/l/ipl[IPL],
+https://tldrlegal.com/l/mpl-2.0[MPL]
+and many more.
+
+Code dependency which you are free to use and change, but must include the source code, the license and copyright of the dependency. You can license your own code however you want, and you must only share the source code of the reciprocally licensed dependency.
+
+Beware that each individual license has specific clauses, so check the individual license before use.
+
+* You are free to: **use** commercially, **modify**, **distribute** and **sublicense**.
+* You must include: **copyright**, **license**, **changelog**, **source code** and **install instructions**
+* You cannot hold the author liable or use authors trademarks
+
+==== Strong Copyleft licenses
+
+https://tldrlegal.com/l/gpl-3.0)[GPL],
+https://tldrlegal.com/license/netscape-public-license-v1.1-(npl-1.1)[NPL],
+https://tldrlegal.com/license/open-software-license-2.1-(osl-2.1)[OSL],
+https://tldrlegal.com/license/q-public-license-1.0-(qpl-1.0)[QPL] 
+and many more.
+
+Code dependency which require you to license **all** your code under the same license if you want to distribute it. If only used internally, you have no obligation to release neither source nor binary.
+
+Dependency can therefore be used for internal projects, but not for projects which will be distributed outside of Baloise.
+
+* You are free to: **use** commercially, **modify** and **distribute**
+* You must include: **copyright**, **license**, **source code**, **changelog**, **original source** and **install instructions**
+* You cannot hold the author liable or sublicense
+* If distributed, you must license your code under the same license.
+
+==== Network protective licenses
+[[section-agpl]]
+
+Code licensed under https://tldrlegal.com/l/agpl3[AGPL] (Affero General Public License) and https://tldrlegal.com/license/reciprocal-public-license-1.5-(rpl-1.5)[RPL], may not be used at Baloise.
+
+Code dependency which triggers the copyleft provision even when it is not distributed. If AGPL or RPL code is used to deliver a web-service such as https://baloise.com, all code and code linked to the service must be licensed and distributed under AGPL.
+
+Use of software licensed under AGPL represents a risk for Baloise, so even for projects which is not directly linked to any of our services, it must not be used as the benefits compared to the risk is small.
+
+==== Unlicensed code
+
+Code which does not include a license or have no clear ownership cannot be used at Baloise.
+
+As per standard copyright law, any code which is not explicitly licensed, is the property
+of the author and cannot be used without permission.
+
+However if you wish to use a library which have no license, first of all check with the author to see if the license is simple not distributed with the source code. If the project author has not included a license open a pull request and suggest a license such as https://tldrlegal.com/l/apache2[Apache-2.0].
+
+==== Creative Commons licenses
+
+The previously mentioned licence types are primarily aimed for licensing source code. Hence if there is not directly
+source code involved, e.g. for documentation, pretty often other licenses are used for good reasons.
+
+As for now we recommend using creative commons licensed content. Giving Attribution (by), ShareAlike (sa) - a the naming of copyleft at creative commons -  and NoDerivatives (nd) licensed content can be used at Baloise with respect to the indiviudal requirements of that license.
+
+If the content is licensed with a NonCommercial (nc) e.g. https://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0] attribute you can not use that content at Baloise without further clarification.
+
+.Creative commons license spectrum by Shaddim via Wikimedia Commons
+[#img-cc-license-spectrum]
+[caption="Figure 3: ",link=https://creativecommons.org/share-your-work/licensing-types-examples/]
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Creative_commons_license_spectrum.svg/500px-Creative_commons_license_spectrum.svg.png[Creative commons license spectrum]
+
+A https://creativecommons.org/share-your-work/public-domain/freeworks/[set of the licences] are published and standardized by https://en.wikipedia.org/wiki/Creative_Commons[Creative Commons (CC) is an American non-profit organization].
+
+=== Certificate of Origin
+
+[[section-dco]]
+==== Developer Certificate of Origin (DCO)
+
+....
+Developer Certificate of Origin
+Version 1.1
+
+Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
+1 Letterman Drive
+Suite D4700
+San Francisco, CA, 94129
+
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is not allowed.
 
 
+Developer's Certificate of Origin 1.1
 
+By making a contribution to this project, I certify that:
 
+(a) The contribution was created in whole or in part by me and I
+    have the right to submit it under the open source license
+    indicated in the file; or
 
-=== _<Concept 1>_
+(b) The contribution is based upon previous work that, to the best
+    of my knowledge, is covered under an appropriate open source
+    license and I have the right under that license to submit that
+    work with modifications, whether created in whole or in part
+    by me, under the same open source license (unless I am
+    permitted to submit under a different license), as indicated
+    in the file; or
 
-_<explanation>_
+(c) The contribution was provided directly to me by some other
+    person who certified (a), (b) or (c) and I have not modified
+    it.
 
+(d) I understand and agree that this project and the contribution
+    are public and that a record of the contribution (including all
+    personal information I submit with it, including my sign-off) is
+    maintained indefinitely and may be redistributed consistent with
+    this project or the open source license(s) involved.
+....
 
+Technically by default link:++https://git-scm.com/docs/git-commit#git-commit--s++[you sign the DCO] by using `--signoff` within your commit(s).
 
-=== _<Concept 2>_
+==== Contributor (License) Agreement
 
-_<explanation>_
+https://en.wikipedia.org/wiki/Contributor_License_Agreement[CLA]s are often asked for when participating in larger communities.
 
-...
+===== signed on corporate level
 
-=== _<Concept n>_
+We should make sure building an index of signed CLAs on corporate level at here. So far contributing to these organizations is covered
 
-_<explanation>_
+ * Eclipse Foundation (by being an https://baloise.github.io/open-source/docs/md/activities/profiles.html#eclipse-foundation---solution-member[Eclipse Foundation - Solution member])
+
+===== signing new ones
+
+As an individual you should avoid signing CLAs on your own. Please contact the <<section-design-os-team>> if you require a CLA for a contribution to a project or organization. We'll make sure to get an official one on coroporate level.
+
+[[section-sustainability]]
+=== Digital Sustainability
+
+Digital sustainability is a concept to target longevity of digital artifacts such as software. It explains why open source licensed code is necessary but not sufficient condition to be sustainable on the long run. https://link.springer.com/article/10.1007/s11625-016-0412-2[Sustainable digital artifacts] need to meet ten basic conditions regarding the digital good and its ecosystem:
+
+. **Elaborateness** of digital artifacts is determined through their modularity, integrity, accuracy, robustness, and other characteristics regarding the quality of their substance.
+. **Transparent structures** signify technical openness allowing access to the inner structures of digital artifacts, such as source code, standard specifications, content, or data structures.
+. **Semantic information** makes complex digital artifacts more easily intelligible to humans and machines through comprehensible structures and meta data.
+. **Distributed location** means data, software and other digital artifacts are stored and operated on multiple sites, e.g. through replicated data storage or peer-to-peer technology.
+. **Open licensing regimes** grant anyone the right to use and modify digital artifacts at no cost and for any purpose, thus providing improvements and enhancements without limitations.
+. **Shared tacit knowledge** of digital artifacts means there are many individuals and organizations that know through their experience how to understand, use, and modify the digital artifacts.
+. **Participatory culture** signifies permeability of contributions throughout the entire lifecycle of digital artifacts, enabling peer-review processes on all levels.
+. **Good governance** means the digital artifact and its ecosystem is not controlled by a single individual or organization, but governed decentralized by its contributors and other stakeholders.
+. **Diversified funding** allows cost covering of infrastructures, contributions, and other spending from various financial sources .
+. **Contribution to sustainable development** means sustainable digital artifacts must provide positive ecological, social or economic effects.
