@@ -2,12 +2,12 @@
 
 # learn
 
-## Websites
+## websites
 
 ### [Open Source Guide](https://opensource.guide) by [Github](https://github.com/github/opensource.guide)
 ### [Open Source Guides](https://todogroup.org/guides/) by [TODO Group](https://todogroup.org/about/)
 
-## Documents
+## documents
 
 sorted by date of publication 
 
@@ -33,3 +33,25 @@ Die IKT-Strategie der Bundesverwaltung verlangt, dass die Dienstleistungen der I
 
 Die OSS-Strategie des Bundes soll dafür sorgen, dass OSS zu einer gleichwertigen Alternative zur Closed Source Software (CSS) wird.
 […]
+
+## videos
+
+### introduction
+
+#### `en` ["Open Source Basics | Intel Software" - @youtube.com by Intel Software](https://www.youtube.com/watch?v=Tyd0FO0tko8)
+
+#### `en` ["What is Open Source explained in LEGO" - @youtube.com by Socialsquare](https://www.youtube.com/watch?v=a8fHgx9mE5U)
+
+### inspiring
+
+#### `en` ["Build yourself. | Tristan Copley Smith" - @vimeo.com by Focus Forward Films](https://vimeo.com/51764445)
+
+#### `en` ["Civilization starter kit | Marcin Jakubowski | TEDxKC" - @youtube.com by TEDx Talks](https://www.youtube.com/watch?v=S63Cy64p2lQ)
+
+#### `en` ["How Linux is Built" - @youtube.com by The Linux Foundation](https://www.youtube.com/watch?v=yVpbFMhOAwE)
+
+### Red Hat
+
+#### `en` ["The Red Hat Way" - @youtube.com by Red Hat Videos](https://www.youtube.com/watch?v=ySyPIoyXJ-k)
+
+#### `en` ["Truth Happens Remix" - @youtube.com by Red Hat Videos](https://www.youtube.com/watch?v=5EkkMfjetEY)
