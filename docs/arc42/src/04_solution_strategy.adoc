@@ -94,7 +94,7 @@ Use https://github.com/baloise/repository-template-java[new-project] as a boiler
 . Create a meaningful `README.md` file, this is your most important piece of documentation
 . Include a `docs/CODEOWNERS` file with contact information https://help.github.com/articles/about-codeowners/[who is maintaining the project]
 . Include a `CONTRIBUTION.md` file with guidelines on how to contribute
-. Add a `LICENSE.md` file, license must be the https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)[Apache License 2.0] with the copyright set to Baloise Group. For non-source code content we recommend using https://creativecommons.org/licenses/by/4.0/[CC BY 4.0] (e.g. https://github.com/creativecommons/creativecommons.org/blob/master/docroot/legalcode/by_4.0.txt[plain license TXT])
+. Add a `LICENSE.md` file, license must be the https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)[Apache License 2.0] with the copyright set to Baloise Group. For non-source code content we recommend using https://creativecommons.org/licenses/by/4.0/[CC BY 4.0] (e.g. https://raw.githubusercontent.com/baloise/open-source/master/LICENSE[plain license TXT])
 . Ensure you only use <<section-licenses>>-compatible code/dependencies
 
 The <<section-design-os-team>> can help you setting this up during a initial review. 
