@@ -42,8 +42,8 @@ in alphabetical order by role / name
 
 |===
 | Expectations | Contact | Role / Name  
-| Learn and share are our first steps afterwards the sky is the limit. | https://github.com/UrsBienz[Urs Bienz] | https://www.baloise.com/en/home/about-us/organisation.html#anchor-id-9e6b[Head of Finance & Risk] 
-| | Andreas Burki | https://www.baloise.com/en/home/about-us/organisation.html#anchor-id-9e6b[Head of Group Legal & Tax]
-| | https://github.com/honeggera[Adrian Honegger] | https://www.baloise.com/en/home/about-us/organisation.html#anchor-id-9e6b[Head of Group Strategy & Digital Transformation]
+| Learn and share are our first steps afterwards the sky is the limit. | https://github.com/UrsBienz[Urs Bienz] | https://www.baloise.com/en/home/about-us/who-we-are/organisation-management.html#id-44c10e77-57cf-47b0-b307-1eaf205adaf1[Head of Finance & Risk] 
+| | Andreas Burki | https://www.baloise.com/en/home/about-us/who-we-are/organisation-management.html#id-44c10e77-57cf-47b0-b307-1eaf205adaf1[Head of Group Legal & Tax]
+| | https://github.com/honeggera[Adrian Honegger] | https://www.baloise.com/en/home/about-us/who-we-are/organisation-management.html#id-44c10e77-57cf-47b0-b307-1eaf205adaf1[Head of Group Strategy & Digital Transformation]
 | I'm looking forward to great ideas by "outsiders", who help us improving customer experience. | https://github.com/ThomasSchoeb[Thomas Schöb] | Head of Product Management - Group Life Insurance and Legal Service PM
 |===
