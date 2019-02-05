@@ -16,4 +16,5 @@
 
 ### presentations
 
-### `en` 23.11.2018 - [CH-Open](https://www.ch-open.ch): ["Open Source @ Baloise"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-extern), _Markus Tiede_
+### `en` 23.11.2018 - [CH-Open](https://www.ch-open.ch): ["Open Source @ Baloise"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-extern), _Markus Tiede_ 
+ - also available: a [long](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-long-intern) and [short](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-intern) version of Baloise inner view
