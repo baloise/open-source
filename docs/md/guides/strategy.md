@@ -10,8 +10,8 @@ Collaboration within available container
 
 ### [baloise](https://github.com/baloise) @ Github
 
-### [open-insurance.org](https://github.com/open-insurance) @ Github
+## 3 - 4
 
-## 4
+### [open-insurance.org](https://github.com/open-insurance) @ Github
 
 ### [Industry Working Groups](https://www.eclipse.org/org/workinggroups/)
