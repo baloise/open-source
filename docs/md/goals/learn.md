@@ -4,6 +4,7 @@
 
 ## websites
 
+### [Baloise Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/)
 ### [Open Source Guide](https://opensource.guide) by [Github](https://github.com/github/opensource.guide)
 ### [Open Source Guides](https://todogroup.org/guides/) by [TODO Group](https://todogroup.org/about/)
 
