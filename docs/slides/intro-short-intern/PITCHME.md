@@ -151,7 +151,7 @@ recommendation(s): be ready for 4
 +++?color=#b8b8b8
 # 2. Contribute
 
-1. commitment to Openness - add to [Code of Conduct](https://www.baloise.com/en/home/about-us/corporate-governance.html)
+1. open is the default - add to [Code of Conduct](https://www.baloise.com/en/home/about-us/corporate-governance.html)
 
 2. time to learn and contribute: Goldcards+
 
@@ -164,7 +164,7 @@ recommendation(s): be ready for 4
 
 2. resources for [partnerships](https://en.wikipedia.org/wiki/Collaborative_innovation_network)
 
-3. [Open Source Guideline](https://baloise.github.io/open-source/docs/arc42/) execution
+3. Understand, agree on and live by [Open Source Guideline](https://baloise.github.io/open-source/docs/arc42/)
 
 +++?color=#36363f
 # @color[white](4. Strategic Invest)
