@@ -151,7 +151,7 @@ recommendation(s): be ready for 4
 +++?color=#b8b8b8
 # 2. Contribute
 
-1. open is the default - add to [Code of Conduct](https://www.baloise.com/en/home/about-us/corporate-governance.html)
+1. open is the default - add to [Code of Conduct](https://www.baloise.com/en/home/about-us/what-we-stand-for/corporate-governance.html)
 
 2. time to learn and contribute: Goldcards+
 
