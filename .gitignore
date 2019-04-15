@@ -6,6 +6,10 @@
 .project
 .vscode
 
+# theia settings
+.theia/
+**/.settings/org.eclipse.buildship.core.prefs
+
 # IntelliJ files
 **/*.iml
 **/.idea
@@ -13,7 +17,6 @@
 *.ipr
 *.iws
 **/out/
-
 
 # gradle
 **/build/
