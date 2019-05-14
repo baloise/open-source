@@ -20,3 +20,6 @@
 
 ## Agenda 0
 
+### licences
+### IP / DCO
+### CLA / CA
