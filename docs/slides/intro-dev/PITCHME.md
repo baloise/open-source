@@ -1,4 +1,4 @@
----?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain&color=gray
+---?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain
 @title[Github]
 ## [github.com/baloise](https://github.com/baloise)
 
@@ -16,7 +16,7 @@
 ### build
 ### publish
 
----
++++
 
 ## Agenda 0
 
