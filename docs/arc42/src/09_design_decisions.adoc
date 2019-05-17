@@ -10,4 +10,4 @@ For now we go with a lightweight approach of an https://todogroup.org/guides/cre
 
  * Open Source - Lead: https://github.com/culmat[Matthias Cullmann] - https://twitter.com/culmat[@Twitter]
  * Open Source - Community Manager: https://github.com/MarkusTiede[Markus Tiede] - https://twitter.com/markustiede[@Twitter]
- * Inner Source Manager - TDB
+ * Inner Source Manager: https://github.com/joachimprinzbach[Joachim Prinzbach] - https://twitter.com/johaaachim[@Twitter]
