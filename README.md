@@ -2,7 +2,6 @@
 
 # open-source
 [![Build Status](https://travis-ci.org/baloise/open-source.svg?branch=master)](https://travis-ci.org/baloise/open-source)
-[![Gitter](https://img.shields.io/gitter/room/baloise/Lobby.svg)](https://gitter.im/baloise/Lobby)
 [![gitpod-IDE](https://img.shields.io/badge/open--IDE-as--gitpod-blue.svg?style=flat&label=openIDE)](https://gitpod.io#https://github.com/baloise/open-source)
 
 Open-Source is part of the [Open Innovation movement](docs/md/activities/media.md#articles) @ [Baloise](https://www.baloise.com) and aligns very well with the prerequisites for [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit).
