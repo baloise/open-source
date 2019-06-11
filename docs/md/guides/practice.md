@@ -20,11 +20,6 @@ SimpleProxyChain.noproxyHostsRegEx=.*((baloise|baloisenet|balgroupit).com|bvch.c
 SimpleProxyChain.upstreamServer=webproxy
 ```
 
-If you are behind a corporate proxy you may have to [disable the SSL verification](https://git-scm.com/docs/git-config#Documentation/git-config.txt-httpsslVerify) for git e.g. via:
-```shell
-git config <<--global>> http.sslVerify false
-```
-
 ## [release engineering](https://en.wikipedia.org/wiki/Release_engineering)
 
 ### building
