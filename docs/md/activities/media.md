@@ -6,7 +6,7 @@
 
 ### articles
 
-### `de` 28.08.2018 - "Entwicklung einer Vorsorge-Plattform", _Thomas Schöb_ - [Baloise Semesterabschluss 2018 - C-Level Insights](https://www.baloise.com/de/home/medien/semesterabschluss/c-level-insights-thomas-schoeb.html)
+### `de` 28.08.2018 - "Pension dashboard", _Thomas Schöb_ - [Baloise C-Level Insights](https://www.baloise.com/en/home/news-stories/news/stories-and-background-reports/2018/c-level-insights-pension-dashboard.html)
 
 ### `de` 20.07.2018 - "Baloise baut die Renten-Blockchain", _Michael Heim_ - [handelszeitung.ch](https://www.handelszeitung.ch/unternehmen/baloise-baut-die-renten-blockchain)
 
