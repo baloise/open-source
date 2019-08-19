@@ -2,7 +2,6 @@
 
 # open-source
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/baloise/open-source)
-[![Build Status](https://travis-ci.org/baloise/open-source.svg?branch=master)](https://travis-ci.org/baloise/open-source)
 
 Open-Source is part of the [Open Innovation movement](docs/md/activities/media.md#articles) @ [Baloise](https://www.baloise.com) and aligns very well with the prerequisites for [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit).
 
@@ -30,3 +29,6 @@ The [relevance](http://opensourcesurvey.org/2017/#overview) of Open-Source (soft
 |2.| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_01_Ausgereift_Farbig.svg/200px-Icon_DINA_Voraussetzungen_Digitale_Nachhaltigkeit_01_Ausgereift_Farbig.svg.png) | [best practice](docs/md/guides/practice.md) |
 |3.| [governance](docs/md/guides/governance.md) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png) |
 |4.| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Icon_DINA_Schwerpunkte_Parldigi_04_Open_Access_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_04_Open_Access_Farbig.svg.png) | [strategy](docs/md/guides/strategy.md) |
+
+----
+[![Build Status](https://travis-ci.org/baloise/open-source.svg?branch=master)](https://travis-ci.org/baloise/open-source)
