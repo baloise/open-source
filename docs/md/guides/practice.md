@@ -2,11 +2,11 @@
 
 # practice
 
-## access from corporate context 
+## access from corporate context
 
 ### behind a proxy
 
-#### Recommendation: use a local proxy (e.g. [this one](https://github.com/baloise/proxy#installation)) and chain this to your corporate proxy. 
+#### Recommendation: use a local proxy (e.g. [this one](https://github.com/baloise/proxy#installation)) and chain this to your corporate proxy.
 #### Advantage: cross application, unified local proxy settings for in- and external traffic rules
 
 Simply configure within all applications your local "ProxyChain".
@@ -20,13 +20,29 @@ SimpleProxyChain.noproxyHostsRegEx=.*((baloise|baloisenet|balgroupit).com|bvch.c
 SimpleProxyChain.upstreamServer=webproxy
 ```
 
+For git you have to configure your .gitconfig like
+```
+[remote ""]
+	proxy = "http://localhost:8888 "
+
+[http]
+	sslVerify = false
+	proxy = "http://localhost:8888"
+
+[url "http://"]
+	insteadOf = git://
+[https]
+    sslVerify = false
+	proxy = "http://localhost:8888"
+```
+
 ## [release engineering](https://en.wikipedia.org/wiki/Release_engineering)
 
 ### building
 
 #### [Travis-CI](../activities/profiles.md#travis-ci)
  - [Getting started](https://docs.travis-ci.com)
- 
+
 ### releasing
 #### [Github Releases](https://help.github.com/articles/creating-releases/)
 #### [Maven Release Plugin](http://maven.apache.org/maven-release/maven-release-plugin/)
