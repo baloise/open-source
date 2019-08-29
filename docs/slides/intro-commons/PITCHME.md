@@ -8,11 +8,11 @@
 ---
 
 @snap[east fragment]
-### Gemeingut
+#### Gemeingut
 @snapend
 
 @snap[west fragment]
-### Wissen als
+#### Wissen als
 @snapend
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flumserberg_%28Schweiz%29%2C_Liegende_Kuh_--_2011_--_1526.jpg/458px-Flumserberg_%28Schweiz%29%2C_Liegende_Kuh_--_2011_--_1526.jpg)
@@ -34,7 +34,7 @@ CC BY-SA 4.0
 @snapend
 
 @snap[south fragment]
-Wikimedia Commons
+[@Wikimedia Commons](https://de.m.wikipedia.org/wiki/Datei:Flumserberg_(Schweiz),_Liegende_Kuh_--_2011_--_1526.jpg#Lizenz)
 @snapend
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flumserberg_%28Schweiz%29%2C_Liegende_Kuh_--_2011_--_1526.jpg/366px-Flumserberg_%28Schweiz%29%2C_Liegende_Kuh_--_2011_--_1526.jpg)
