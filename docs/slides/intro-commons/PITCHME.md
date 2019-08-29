@@ -19,6 +19,8 @@
 
 ---
 
+@title[(Wissens)-Gemeingut]
+
 @snap[east fragment]
 Wikipedia
 Wiki**media**
@@ -42,6 +44,14 @@ CC BY-SA 4.0
 ---
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Basel_-_Baloise_Hochhaus_-_Baufortschritt_Juni_2019.jpg/310px-Basel_-_Baloise_Hochhaus_-_Baufortschritt_Juni_2019.jpg)](https://commons.wikimedia.org/wiki/File:Basel_-_Baloise_Hochhaus_-_Baufortschritt_Juni_2019.jpg)
+
+---
+
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IBM_1402_card_reader-punch_CHM.agr.jpg/640px-IBM_1402_card_reader-punch_CHM.agr.jpg)](https://commons.wikimedia.org/wiki/File:IBM_1402_card_reader-punch_CHM.agr.jpg)
+
+---
+
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/640px-121212_2_OpenSwissKnife.png)](https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png)
 
 ---
 
