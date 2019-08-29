@@ -2,7 +2,7 @@
 
 @title[(Wissens)-Allmende 2.0]
 
-### (Wissens)-Allmende 2.0
+### @color[grey]((Wissens))-Allmende 2.0
 #### by [Baloise](https://www.baloise.com) - [@MarkusTiede](https://twitter.com/MarkusTiede)
 
 ---
