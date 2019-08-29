@@ -1,5 +1,13 @@
 ---?image=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flumserberg_%28Schweiz%29%2C_Liegende_Kuh_--_2011_--_1526.jpg/782px-Flumserberg_%28Schweiz%29%2C_Liegende_Kuh_--_2011_--_1526.jpg
+
 @title[(Wissens)-Allmende 2.0]
 
 # (Wissens)-Allmende 2.0
-## [github.com/baloise](https://github.com/baloise)
+
+---
+
+## Vielen Dank
+
+![](https://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgithub.com%2Fbaloise%2Fopen-source&amp;format=png&amp;ecc=H)
+
+[available @ Github](https://github.com/baloise/open-source) - licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
