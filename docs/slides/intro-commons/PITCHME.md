@@ -30,7 +30,7 @@ CC BY-SA 4.0
 @snapend
 
 @snap[north fragment]
-„Liegende Kuh am Flumserberg (Schweiz)“
+„Liegende Kuh am Flumserberg“
 @snapend
 
 @snap[south fragment]
