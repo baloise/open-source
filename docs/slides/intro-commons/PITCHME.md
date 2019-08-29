@@ -52,7 +52,7 @@ CC BY-SA 4.0
 @snapend
 
 @snap[south fragment]
-80%+ unserer IT Landschaft basiert (heutzutage) auf Gemeingut: Open-Source
+80%+ unserer IT basiert auf Gemeingut: Open-Source
 @snapend
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IBM_1402_card_reader-punch_CHM.agr.jpg/500px-IBM_1402_card_reader-punch_CHM.agr.jpg)](https://commons.wikimedia.org/wiki/File:IBM_1402_card_reader-punch_CHM.agr.jpg)
