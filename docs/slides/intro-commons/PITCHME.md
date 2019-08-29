@@ -10,7 +10,7 @@
 
 ---
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Basel_-_Baloise_Hochhaus_-_Baufortschritt_Juni_2019.jpg/397px-Basel_-_Baloise_Hochhaus_-_Baufortschritt_Juni_2019.jpg)](https://commons.wikimedia.org/wiki/File:Basel_-_Baloise_Hochhaus_-_Baufortschritt_Juni_2019.jpg)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Basel_-_Baloise_Hochhaus_-_Baufortschritt_Juni_2019.jpg/310px-Basel_-_Baloise_Hochhaus_-_Baufortschritt_Juni_2019.jpg)](https://commons.wikimedia.org/wiki/File:Basel_-_Baloise_Hochhaus_-_Baufortschritt_Juni_2019.jpg)
 
 ---
 
