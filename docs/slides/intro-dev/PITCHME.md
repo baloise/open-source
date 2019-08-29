@@ -12,7 +12,7 @@
 
 ## Agenda 1
 
-### [code](https://gitpod.io/#https://github.com/baloise/open-source/blob/issue-101/docs/slides/intro-dev/PITCHME.md)
+### [code](https://gitpod.io/#https://github.com/baloise/open-source/blob/master/docs/slides/intro-dev/PITCHME.md)
 ### [build](https://travis-ci.org/baloise/open-source)
 ### [publish](https://baloise.github.io/open-source/docs/arc42/#_overview_3)
 
