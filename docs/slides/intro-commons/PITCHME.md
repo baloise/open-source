@@ -47,6 +47,14 @@ CC BY-SA 4.0
 
 ---
 
+@snap[north fragment]
+50+ Jahre Automat- und Digitalisierungserfahrung
+@snapend
+
+@snap[south fragment]
+Wissensdigitalisierung und -automatisierung
+@snapend
+
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IBM_1402_card_reader-punch_CHM.agr.jpg/640px-IBM_1402_card_reader-punch_CHM.agr.jpg)](https://commons.wikimedia.org/wiki/File:IBM_1402_card_reader-punch_CHM.agr.jpg)
 
 ---
