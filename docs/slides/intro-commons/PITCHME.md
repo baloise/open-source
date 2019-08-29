@@ -55,11 +55,11 @@ CC BY-SA 4.0
 Wissensdigitalisierung und -automatisierung
 @snapend
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IBM_1402_card_reader-punch_CHM.agr.jpg/640px-IBM_1402_card_reader-punch_CHM.agr.jpg)](https://commons.wikimedia.org/wiki/File:IBM_1402_card_reader-punch_CHM.agr.jpg)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IBM_1402_card_reader-punch_CHM.agr.jpg/500px-IBM_1402_card_reader-punch_CHM.agr.jpg)](https://commons.wikimedia.org/wiki/File:IBM_1402_card_reader-punch_CHM.agr.jpg)
 
 ---
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/640px-121212_2_OpenSwissKnife.png)](https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/1024px-121212_2_OpenSwissKnife.png)](https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png)
 
 ---
 
