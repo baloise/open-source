@@ -19,4 +19,4 @@
 ### `de` 18.10.2019 - [DINAcon](https://dinacon.ch/sessions/2019/open-source-software-in-der-versicherungswelt/): "Open-Source (Software) in der Versicherung(swelt), _Markus Tiede_ 
 
 ### `en` 23.11.2018 - [CH-Open](https://www.ch-open.ch): ["Open Source @ Baloise"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-extern), _Markus Tiede_ 
- - also available: a [long](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro) and [short](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-intern) version of Baloise inner view
+ - also available: a [long](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro) and [short](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-intern) version of Baloise inner view ([dev](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-dev)eloper version)
