@@ -60,7 +60,7 @@ Wissensdigitalisierung und -automatisierung
 ---
 
 @snap[north fragment]
-Geteilte Freud' ist doppelte Freud', ...
+Geteilte Freud' ist doppelte Freud'...
 @snapend
 
 @snap[south fragment]
