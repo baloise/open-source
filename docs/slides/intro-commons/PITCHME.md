@@ -73,6 +73,6 @@ Geteiltes Leid ist halbes Leid
 
 ## Vielen Dank
 
-![](https://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgithub.com%2Fbaloise%2Fopen-source&amp;format=png&amp;ecc=H)
+![](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fbaloise.github.io%2Fopen-source%2Fdocs%2Fmd%2Factivities%2Fprojects.html&qzone=0&margin=0&size=300x300&ecc=L)
 
 [available @ Github](https://github.com/baloise/open-source) - licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
