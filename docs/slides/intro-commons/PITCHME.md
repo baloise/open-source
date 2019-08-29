@@ -2,8 +2,8 @@
 
 @title[(Wissens)-Allmende 2.0]
 
-## (Wissens)-Allmende 2.0
-### by [Baloise](https://www.baloise.com) - [@MarkusTiede](https://twitter.com/MarkusTiede)
+### (Wissens)-Allmende 2.0
+#### by [Baloise](https://www.baloise.com) - [@MarkusTiede](https://twitter.com/MarkusTiede)
 
 ---
 
@@ -14,6 +14,10 @@ Gemeingut
 @snap[west fragment]
 Wissens-
 @snapend
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flumserberg_%28Schweiz%29%2C_Liegende_Kuh_--_2011_--_1526.jpg/458px-Flumserberg_%28Schweiz%29%2C_Liegende_Kuh_--_2011_--_1526.jpg)
+
+---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flumserberg_%28Schweiz%29%2C_Liegende_Kuh_--_2011_--_1526.jpg/458px-Flumserberg_%28Schweiz%29%2C_Liegende_Kuh_--_2011_--_1526.jpg)
 
