@@ -27,6 +27,15 @@ Wiki**media**
 **Commons**
 @snapend
 
+@snap[west fragment]
+
+Dietmar Rabich 
+Wikimedia Commons 
+„Flumserberg (Schweiz), Liegende Kuh -- 2011 -- 1526“
+CC BY-SA 4.0
+
+@snapend
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flumserberg_%28Schweiz%29%2C_Liegende_Kuh_--_2011_--_1526.jpg/458px-Flumserberg_%28Schweiz%29%2C_Liegende_Kuh_--_2011_--_1526.jpg)
 
 ---
