@@ -19,6 +19,10 @@ Gemeingut
 
 ---
 
+@snap[north east fragment]
+Wikipedia
+@snapend
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flumserberg_%28Schweiz%29%2C_Liegende_Kuh_--_2011_--_1526.jpg/458px-Flumserberg_%28Schweiz%29%2C_Liegende_Kuh_--_2011_--_1526.jpg)
 
 ---
