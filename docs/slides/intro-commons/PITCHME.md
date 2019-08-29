@@ -60,11 +60,11 @@ Wissensdigitalisierung und -automatisierung
 ---
 
 @snap[north fragment]
-Geteilte Freud' ist doppelte Freud'...
+Geteilte Freud' ist doppelte Freud'!
 @snapend
 
 @snap[south fragment]
-... geteiltes Leid ist halbes Leid.
+Geteiltes Leid ist halbes Leid.
 @snapend
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/1024px-121212_2_OpenSwissKnife.png)](https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png)
