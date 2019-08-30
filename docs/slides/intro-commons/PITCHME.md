@@ -43,9 +43,13 @@ CC BY-SA 4.0
 
 ---
 
+@title[Baloise]
+
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Basel_-_Baloise_Hochhaus_-_Baufortschritt_Juni_2019.jpg/310px-Basel_-_Baloise_Hochhaus_-_Baufortschritt_Juni_2019.jpg)](https://commons.wikimedia.org/wiki/File:Basel_-_Baloise_Hochhaus_-_Baufortschritt_Juni_2019.jpg)
 
 ---
+
+@title[Versicherungen]
 
 @snap[north fragment]
 50+ Jahre Automat- und Digitalisierungserfahrung
@@ -59,6 +63,8 @@ CC BY-SA 4.0
 
 ---
 
+@title[Open Source]
+
 @snap[north fragment]
 Geteilte Freud' ist doppelte Freud'
 @snapend
@@ -70,6 +76,8 @@ Geteiltes Leid ist halbes Leid: Kosten
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/800px-121212_2_OpenSwissKnife.png)](https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png)
 
 ---
+
+@title[QR / QA / Links]
 
 @snap[west fragment]
 ## Vielen
