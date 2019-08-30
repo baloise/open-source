@@ -21,6 +21,10 @@
 
 @title[(Wissens)-Gemeingut]
 
+@snap[north fragment]
+„Liegende Kuh am Flumserberg“
+@snapend
+
 @snap[east fragment]
 Wikipedia
 Wiki**media**
@@ -29,10 +33,6 @@ Wiki**media**
 @snap[west fragment]
 Dietmar Rabich 
 CC BY-SA 4.0
-@snapend
-
-@snap[north fragment]
-„Liegende Kuh am Flumserberg“
 @snapend
 
 @snap[south fragment]
@@ -52,7 +52,7 @@ CC BY-SA 4.0
 @snapend
 
 @snap[south fragment]
-80%+ unserer IT basiert auf Gemeingut: Open-Source
+80%+ unserer IT basiert auf Open-Source-Software
 @snapend
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IBM_1402_card_reader-punch_CHM.agr.jpg/500px-IBM_1402_card_reader-punch_CHM.agr.jpg)](https://commons.wikimedia.org/wiki/File:IBM_1402_card_reader-punch_CHM.agr.jpg)
@@ -67,7 +67,7 @@ Geteilte Freud' ist doppelte Freud'
 Geteiltes Leid ist halbes Leid
 @snapend
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/1000px-121212_2_OpenSwissKnife.png)](https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/800px-121212_2_OpenSwissKnife.png)](https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png)
 
 ---
 
