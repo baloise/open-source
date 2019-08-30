@@ -52,7 +52,7 @@ CC BY-SA 4.0
 @snapend
 
 @snap[south fragment]
-80%+ unserer IT basiert auf Open-Source-Software
+80%+ basiert auf Open-Source-Software
 @snapend
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IBM_1402_card_reader-punch_CHM.agr.jpg/500px-IBM_1402_card_reader-punch_CHM.agr.jpg)](https://commons.wikimedia.org/wiki/File:IBM_1402_card_reader-punch_CHM.agr.jpg)
@@ -60,18 +60,20 @@ CC BY-SA 4.0
 ---
 
 @snap[north fragment]
-Geteilte Freud' ist doppelte Freud'
+Geteilte Freud' ist doppelte Freud': Innovation
 @snapend
 
 @snap[south fragment]
-Geteiltes Leid ist halbes Leid
+Geteiltes Leid ist halbes Leid: Kosten
 @snapend
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/800px-121212_2_OpenSwissKnife.png)](https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png)
 
 ---
 
+@snap[north fragment]
 ## Vielen Dank
+@snapend
 
 ![](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fbaloise.github.io%2Fopen-source%2Fdocs%2Fmd%2Factivities%2Fprojects.html&qzone=0&margin=0&size=300x300&ecc=L)
 
