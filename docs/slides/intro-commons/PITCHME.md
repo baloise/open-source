@@ -64,19 +64,19 @@ CC BY-SA 4.0
 ---?image=https://upload.wikimedia.org/wikipedia/commons/7/7c/Icon_DINA_Schwerpunkte_Parldigi_01_Open_Source_Software_Farbig.svg&size=contain&color=grey
 
 @snap[north fragment]
-use
-@snapend
-
-@snap[west fragment]
-inspect
-@snapend
-
-@snap[south fragment]
-modify
+## @color[#FFFFFF](use)
 @snapend
 
 @snap[east fragment]
-distribute
+## @color[#FFFFFF](inspect)
+@snapend
+
+@snap[south fragment]
+## @color[#FFFFFF](modify)
+@snapend
+
+@snap[west fragment]
+## @color[#FFFFFF](distribute)
 @snapend
 
 ---
