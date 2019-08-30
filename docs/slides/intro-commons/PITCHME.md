@@ -60,7 +60,7 @@ CC BY-SA 4.0
 ---
 
 @snap[north fragment]
-Geteilte Freud' ist doppelte Freud': Innovation
+Geteilte Freud' ist doppelte Freud'
 @snapend
 
 @snap[south fragment]
@@ -71,8 +71,12 @@ Geteiltes Leid ist halbes Leid: Kosten
 
 ---
 
-@snap[north fragment]
-## Vielen Dank
+@snap[west fragment]
+## Vielen
+@snapend
+
+@snap[east fragment]
+## Dank
 @snapend
 
 ![](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fbaloise.github.io%2Fopen-source%2Fdocs%2Fmd%2Factivities%2Fprojects.html&qzone=0&margin=0&size=300x300&ecc=L)
