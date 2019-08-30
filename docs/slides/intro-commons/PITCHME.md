@@ -61,6 +61,24 @@ CC BY-SA 4.0
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IBM_1402_card_reader-punch_CHM.agr.jpg/500px-IBM_1402_card_reader-punch_CHM.agr.jpg)](https://commons.wikimedia.org/wiki/File:IBM_1402_card_reader-punch_CHM.agr.jpg)
 
+---?image=https://upload.wikimedia.org/wikipedia/commons/7/7c/Icon_DINA_Schwerpunkte_Parldigi_01_Open_Source_Software_Farbig.svg&size=contain&color=grey
+
+@snap[north fragment]
+use
+@snapend
+
+@snap[west fragment]
+inspect
+@snapend
+
+@snap[south fragment]
+modify
+@snapend
+
+@snap[east fragment]
+distribute
+@snapend
+
 ---
 
 @title[Open Source]
