@@ -106,6 +106,8 @@ Geteiltes Leid ist halbes Leid: Kosten
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/800px-121212_2_OpenSwissKnife.png)](https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png)
 
+---?image=https://upload.wikimedia.org/wikipedia/commons/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg&size=contain&color=grey
+
 ---
 
 @title[QR / QA / Links]
