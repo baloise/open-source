@@ -81,7 +81,16 @@ CC BY-SA 4.0
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain
 @title[Github]
+
+@snap[north fragment]
+## @color[#FFFFFF](Lösungen, Bibliotheken, Frameworks)
+@snapend
+
 ## [github.com/baloise](https://github.com/baloise)
+
+@snap[south fragment]
+## @color[#FFFFFF](Workshops, Vorträge, Communities)
+@snapend
 
 ---
 
