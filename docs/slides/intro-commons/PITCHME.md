@@ -79,6 +79,10 @@ CC BY-SA 4.0
 ## @color[#FFFFFF](distribute)
 @snapend
 
+---?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain
+@title[Github]
+## [github.com/baloise](https://github.com/baloise)
+
 ---
 
 @title[Open Source]
