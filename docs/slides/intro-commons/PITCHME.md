@@ -79,7 +79,7 @@ CC BY-SA 4.0
 ## @color[#FFFFFF](distribute)
 @snapend
 
----?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain
+---?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain&color=grey
 @title[Github]
 
 @snap[north fragment]
