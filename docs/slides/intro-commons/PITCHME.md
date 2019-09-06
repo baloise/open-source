@@ -83,13 +83,13 @@ CC BY-SA 4.0
 @title[Github]
 
 @snap[north fragment]
-### @color[#FFFFFF](Lösungen, Bibliotheken, Frameworks)
+### @color[#FFFFFF](Solutions, Libraries, Frameworks)
 @snapend
 
 ## [github.com/baloise](https://github.com/baloise)
 
 @snap[south fragment]
-### @color[#FFFFFF](Workshops, Vorträge, Communities)
+### @color[#FFFFFF](Workshops, Talks, Communities)
 @snapend
 
 ---
