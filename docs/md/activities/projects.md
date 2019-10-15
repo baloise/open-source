@@ -9,7 +9,7 @@ sorted alphabetically by name
 | name | website | phase<sup>1</sup> |
 |:-------------:|:---------:|:-----:|
 | [Baloise Group](https://github.com/baloise) | [![logo](https://baloise.github.io/baloise-bootstrap/assets/img/baloise-group-logo-blue.svg)](https://github.com/baloise) | mature |
-| [Open-Insurance](https://github.com/open-insurance) | [![logo](https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png)](https://open-insurance.org) | pre-proposal |
+| [Open-Insurance](https://github.com/open-insurance) | [![logo](https://avatars2.githubusercontent.com/u/40058038?s=200&v=4)](https://open-insurance.org) | pre-proposal |
 | [Open-Prevo](https://github.com/open-prevo) | [![logo](https://rawgit.com/open-prevo/openprevo/master/doc/assets/img/logo.svg)](https://open-prevo.github.io) | archived → follow-up: [bvgmatch-server](https://github.com/stiftung-auffangeinrichtung-bvg/bvgmatch-server) |
 
 ## sponsored
