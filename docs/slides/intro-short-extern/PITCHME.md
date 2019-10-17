@@ -129,7 +129,7 @@ structure follows strategy
 
 ### 2018 / 2019 / 2020: open-insurance?
 
-![](https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png)
+![](https://avatars2.githubusercontent.com/u/40058038?s=200&v=4)
 
 2017: [Allianz Business System goes OS](https://www.allianz.com/en_GB/press/news/business/insurance/180129-allianz-sets-up-open-platform.html)
 
@@ -138,6 +138,14 @@ structure follows strategy
 2018 - Q3, Q4: [OPIN](https://openinsurance.io)
 
 2019: [Open Insurance Platform by APOSIN](https://aposin.org)
+
++++
+
+### Open-Insurance Day - 02
+
+21st of November in Basel
+
+## [register for free](https://www.eventbrite.com/e/open-insurance-day-02-registration-71253502143)
 
 ---
 # Thanks!
