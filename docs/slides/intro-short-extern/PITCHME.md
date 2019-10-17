@@ -102,7 +102,7 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 @color[white](85+ people) [from Baloise Group](https://github.com/orgs/baloise/people)
 
-@color[white](10+ external contributors fom Germany, California, Memphis, Tokyo)
+@color[white](10+ external contributors fom Germany, Austria, California, Memphis, Tokyo)
 
 [workshops, ](https://github.com/baloise/ws-angular_slides#inhalt)
 [telks](https://gitpod.io/#https://github.com/baloise/open-source/blob/master/docs/slides/intro-short-extern/PITCHME.md)
