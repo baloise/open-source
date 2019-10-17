@@ -102,7 +102,9 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 @color[white](10+ external contributors fom Germany, California, Memphis, Tokyo)
 
-[workshops](https://github.com/baloise/ws-angular_slides#inhalt)@color[white](, talks, APIs, POCs, ...)
+[workshops, ](https://github.com/baloise/ws-angular_slides#inhalt)
+[telks](https://gitpod.io/#https://github.com/baloise/open-source/blob/master/docs/slides/intro-short-extern/PITCHME.md)
+@color[white](, APIs, POCs, ...)
 
 +++
 
@@ -127,7 +129,7 @@ structure follows strategy
 
 +++
 
-### 2018 / 2019 / 2020: open-insurance?
+### open-insurance?
 
 ![](https://avatars2.githubusercontent.com/u/40058038?s=200&v=4)
 
