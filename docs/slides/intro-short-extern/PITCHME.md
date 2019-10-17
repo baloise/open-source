@@ -115,7 +115,10 @@ thanks to [Zalando Open Source](https://opensource.zalando.com)!
 ---
 # how
 time over money
+
 trust over control
+
+intrinsic over extrinsic
 
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
