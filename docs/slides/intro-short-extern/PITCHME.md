@@ -130,7 +130,7 @@ daily [work / duty](https://baloise.github.io/open-source/docs/arc42/#section-os
 
 goldcards
 
-[Open-Source Friday](https://opensourcefriday.com)
+[open-source friday](https://opensourcefriday.com)
 
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
