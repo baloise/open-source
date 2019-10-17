@@ -133,9 +133,9 @@ structure follows strategy
 
 2017: [Allianz Business System goes OS](https://www.allianz.com/en_GB/press/news/business/insurance/180129-allianz-sets-up-open-platform.html)
 
-2018 - Q1, Q2: proposed term and [open-insurance.org](https://open-insurance.org)
+2018 - Q1, Q2: [open-insurance.org](https://open-insurance.org)
 
-2018 - Q3, Q4: ([OPIN](https://openinsurance.io)) 
+2018 - Q3, Q4: [OPIN](https://openinsurance.io)
 
 2019: [Open Insurance Platform by APOSIN](https://aposin.org)
 
