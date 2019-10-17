@@ -124,6 +124,14 @@ trust over control
 
 intrinsic over extrinsic
 
++++
+# container
+daily [work / duty](https://baloise.github.io/open-source/docs/arc42/#section-os-contribute)
+
+goldcards
+
+[Open-Source Friday](https://opensourcefriday.com)
+
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
 
