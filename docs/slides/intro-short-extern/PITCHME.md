@@ -13,7 +13,7 @@
 
 ![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png) ![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
 
-**Intr<open>eur** @ [Baloise CH](https://www.baloise.ch)
+`Intr<open>eur` @ [Baloise CH](https://www.baloise.ch)
 
 ---
 
