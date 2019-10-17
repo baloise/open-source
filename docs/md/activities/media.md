@@ -16,7 +16,7 @@
 
 ### presentations
 
-### `de` 18.10.2019 - [DINAcon](https://dinacon.ch/sessions/2019/open-source-software-in-der-versicherungswelt/): "Open-Source (Software) in der Versicherung(swelt), _Markus Tiede_ 
+### `de` 18.10.2019 - [DINAcon](https://dinacon.ch/sessions/2019/open-source-software-in-der-versicherungswelt/): ["Open-Source (Software) in der Versicherung(swelt)](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-extern), _Markus Tiede_ 
 
 ### `en` 03.09.2019 - [Digitaltag Schweiz](https://www.digitaltag.swiss): ["(Wissens)-Allmende 2.0"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-commons), _Markus Tiede_ 
 
