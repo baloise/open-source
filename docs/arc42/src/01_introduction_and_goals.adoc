@@ -7,7 +7,7 @@
 * At Baloise we foster the use, contribution and release of open source (software)!
 * This guidelines cover all three stages
  - <<section-os-use>>,
- - <<section-os-contribute>> and 
+ - <<section-os-contribute>> and
  - <<section-os-release>>
 * Feel free to participate: https://github.com/baloise/open-source/issues/new[file issues] or https://github.com/baloise/open-source/pulls[provide PRs] if you'd like to see extensions!
 
@@ -41,9 +41,8 @@ In **summary** - https://en.wikipedia.org/wiki/Don%27t_be_evil["Do the right thi
 in alphabetical order by role / name
 
 |===
-| Expectations | Contact | Role / Name  
-| Learn and share are our first steps afterwards the sky is the limit. | https://github.com/UrsBienz[Urs Bienz] | https://www.baloise.com/en/home/about-us/who-we-are/organisation-management.html#id-44c10e77-57cf-47b0-b307-1eaf205adaf1[Head of Finance & Risk] 
-| | Andreas Burki | https://www.baloise.com/en/home/about-us/who-we-are/organisation-management.html#id-44c10e77-57cf-47b0-b307-1eaf205adaf1[Head of Group Legal & Tax]
+| Expectations | Contact | Role / Name
+| Learn and share are our first steps afterwards the sky is the limit. | https://github.com/UrsBienz[Urs Bienz] | https://www.baloise.com/en/home/about-us/who-we-are/organisation-management.html#id-44c10e77-57cf-47b0-b307-1eaf205adaf1[Head of Finance & Risk]
 | | https://github.com/honeggera[Adrian Honegger] | https://www.baloise.com/en/home/about-us/who-we-are/organisation-management.html#id-44c10e77-57cf-47b0-b307-1eaf205adaf1[Head of Group Strategy & Digital Transformation]
-| I'm looking forward to great ideas by "outsiders", who help us improving customer experience. | https://github.com/ThomasSchoeb[Thomas Schöb] | Head of Product Management - Group Life Insurance and Legal Service PM
+| I'm looking forward to great ideas by "outsiders", who help us improving customer experience. | https://github.com/ThomasSchoeb[Thomas Schöb] | https://www.baloise.com/en/home/about-us/who-we-are/organisation-management.html#id-44c10e77-57cf-47b0-b307-1eaf205adaf1[Head of Claims]
 |===
