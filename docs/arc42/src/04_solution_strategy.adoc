@@ -54,12 +54,12 @@ The level of ownership as in many open source projects and communities is also f
 
 Releasing a new open source project is a simple and fast process when you are already following Baloises rules of play:
 
-. Get **Sign-off**: Ensure you have organizational buy-in from your lead and that your project is possible to open source 
+. Get **Sign-off**: Ensure you have organizational buy-in from your lead and that your project is possible to open source
 . Be **Compliant**: Ensure your project is compliant with rules of play and open source best practices
 . **Prepare** your repository: Clean up and refactor your code to work outside the Baloise environment.
 . Get **Reviewed**: We recommend getting feedback from the Baloise <<section-design-os-team>> for reviewing your project before releasing it
 
-==== Get Sign-off  
+==== Get Sign-off
 Ensure your lead and team are onboard with open sourcing your project, that everyone understand the time and effort required, and that there is no competitive disadvantages to Baloise.
 
 ===== Get acceptance from your team and your lead
@@ -97,7 +97,7 @@ Use https://github.com/baloise/repository-template-java[new-project] as a boiler
 . Add a `LICENSE.md` file, license must be the https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)[Apache License 2.0] with the copyright set to Baloise Group. For non-source code content we recommend using https://creativecommons.org/licenses/by/4.0/[CC BY 4.0] (e.g. https://raw.githubusercontent.com/baloise/open-source/master/LICENSE[plain license TXT])
 . Ensure you only use <<section-licenses>>-compatible code/dependencies
 
-The <<section-design-os-team>> can help you setting this up during a initial review. 
+The <<section-design-os-team>> can help you setting this up during a initial review.
 
 ===== Use proper procedure for collaboration
 
@@ -123,7 +123,11 @@ https://opensource.guide/building-community/[opensource.guide] has plenty more r
 
 Default ownership of all code released by Baloise employees are copyright Baloise Group and must be released under the Baloise GitHub organizations.
 
-The namespace to use is `com.baloise.open.*`.
+The recommended namespace to use is `com.baloise.open.*`. Resons for this namespace are:
+
+* the scope of the organization was set to Baloise group level which implies the namespace `com.baloise.`
+* clear and unique identification of artifacts maintained by us under open-source licenses: `.open.*`
+* ease of use for https://todogroup.org/guides/management-tools/#tools-for-managing-source-code[source code scanning and license compliance tools]
 
 ==== Prepare your repository
 
