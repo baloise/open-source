@@ -22,17 +22,13 @@ SimpleProxyChain.upstreamServer=webproxy
 
 For git you have to configure your .gitconfig like
 ```
-[remote ""]
-	proxy = "http://localhost:8888 "
-
+[url "http://"]
+	insteadOf = git://
 [http]
 	sslVerify = false
 	proxy = "http://localhost:8888"
-
-[url "http://"]
-	insteadOf = git://
 [https]
-    sslVerify = false
+        sslVerify = false
 	proxy = "http://localhost:8888"
 ```
 
