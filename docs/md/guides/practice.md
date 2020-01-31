@@ -16,7 +16,7 @@ Simply configure within all applications your local "ProxyChain".
 # e.g. for Baloise
 
 SimpleProxyChain.upstreamPort=3128
-SimpleProxyChain.noproxyHostsRegEx=.*((baloise|baloisenet|balgroupit).com|bvch.ch|baloise.ch)\\Z
+SimpleProxyChain.noproxyHostsRegEx=.*((baloise|baloisenet|balgroupit).com|bvch.ch|baloise.ch|localhost|127.0.0.1)\\Z
 SimpleProxyChain.upstreamServer=webproxy
 ```
 
