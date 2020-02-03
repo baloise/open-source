@@ -13,7 +13,7 @@
 
 sorted by date of publication 
 
-### [Teilstrategie der Informations- und Kommunikationstechnik (IKT - Schweiz): Open Source Software in der Bundesverwaltung](https://www.isb.admin.ch/isb/de/home/ikt-vorgaben/strategien-teilstrategien/sb004-ikt-teilstrategie-open-source.html)
+### [Teilstrategie der Informations- und Kommunikationstechnik (IKT - Schweiz), 2019: Open Source Software in der Bundesverwaltung](https://www.isb.admin.ch/isb/de/home/ikt-vorgaben/strategien-teilstrategien/sb004-ikt-teilstrategie-open-source.html)
  - Strategischer Leitfaden: [PDF - Deutsch](https://www.isb.admin.ch/dam/isb/de/dokumente/ikt-vorgaben/strategien/oss/Strategischer_Leitfaden_OSS_Bundesverwaltung_1-0_GENEHMIGT_d.pdf.download.pdf/Strategischer_Leitfaden_OSS_Bundesverwaltung_1-0_GENEHMIGT_d.pdf)
  - Praxis-Leitfaden: [PDF - Deutsch](https://www.isb.admin.ch/dam/isb/de/dokumente/ikt-vorgaben/strategien/oss/Praxis-Leitfaden_OSS_Bundesverwaltung_V_1-0.pdf.download.pdf/Praxis-Leitfaden_OSS_Bundesverwaltung_V_1-0.pdf)
  
