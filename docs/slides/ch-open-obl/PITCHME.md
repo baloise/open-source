@@ -34,6 +34,8 @@
 Begrüssung, Referat durch Daniel Westermann, Q&A
 
 ## 12 - 13 Uhr
-Mittagessen in der [Markthalle Basel](https://www.altemarkthalle.ch/)
+Mittagessen in der [Markthalle Basel](https://www.altemarkthalle.ch/) gesponsort durch [dbi services](https://www.dbi-services.com).
 
-Das Mittagessen wird gesponsort durch [dbi services](https://www.dbi-services.com). @color[darkred](♥)-lichen Dank.
+@color[darkred](♥)-lichen Dank dafür!
+
+---?image=https://upload.wikimedia.org/wikipedia/de/4/4b/Postgresql.svg&size=contain&color=black
