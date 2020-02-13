@@ -29,12 +29,11 @@
 @snapend
 
 ---
-# upcoming OBLs
+### upcoming OBLs
 
-## 23. April 2020 in Basel
-## 25. Juni 2020 in Basel
-## 24. September 2020 in Basel
-## 26. November 2020 in Basel
+### 23. April 2020 in Basel - Open Source @ Baloise
+
+![](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fwww.ch-open.ch%2Fch-open-business-events%2Fch-open-business-lunch%2F&qzone=1&margin=0&size=400x400&ecc=L)
 
 ---
 
