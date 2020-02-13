@@ -30,10 +30,10 @@
 
 ---
 
-11.00 - ca. 12.00 Uhr
+## 11 - 12 Uhr
 Begrüssung, Referat durch Daniel Westermann, Q&A
 
-12.00 - ca. 13.00 Uhr
-Mittagessen in der Markthalle Basel
+## 12 - 13 Uhr
+Mittagessen in der [Markthalle Basel](https://www.altemarkthalle.ch/)
 
-Das Mittagessen wird gesponsort durch [dbi services](https://www.dbi-services.com/de/). Herzlichen Dank.
+Das Mittagessen wird gesponsort durch [dbi services](https://www.dbi-services.com). @color[darkred](♥)-lichen Dank.
