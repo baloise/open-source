@@ -16,7 +16,7 @@
 
 ### events
 
-#### `de` [CH Open Business Lunch](https://gitpitch.com/baloise/open-source/master?p=docs/slides/ch-open-obl) > The elephant in the Enterprise - 20.02.2020
+#### `de` 20.02.2020 - [CH Open Business Lunch](https://gitpitch.com/baloise/open-source/master?p=docs/slides/ch-open-obl) > [The elephant in the Enterprise](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/the-elephant-in-the-enterprise/)
 
 ### presentations
 
