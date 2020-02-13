@@ -41,7 +41,7 @@
 Begrüssung, Referat "THE ELEPHANT IN THE ENTERPRISE" durch Daniel Westermann + Q&A
 
 ## 12 - 13 Uhr
-Mittagessen in der [Markthalle Basel](https://www.altemarkthalle.ch/) gesponsort durch [dbi services](https://www.dbi-services.com).
+Mittagessen in der [Markthalle Basel](https://routing.openstreetmap.de/?z=18&center=47.548963%2C7.591531&loc=47.549581%2C7.592935&loc=47.549355%2C7.587900&hl=de&alt=0&srv=2) gesponsort durch [dbi services](https://www.dbi-services.com).
 
 @color[darkred](♥)-lichen Dank dafür!
 
