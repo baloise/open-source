@@ -29,9 +29,17 @@
 @snapend
 
 ---
+# upcoming OBLs
+
+## 23. April 2020 in Basel
+## 25. Juni 2020 in Basel
+## 24. September 2020 in Basel
+## 26. November 2020 in Basel
+
+---
 
 ## 11 - 12 Uhr
-Begrüssung, Referat durch Daniel Westermann, Q&A
+Begrüssung, Referat "THE ELEPHANT IN THE ENTERPRISE" durch Daniel Westermann + Q&A
 
 ## 12 - 13 Uhr
 Mittagessen in der [Markthalle Basel](https://www.altemarkthalle.ch/) gesponsort durch [dbi services](https://www.dbi-services.com).
