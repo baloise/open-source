@@ -1,13 +1,23 @@
 ---
 
-@snap[west span-40 text-center]
-### Event
-![](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fwww.ch-open.ch%2Fch-open-business-events%2Fch-open-business-lunch%2Fthe-elephant-in-the-enterprise%2F&qzone=0&margin=0&size=200x200&ecc=L)
+@snap[north text-center]
+### dbi-service
+![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fwww.dbi-services.com&size=200x200&ecc=L)
 @snapend
 
-@snap[east span-40 text-center]
-### Slides
-![](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fgitpitch.com%2Fbaloise%2Fopen-source%2Fmaster%3Fp%3Ddocs%2Fslides%2Fch-open-obl&qzone=0&margin=0&size=200x200&ecc=L)
+@snap[east text-center]
+### slides
+![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgitpitch.com%2Fbaloise%2Fopen-source%2Fmaster%3Fp%3Ddocs%2Fslides%2Fch-open-obl&size=200x200&ecc=L)
+@snapend
+
+@snap[south text-center]
+### baloise
+![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgithub.com%2Fbaloise&size=200x200&ecc=L)
+@snapend
+
+@snap[west text-center]
+### event
+![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fwww.ch-open.ch%2Fch-open-business-events%2Fch-open-business-lunch%2Fthe-elephant-in-the-enterprise%2F&size=200x200&ecc=L)
 @snapend
 
 ---
