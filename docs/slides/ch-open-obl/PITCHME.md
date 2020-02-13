@@ -1,21 +1,21 @@
 ---
 
-@snap[north-west text-center]
+@snap[north text-center]
 ### guest
 ![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fwww.dbi-services.com&size=250x250&ecc=L)
 @snapend
 
-@snap[north-east text-center]
+@snap[east text-center]
 ### slides
 ![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgitpitch.com%2Fbaloise%2Fopen-source%2Fmaster%3Fp%3Ddocs%2Fslides%2Fch-open-obl&size=250x250&ecc=L)
 @snapend
 
-@snap[south-east text-center]
+@snap[south text-center]
 ### host
 ![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgithub.com%2Fbaloise&size=250x250&ecc=L)
 @snapend
 
-@snap[south-west text-center]
+@snap[west text-center]
 ### event
 ![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fwww.ch-open.ch%2Fch-open-business-events%2Fch-open-business-lunch%2Fthe-elephant-in-the-enterprise%2F&size=250x250&ecc=L)
 @snapend
