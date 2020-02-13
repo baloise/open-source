@@ -1,7 +1,7 @@
 ---
 
 @snap[north text-center]
-### guest & host
+### CH-Open & dbi-services & Baloise
 ![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fwww.dbi-services.com&size=250x250&ecc=L)
 @snapend
 
