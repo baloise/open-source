@@ -1,7 +1,7 @@
 ---
 
 @snap[north text-center]
-### CH-Open & dbi-services & Baloise
+### dbi-services & baloise
 ![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fwww.dbi-services.com&size=250x250&ecc=L)
 @snapend
 
@@ -16,7 +16,7 @@
 @snapend
 
 @snap[west text-center]
-### event
+### CH-Open
 ![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fwww.ch-open.ch%2Fch-open-business-events%2Fch-open-business-lunch%2Fthe-elephant-in-the-enterprise%2F&size=250x250&ecc=L)
 @snapend
 
