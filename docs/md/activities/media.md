@@ -6,19 +6,25 @@
 
 ### articles
 
-### `de` 28.08.2018 - "Pension dashboard", _Thomas Schöb_ - [Baloise C-Level Insights](https://www.baloise.com/en/home/news-stories/news/stories-and-background-reports/2018/c-level-insights-pension-dashboard.html)
+#### `de` 28.08.2018 - "Pension dashboard", _Thomas Schöb_ - [Baloise C-Level Insights](https://www.baloise.com/en/home/news-stories/news/stories-and-background-reports/2018/c-level-insights-pension-dashboard.html)
 
-### `de` 20.07.2018 - "Baloise baut die Renten-Blockchain", _Michael Heim_ - [handelszeitung.ch](https://www.handelszeitung.ch/unternehmen/baloise-baut-die-renten-blockchain)
+#### `de` 20.07.2018 - "Baloise baut die Renten-Blockchain", _Michael Heim_ - [handelszeitung.ch](https://www.handelszeitung.ch/unternehmen/baloise-baut-die-renten-blockchain)
 
-### `de` 18.05.2018 - "Mit Wetten testen wir Geschäftshypothesen" - [inside-it.ch](https://www.inside-it.ch/articles/51129)
+#### `de` 18.05.2018 - "Mit Wetten testen wir Geschäftshypothesen" - [inside-it.ch](https://www.inside-it.ch/articles/51129)
 
-### `de` 22.02.2017 - "Schweizer 'Automatisierungs-Middleware' wird Open Source" - [inside-it.ch](https://www.inside-it.ch/articles/46717)
+#### `de` 22.02.2017 - "Schweizer 'Automatisierungs-Middleware' wird Open Source" - [inside-it.ch](https://www.inside-it.ch/articles/46717)
+
+### events
+
+#### `de` 20.02.2020 - [CH Open Business Lunch](https://gitpitch.com/baloise/open-source/master?p=docs/slides/ch-open-obl) > [The elephant in the Enterprise](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/the-elephant-in-the-enterprise/)
 
 ### presentations
 
-### `de` 18.10.2019 - [DINAcon](https://dinacon.ch/sessions/2019/open-source-software-in-der-versicherungswelt/): "Open-Source (Software) in der Versicherung(swelt), _@MarkusTiede_
+#### `de` 18.10.2019 - [DINAcon](https://dinacon.ch/sessions/2019/open-source-software-in-der-versicherungswelt/): ["Open-Source (Software) in der Versicherung(swelt)](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-extern), _Markus Tiede_ 
 
-### `en` 10.19.2019 - [Red Hat Forum 2019 Switzerland](https://events.redhat.com/profile/form/index.cfm?PKformID=0x59699abcd): "Enable Open Source Culture - Best Practices @Baloise Group, _@MarkusTiede_
+#### `en` 10.19.2019 - [Red Hat Forum 2019 Switzerland](https://events.redhat.com/profile/form/index.cfm?PKformID=0x59699abcd): "Enable Open Source Culture - Best Practices @Baloise Group, _@MarkusTiede_
 
-### `en` 23.11.2018 - [CH-Open](https://www.ch-open.ch): ["Open Source @ Baloise"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-extern), _@MarkusTiede_
- - also available: a [long](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro) and [short](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-intern) version of Baloise inner view
+#### `en` 03.09.2019 - [Digitaltag Schweiz](https://www.digitaltag.swiss): ["(Wissens)-Allmende 2.0"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-commons), _Markus Tiede_ 
+
+#### `en` 23.11.2018 - [CH-Open](https://www.ch-open.ch): ["Open Source @ Baloise"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-extern), _Markus Tiede_ 
+ - also available: a [long](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro) and [short](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-intern) version of Baloise inner view ([dev](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-dev)eloper version)

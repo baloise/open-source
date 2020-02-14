@@ -402,7 +402,7 @@ business driver: IiaB & API management
 
 ![](https://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgithub.com%2Fbaloise%2Fopen-source&amp;format=png&amp;ecc=H)
 
-[available @ Github](https://github.com/baloise/open-source) - licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+[available @ Github](https://github.com/baloise/open-source) - licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 +++
 

@@ -1,4 +1,4 @@
----?image=https://rawgit.com/baloise/baloise-bootstrap/gh-pages/assets/img/baloise-group-logo-blue.svg&size=contain
+---?image=https://baloise.github.io/baloise-bootstrap/assets/img/baloise-group-logo-blue.svg&size=contain
 
 @snap[south]
 @size[1.25em](We @color[darkred](♥) Open Source)
@@ -9,19 +9,21 @@
 +++
 @title[about]
 
-[@MarkusTiede](https://twitter.com/MarkusTiede) - Software Engineer
- 
+[@MarkusTiede](https://twitter.com/MarkusTiede) - CCO SE Co-Lead  
+
 ![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png) ![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
 
-**Open Source Advocate** @ [Baloise CH](https://www.baloise.ch)
+`Intr<open>eur` @ [Baloise CH](https://www.baloise.ch)
 
 ---
 
 ## explain open source
 
+our bread and butter + channel for ∞ innovation 
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg/200px-Icon_Digitale_Nachhaltigkeit_Farbig.svg.png)
 
-precondition for [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#10_Voraussetzungen_der_digitalen_Nachhaltigkeit)
+precondition for [(digital) sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#10_Voraussetzungen_der_digitalen_Nachhaltigkeit)
 
 [corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility)
 
@@ -96,13 +98,15 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 @color[white](founded in **2013**)
 
-@color[white](50+ repos, 4 plugins with total ~47.000 installations on Eclipse and) [Atlassian marketplace](https://marketplace.atlassian.com/vendors/1211530/baloise-group)
+@color[white](70+ repos, 4 plugins with total ~47.000 installations on Eclipse and) [Atlassian marketplace](https://marketplace.atlassian.com/vendors/1211530/baloise-group)
 
-@color[white](60+ people) [from Baloise Group](https://github.com/orgs/baloise/people)
+@color[white](85+ people) [from Baloise Group](https://github.com/orgs/baloise/people)
 
-@color[white](10+ external contributors fom Germany, California, Memphis, Tokyo)
+@color[white](10+ external contributors fom Germany, Austria, California, Memphis, Tokyo)
 
-[TAF](https://github.com/baloise/test-automation-framework)@color[white](, talks, workshops, POCs, ...)
+[workshops, ](https://github.com/baloise/ws-angular_slides#inhalt)
+[talks](https://gitpod.io/#https://github.com/baloise/open-source/blob/master/docs/slides/intro-short-extern/PITCHME.md)
+@color[white](, APIs, POCs, ...)
 
 +++
 
@@ -112,6 +116,22 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 
 thanks to [Zalando Open Source](https://opensource.zalando.com)!
 
+---
+# how
+time over money
+
+trust over control
+
+intrinsic over extrinsic
+
++++
+# container
+daily [work / duty](https://baloise.github.io/open-source/docs/arc42/#section-os-contribute)
+
+goldcards
+
+[open-source friday](https://opensourcefriday.com)
+
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
 
@@ -119,15 +139,25 @@ structure follows strategy
 
 +++
 
-### 2018 / 2019: open-insurance?
+### open-insurance?
 
-![](https://user-images.githubusercontent.com/1764012/42737412-46936f44-8873-11e8-87f7-85a976e5be3a.png)
+![](https://avatars2.githubusercontent.com/u/40058038?s=200&v=4)
 
 2017: [Allianz Business System goes OS](https://www.allianz.com/en_GB/press/news/business/insurance/180129-allianz-sets-up-open-platform.html)
 
-Q1, Q2: proposed term and [open-insurance.org](https://open-insurance.org)
+2018 - Q1, Q2: [open-insurance.org](https://open-insurance.org)
 
-Q3, Q4: ([OPIN](https://openinsurance.io)) + [OpenCologne](http://deliverythinking.com/insurance-to-stay/)
+2018 - Q3, Q4: [OPIN](https://openinsurance.io)
+
+2019: [Open Insurance Platform by APOSIN](https://aposin.org)
+
++++
+
+### Open-Insurance Day - 02
+
+21st of November in Basel
+
+## [register for free](https://www.eventbrite.com/e/open-insurance-day-02-registration-71253502143)
 
 ---
 # Thanks!
@@ -136,4 +166,4 @@ Q3, Q4: ([OPIN](https://openinsurance.io)) + [OpenCologne](http://deliverythinki
 
 ![](https://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgithub.com%2Fbaloise%2Fopen-source&amp;format=png&amp;ecc=H)
 
-[available @ Github](https://github.com/baloise/open-source) - licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+[available @ Github](https://github.com/baloise/open-source) - licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
