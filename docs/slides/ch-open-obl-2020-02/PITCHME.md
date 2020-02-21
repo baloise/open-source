@@ -7,7 +7,7 @@
 
 @snap[east text-center]
 ### slides
-![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgitpitch.com%2Fbaloise%2Fopen-source%2Fmaster%3Fp%3Ddocs%2Fslides%2Fch-open-obl&size=250x250&ecc=L)
+![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgitpitch.com%2Fbaloise%2Fopen-source%2Fmaster%3Fp%3Ddocs%2Fslides%2Fch-open-obl-2020-02&size=250x250&ecc=L)
 @snapend
 
 @snap[south text-center]
