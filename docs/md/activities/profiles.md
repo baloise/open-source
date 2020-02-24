@@ -31,6 +31,9 @@ Ermöglicht das einfache Auffinden von Unternehmen aus der Schweiz und dem nahen
 ## [Travis CI](https://travis-ci.org/baloise/)
 Test and Deploy with Confidence. Easily sync your GitHub projects with Travis CI.
 
+## [ZEIT Now](https://zeit.co/baopso/)
+Optimal workflow for frontend teams. All-in-one: Static and JAMstack deployment, Serverless Functions, and Global CDN.
+
 # Marketplaces
 
 ## [Atlassian](https://marketplace.atlassian.com/vendors/1211530/baloise-group)
