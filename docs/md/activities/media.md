@@ -26,6 +26,8 @@
 
 #### `de` 18.10.2019 - [DINAcon](https://dinacon.ch/sessions/2019/open-source-software-in-der-versicherungswelt/): ["Open-Source (Software) in der Versicherung(swelt)](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-extern), _Markus Tiede_ 
 
+#### `en` 10.19.2019 - [Red Hat Forum 2019 Switzerland](https://events.redhat.com/profile/form/index.cfm?PKformID=0x59699abcd): "Enable Open Source Culture - Best Practices @Baloise Group, _@MarkusTiede_
+
 #### `en` 03.09.2019 - [Digitaltag Schweiz](https://www.digitaltag.swiss): ["(Wissens)-Allmende 2.0"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-commons), _Markus Tiede_ 
 
 #### `en` 23.11.2018 - [CH-Open](https://www.ch-open.ch): ["Open Source @ Baloise"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-extern), _Markus Tiede_ 
