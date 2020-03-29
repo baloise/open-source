@@ -18,13 +18,15 @@
 
 ### events
 
-#### `de` 23.04.2020 - [CH Open Business Lunch](https://gitpitch.com/baloise/open-source/master?p=docs/slides/ch-open-obl-2020-04) > [Open Source @ Baloise Group](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro/)
-
 #### `de` 20.02.2020 - [CH Open Business Lunch](https://gitpitch.com/baloise/open-source/master?p=docs/slides/ch-open-obl-2020-02) > [The elephant in the Enterprise](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/archiv-obl-2020/)
 
 [![YouTube Video Link](https://img.youtube.com/vi/598LJQvPFIA/0.jpg)](https://www.youtube.com/watch?v=598LJQvPFIA)
 
 ### presentations
+
+#### `de` 18.03.2020 - [1. DevOps Meetup Basel](https://www.meetup.com/de-DE/DevOps-Basel/events/268108849/) > [GitOps@Baloise](https://www.slideshare.net/mobile/NikolasPhilips/gitopsbaloise-using-argo-cd-gitops-cli-helm-and-tekton?qid=eafdbba7-0fe4-41e7-98f2-07ee06dea7e9), _Nikolas Philips_
+
+[![YouTube Video Link](https://img.youtube.com/vi/ri5izFM-wpo/0.jpg)](https://www.youtube.com/watch?v=ri5izFM-wpo)
 
 #### `de` 18.10.2019 - [DINAcon](https://dinacon.ch/sessions/2019/open-source-software-in-der-versicherungswelt/): ["Open-Source (Software) in der Versicherung(swelt)](https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-short-extern), _Markus Tiede_ 
 
