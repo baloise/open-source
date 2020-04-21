@@ -13,7 +13,7 @@
 
 ![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png) ![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
 
-`Intr<open>eur` @ [Baloise CH](https://www.baloise.ch)
+`Intr]open[eur` @ [Baloise CH](https://www.baloise.ch)
 
 ---
 
@@ -25,7 +25,7 @@ our bread and butter + channel for ∞ innovation
 
 precondition for [(digital) sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#10_Voraussetzungen_der_digitalen_Nachhaltigkeit)
 
-[corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility)
+[corporate social responsibility](https://www.baloise.com/en/home/about-us/what-we-stand-for/sustainability/it-security.html)
 
 +++?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
 
@@ -96,11 +96,11 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 @title[Github]
 ## [github.com/baloise](https://github.com/baloise)
 
-@color[white](founded in **2013**)
+@color[white](founded in 2013)
 
-@color[white](70+ repos, 4 plugins with total ~47.000 installations on Eclipse and) [Atlassian marketplace](https://marketplace.atlassian.com/vendors/1211530/baloise-group)
+@color[white](80+ repos, 4 plugins with total ~47.000 installations on Eclipse and) [Atlassian marketplace](https://marketplace.atlassian.com/vendors/1211530/baloise-group)
 
-@color[white](85+ people) [from Baloise Group](https://github.com/orgs/baloise/people)
+@color[white](100+ people) [from Baloise Group](https://github.com/orgs/baloise/people)
 
 @color[white](10+ external contributors fom Germany, Austria, California, Memphis, Tokyo)
 
@@ -153,11 +153,11 @@ structure follows strategy
 
 +++
 
-### Open-Insurance Day - 02
+### Open-Insurance Day - 03
 
-21st of November in Basel
+end of Q3 in Vienna
 
-## [register for free](https://www.eventbrite.com/e/open-insurance-day-02-registration-71253502143)
+## [upcoming information](https://open-insurance.org/events/2020/open-insurance-day-03.html)
 
 ---
 # Thanks!
