@@ -105,7 +105,7 @@ a bit of ["guerrilla gardening"](https://en.wikipedia.org/wiki/Guerrilla_gardeni
 @color[white](10+ external contributors fom Germany, Austria, California, Memphis, Tokyo)
 
 [workshops, ](https://github.com/baloise/ws-angular_slides#inhalt)
-[talks](https://gitpod.io/#https://github.com/baloise/open-source/blob/master/docs/slides/intro-short-extern/PITCHME.md)
+[taaaaalks](https://gitpod.io/#https://github.com/baloise/open-source/blob/master/docs/slides/intro-short-extern/PITCHME.md)
 @color[white](, APIs, POCs, ...)
 
 +++
