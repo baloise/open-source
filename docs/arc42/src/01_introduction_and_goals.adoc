@@ -71,7 +71,7 @@ in alphabetical order by role / name
 |  
 | 
 
-| 
+| In future we will only succeed if “open-source” is our default way of thinking and acting. The majority of why we exist and what we provide as an insurer is meant to be a common good anyway: safety and reliability.
 | Adrian Honegger
 | https://www.baloise.com/en/home/about-us/who-we-are/organisation-management.html#id-44c10e77-57cf-47b0-b307-1eaf205adaf1[Head of Group Strategy & Digital Transformation] 
 | https://github.com/honeggera[🔗]
