@@ -41,7 +41,21 @@ For git you have to configure your .gitconfig like
 
 ### releasing
 #### [Github Releases](https://help.github.com/articles/creating-releases/)
+Create releases to bundle and deliver iterations of a project to users.
+
 #### [Maven Release Plugin](http://maven.apache.org/maven-release/maven-release-plugin/)
+A plugin to release a project with Maven, saving a lot of repetitive, manual work.
+
+#### [semantic-release](https://semantic-release.gitbook.io/semantic-release/)
+Fully automated version management and package publishing. Highlights:
+ - Determine the next semantic version number based on [commit messages](https://semantic-release.gitbook.io/semantic-release/#commit-message-format)
+ - Create Git tags and release notes
+ - Publish artifacts
+ - High extensibility through a large number of plugins, e.g.
+   - [Github plugin](https://github.com/semantic-release/github): Create Github releases and comment on PRs, Issues, etc.
+   - [Changelog plugin](https://github.com/semantic-release/changelog): Create a changelog file
+   - [Docker plugin](https://github.com/felixfbecker/semantic-release-docker): Publish to docker registry
+   - [Exec plugin](https://github.com/semantic-release/exec): Run custom scripts
 
 ### publishing
 
