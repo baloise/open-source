@@ -37,7 +37,7 @@ Upstream code contributions are also encouraged and are a natural extension of o
 
 Both are allowed and do not require a review. Simply ensure that
 
-* the project you are contributing to is not licensed under AGPL (see 5.1.6. "Network protective licenses" for reasons why)
+* the project you are contributing to is not licensed under AGPL (see <<section-agpl>> for reasons why)
 * you are using your Baloise identity (your-eMail-address@baloise.TLD) for the work related contribution
 * you are aware of the basic rules and principles of a <<section-dco>>: as it's often required to sign-off every commit.
 
