@@ -9,18 +9,8 @@
 #### Recommendation: use a local proxy (e.g. [this one](https://github.com/baloise/proxy#installation)) and chain this to your corporate proxy.
 #### Advantage: cross application, unified local proxy settings for in- and external traffic rules
 
-Simply configure within all applications your local "ProxyChain".
+Simply configure within all applications your local "ProxyChain". For e.g. git you have to configure your `git --global -l` .gitconfig like
 
-```properties
-# within: %userprofile%\.proxy\proxy.properties
-# e.g. for Baloise
-
-SimpleProxyChain.upstreamPort=3128
-SimpleProxyChain.noproxyHostsRegEx=.*((baloise|baloisenet|balgroupit).com|bvch.ch|baloise.ch|localhost|127.0.0.1)\\Z
-SimpleProxyChain.upstreamServer=webproxy
-```
-
-For git you have to configure your .gitconfig like
 ```
 [url "http://"]
 	insteadOf = git://
@@ -30,6 +20,19 @@ For git you have to configure your .gitconfig like
 [https]
         sslVerify = false
 	proxy = "http://localhost:8888"
+```
+
+e.g. by using the following commands
+
+```
+git config --global url."http://".insteadOf git://
+
+// ProxyProxy setting(s)
+git config --global http.sslVerify false
+git config --global http.proxy "http://localhost:8888"
+
+git config --global https.sslVerify false
+git config --global https.proxy "http://localhost:8888"
 ```
 
 ## [release engineering](https://en.wikipedia.org/wiki/Release_engineering)
