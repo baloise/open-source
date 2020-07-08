@@ -12,7 +12,7 @@ sorted alphabetically by name
 | [Baloise - Incubator](https://github.com/baloise-incubator) | [![logo](https://baloise.github.io/baloise-bootstrap/assets/img/baloise-group-logo-blue.svg)](https://github.com/baloise-incubator) | incubation |
 | [Open-Insurance](https://github.com/open-insurance) | [![logo](https://avatars2.githubusercontent.com/u/40058038?s=200&v=4)](https://open-insurance.org) | pre-proposal |
 | [Open-Prevo](https://github.com/open-prevo) | [![logo](https://rawgit.com/open-prevo/openprevo/master/doc/assets/img/logo.svg)](https://open-prevo.github.io) | archived → follow-up: [bvgmatch-server](https://github.com/stiftung-auffangeinrichtung-bvg/bvgmatch-server) |
-| [Smart Parking](https://github.com/bet-smart-parking) | [![logo](https://avatars1.githubusercontent.com/u/62103816?s=200&v=4)](https://github.com/bet-smart-parking) | incubation |
+| [Parcandi](https://github.com/bet-smart-parking) | [![logo](https://avatars1.githubusercontent.com/u/62103816?s=200&v=4)](https://parcandi.ch) | incubation |
 
 ## sponsored
 
