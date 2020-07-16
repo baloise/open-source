@@ -181,7 +181,11 @@ We should make sure building an index of signed CLAs on corporate level at here.
 
 ===== signing new ones
 
-As an individual you should avoid signing CLAs on your own. Please contact the <<section-design-os-team>> if you require a CLA for a contribution to a project or organization. We'll make sure to get an official one on coroporate level.
+As an individual you should avoid signing CLAs on your own within the corporate context. Please contact the <<section-design-os-team>> if you require a CLA for a contribution to a project or organization. We'll make sure to get an official one on coroporate level.
+
+Individual ones signed / discussed so far:
+
+ * https://github.com/baloise/open-source/issues/237[JetBrains CLA]
 
 [[section-sustainability]]
 === Digital Sustainability
