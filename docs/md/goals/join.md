@@ -11,7 +11,7 @@ of insurer already showing interest in open collaboration with public profiles
 # meet & greet
 
 ## bi-weekly OST
-Feel free to join our biweekly (once every two weeks) exchange round which is also the start into our [**O**pen **S**ource ~~Friday~~ **T**hursday (OST)](https://opensourcefriday.com).
+Feel free to join our biweekly (once every two weeks) exchange round from [13.00 - 14.00](https://time.is/de/Basel) which is also the start into our [**O**pen **S**ource ~~Friday~~ **T**hursday (OST)](https://opensourcefriday.com).
 
 ### agenda
 
@@ -21,11 +21,7 @@ Feel free to join our biweekly (once every two weeks) exchange round which is al
  - quick status round independent from issues
  - *optional*: small(er) demonstrations / presentations of projects
 
-### via Jitsi.org
-
-8x8 → https://meet.jit.si/baloise/open-source-community
-
-CH → https://meet.stiftung-mercator.ch/raum/baloise-open-source-community
+### via the Swiss CH Open BigBlueButton video conferencing server: https://bbb.ch-open.ch/b/mar-ttf-4g4
 
 ## [**O**pen **B**usiness **E**vent (OBE)](https://www.ch-open.ch/ch-open-business-events/)
 
