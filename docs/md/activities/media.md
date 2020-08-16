@@ -21,6 +21,8 @@
 
 #### `de` 14.08.2020 - [CH Open Business Lunch](https://gitpitch.com/baloise/open-source/master?p=docs/slides/ch-open-obl-2020-08) > [Darf der Staat eigene Software unter eine Open-Source-Lizenz stellen? inkl. Open Source Software bei der SwissCovid-App](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/darf-der-staat-eigene-software-unter-eine-open-source-lizenz-stellen/)
 
+[![YouTube Video Link](https://img.youtube.com/vi/7kEUn5g28Xw/0.jpg)](https://www.youtube.com/watch?v=7kEUn5g28Xw)
+
 #### `de` 20.02.2020 - [CH Open Business Lunch](https://gitpitch.com/baloise/open-source/master?p=docs/slides/ch-open-obl-2020-02) > [The elephant in the Enterprise](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/archiv-obl-2020/)
 
 [![YouTube Video Link](https://img.youtube.com/vi/598LJQvPFIA/0.jpg)](https://www.youtube.com/watch?v=598LJQvPFIA)
