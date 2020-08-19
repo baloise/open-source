@@ -194,7 +194,7 @@ structure follows strategy
 
 ---
 
-[![](https://upload.wikimedia.org/wikipedia/commons/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg)](https://www.baloise.com/de/home/ueber-uns/wofuer-wir-stehen/nachhaltigkeit.html)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg/500px-Icon_Digitale_Nachhaltigkeit_Farbig.svg.png)](https://www.baloise.com/de/home/ueber-uns/wofuer-wir-stehen/nachhaltigkeit.html)
 
 +++
 
