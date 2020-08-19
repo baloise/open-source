@@ -79,9 +79,7 @@ CC BY-SA 4.0
 ## @color[#FFFFFF](distribute)
 @snapend
 
----
-
-![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
+---?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain&color=grey
 @title[Github]
