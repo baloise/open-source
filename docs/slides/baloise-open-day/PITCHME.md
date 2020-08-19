@@ -173,22 +173,6 @@ share costs + gain trust, reputation and visibility
 
 thanks to [Zalando Open Source](https://opensource.zalando.com)!
 
----
-# how
-time over money
-
-trust over control
-
-intrinsic over extrinsic
-
-+++
-# container
-daily [work / duty](https://baloise.github.io/open-source/docs/arc42/#section-os-contribute)
-
-goldcards
-
-[open-source friday](https://opensourcefriday.com)
-
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
 
