@@ -171,7 +171,7 @@ share costs + gain trust, reputation and visibility
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_03_Open_Government_Data_Farbig.svg.png)
 
-thanks to [Zalando Open Source](https://opensource.zalando.com)!
+thanks to all [CXOs](https://baloise.github.io/open-source/docs/arc42/#_stakeholders)!
 
 ---?color=#36363f
 # @color[white](4. Strategic Invest)
@@ -193,6 +193,14 @@ structure follows strategy
 2019: [Open Insurance Platform by APOSIN](https://aposin.org)
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg&size=contain&color=grey
+
+---
+
+![](https://www.ch-open.ch/wp-content/uploads/2019/04/logo_chopen_web_big-1.png)
+
+@snap[south]
+@size[1.25em]([Open Business Lunch](https://baloise.github.io/open-source/docs/md/activities/media.html#events))
+@snapend
 
 ---
 
