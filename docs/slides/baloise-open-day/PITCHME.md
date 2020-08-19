@@ -192,7 +192,9 @@ structure follows strategy
 
 2019: [Open Insurance Platform by APOSIN](https://aposin.org)
 
----?image=https://upload.wikimedia.org/wikipedia/commons/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg&size=contain&color=grey
+---
+
+[![](https://upload.wikimedia.org/wikipedia/commons/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg)](https://www.baloise.com/de/home/ueber-uns/wofuer-wir-stehen/nachhaltigkeit.html)
 
 +++
 
