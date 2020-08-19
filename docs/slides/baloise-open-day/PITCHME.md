@@ -194,7 +194,7 @@ structure follows strategy
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg&size=contain&color=grey
 
----
++++
 
 ![](https://www.ch-open.ch/wp-content/uploads/2019/04/logo_chopen_web_big-1.png)
 
