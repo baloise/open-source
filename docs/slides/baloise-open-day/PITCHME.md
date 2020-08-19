@@ -79,6 +79,20 @@ CC BY-SA 4.0
 ## @color[#FFFFFF](distribute)
 @snapend
 
+---
+
+@title[Open Source]
+
+@snap[north fragment]
+Geteilte Freud' ist doppelte Freud'
+@snapend
+
+@snap[south fragment]
+Geteiltes Leid ist halbes Leid: Kosten
+@snapend
+
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/800px-121212_2_OpenSwissKnife.png)](https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png)
+
 ---?image=https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png&size=contain
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/e/eb/Ei-sc-github.svg&size=contain&color=grey
@@ -93,20 +107,6 @@ CC BY-SA 4.0
 @snap[south fragment]
 ### @color[#FFFFFF](Workshops, Talks, Communities)
 @snapend
-
----
-
-@title[Open Source]
-
-@snap[north fragment]
-Geteilte Freud' ist doppelte Freud'
-@snapend
-
-@snap[south fragment]
-Geteiltes Leid ist halbes Leid: Kosten
-@snapend
-
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/121212_2_OpenSwissKnife.png/800px-121212_2_OpenSwissKnife.png)](https://commons.wikimedia.org/wiki/File:121212_2_OpenSwissKnife.png)
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg&size=contain&color=grey
 
