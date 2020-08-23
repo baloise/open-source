@@ -232,6 +232,8 @@ structure follows strategy
 
 @title[open-source @ Baloise]
 
+## mach mit!
+
 https://baloise.github.io/open-source/
 
 Komm zum [Open-Source Bi-Weekly](https://baloise.github.io/open-source/docs/md/goals/join.html#bi-weekly-ost)!
