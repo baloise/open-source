@@ -1,5 +1,21 @@
 ---
 
+@title[Guten Morgen]
+
+@snap[west fragment]
+## Guten
+@snapend
+
+@snap[east fragment]
+## Morgen
+@snapend
+
+![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgitpitch.com%2Fbaloise%2Fopen-source%2Fmaster%3Fp%3Ddocs%2Fslides%2Fbaloise-open-day&ecc=L)
+
+[all available @ Github](https://github.com/baloise/open-source) - licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
 @title[Open-Source : (Wissens)-Allmende 2.0]
 
 ### Open-Source : @color[lightgrey](Wissens)-Allmende 2.0
@@ -216,6 +232,6 @@ structure follows strategy
 ## Dank
 @snapend
 
-![](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fbaloise.github.io%2Fopen-source%2Fdocs%2Fmd%2Factivities%2Fprojects.html&qzone=0&margin=0&size=300x300&ecc=L)
+![](https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fbaloise.github.io%2Fopen-source&qzone=0&margin=0&size=300x300&ecc=L)
 
-[available @ Github](https://github.com/baloise/open-source) - licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+[all available @ Github](https://github.com/baloise/open-source) - licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
