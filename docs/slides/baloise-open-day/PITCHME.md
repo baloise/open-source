@@ -234,7 +234,7 @@ structure follows strategy
 
 ## mach mit!
 
-https://baloise.github.io/open-source/
+https://baloise.github.io/open-source/ - IKT & EY
 
 Komm zum [Open-Source Bi-Weekly](https://baloise.github.io/open-source/docs/md/goals/join.html#bi-weekly-ost)!
 
