@@ -149,13 +149,13 @@ RHEL(inux), OpenShift, Ansible, JBoss, ...
 
 (bug) reports, fixes, documentation, examples
 
-intrinsic learn of [best practices](https://opensource.guide) for open collaboration
+intrinsic learn of [best practices](https://opensource.guide) for [open collaboration](https://opensourcefriday.com)
 
 +++
 
 # [sponsoring](https://baloise.github.io/open-source/docs/md/activities/projects.html#sponsored)
 
-Craig Dunn - (Jerakia &) [firewalld](https://forge.puppet.com/puppet/firewalld): 10k+ downloads - used [@CERN](https://gitlab.cern.ch/linuxsupport/rpms/locmap/puppet-firewalld/-/blob/master/src/code/README.md#author)
+Craig Dunn - (Jerakia &) [firewalld](https://forge.puppet.com/puppet/firewalld): 15k+ downloads - used [@CERN](https://gitlab.cern.ch/linuxsupport/rpms/locmap/puppet-firewalld/-/blob/master/src/code/README.md#author)
 
 [Die Mobiliar & Baloise Group & Puzzle ITC GmbH](http://www.liima.org/#partner) - [Liima](https://github.com/liimaorg): middleware automation
 
@@ -180,6 +180,12 @@ share costs + gain trust, reputation and visibility
 @snap[south fragment]
 ### @color[#FFFFFF](Workshops, Talks, Communities)
 @snapend
+
++++
+
+[![logo](https://avatars1.githubusercontent.com/u/62103816?s=200&v=4)](https://parcandi.ch)
+
+https://parcandi.ch
 
 +++
 
@@ -210,7 +216,9 @@ structure follows strategy
 
 ---
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg/500px-Icon_Digitale_Nachhaltigkeit_Farbig.svg.png)](https://www.baloise.com/de/home/ueber-uns/wofuer-wir-stehen/nachhaltigkeit.html)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg/500px-Icon_Digitale_Nachhaltigkeit_Farbig.svg.png)](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit)
+
+[Nachhaltigkeitsnetzwerk @ Baloise](https://www.baloise.com/de/home/ueber-uns/wofuer-wir-stehen/nachhaltigkeit.html)
 
 +++
 
