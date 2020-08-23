@@ -225,7 +225,7 @@ structure follows strategy
 ![](https://www.ch-open.ch/wp-content/uploads/2019/04/logo_chopen_web_big-1.png)
 
 @snap[south]
-@size[1.25em]([Open Business Lunch](https://baloise.github.io/open-source/docs/md/activities/media.html#events))
+@size[1.25em]([Open Business Lunch](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/))
 @snapend
 
 ---
