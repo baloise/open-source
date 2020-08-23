@@ -7,7 +7,7 @@
 @snapend
 
 @snap[east fragment]
-## me!
+## mich!
 @snapend
 
 ![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgitpitch.com%2Fbaloise%2Fopen-source%2Fmaster%3Fp%3Ddocs%2Fslides%2Fbaloise-open-day&ecc=L)
