@@ -21,7 +21,7 @@ Feel free to join our biweekly (once every two weeks) exchange round from [13.00
  - quick status round independent from issues
  - *optional*: small(er) demonstrations / presentations of projects
 
-### via the Swiss CH Open BigBlueButton video conferencing server: [https://bbb.ch-open.ch/b/mar-ttf-4g4](https://bbb.ch-open.ch/b/mar-ttf-4g4)
+### via the Swiss CH Open BigBlueButton video conferencing server: https://bbb.ch-open.ch/b/mar-ttf-4g4
 
 ## [**O**pen **B**usiness **E**vent (OBE)](https://www.ch-open.ch/ch-open-business-events/)
 
