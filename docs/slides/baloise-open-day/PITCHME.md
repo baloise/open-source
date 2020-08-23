@@ -3,16 +3,16 @@
 @title[Guten Morgen]
 
 @snap[west fragment]
-## Guten
+## Scan ...
 @snapend
 
 @snap[east fragment]
-## Morgen
+## ... me!
 @snapend
 
 ![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fgitpitch.com%2Fbaloise%2Fopen-source%2Fmaster%3Fp%3Ddocs%2Fslides%2Fbaloise-open-day&ecc=L)
 
-[all available @ Github](https://github.com/baloise/open-source) - licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+[slides available @ Github](https://github.com/baloise/open-source) - licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
