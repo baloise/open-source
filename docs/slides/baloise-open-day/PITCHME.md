@@ -222,10 +222,10 @@ structure follows strategy
 
 +++
 
-![](https://www.ch-open.ch/wp-content/uploads/2019/04/logo_chopen_web_big-1.png)
+[![](https://www.ch-open.ch/wp-content/uploads/2019/04/logo_chopen_web_big-1.png)](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/)
 
 @snap[south]
-@size[1.25em]([Open Business Lunch](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/))
+@size[1.25em](Open Business Lunch)
 @snapend
 
 ---
