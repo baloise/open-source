@@ -39,6 +39,9 @@ This is currently a manual process so it might take a moment to get a response.
 ### [repository-template-java](https://github.com/baloise/repository-template-java)
 ![](https://img.shields.io/github/license/baloise/repository-template-java.svg)
 
+### [repository-template-nosrc](https://github.com/baloise/repository-template-nosrc)
+![](https://img.shields.io/github/license/baloise/repository-template-nosrc.svg)
+
 ## define topics
 
 Add topics to categorize your repository and make it more discoverable.
