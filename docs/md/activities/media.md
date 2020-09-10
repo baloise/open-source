@@ -30,6 +30,8 @@
 
 #### `de` 24.08.2020 - [Baloise Open Day](https://www.openfriday.org): ["Open-Source : (Wissens)-Allmende 2.0"](https://gitpitch.com/baloise/open-source/master?p=docs/slides/baloise-open-day), _@MarkusTiede_ & _@culmat_
 
+[![YouTube Video Link](https://img.youtube.com/vi/DHLPCMKK38I/0.jpg)](https://www.youtube.com/watch?v=DHLPCMKK38I)
+
 #### `de` 18.03.2020 - [1. DevOps Meetup Basel](https://www.meetup.com/de-DE/DevOps-Basel/events/268108849/) > [GitOps@Baloise](https://www.slideshare.net/mobile/NikolasPhilips/gitopsbaloise-using-argo-cd-gitops-cli-helm-and-tekton?qid=eafdbba7-0fe4-41e7-98f2-07ee06dea7e9), _Nikolas Philips_
 
 [![YouTube Video Link](https://img.youtube.com/vi/ri5izFM-wpo/0.jpg)](https://www.youtube.com/watch?v=ri5izFM-wpo)
