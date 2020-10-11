@@ -12,7 +12,7 @@ Average<sup>1</sup> [SBOM ratio](https://en.wikipedia.org/wiki/Software_bill_of_
 
 
 Sources:
-1. [_2020_, SONATYPE "State of the Software Supply Chain Report": Chapter 5 - page 31f](https://en.sonatype.com/2020ssc)
+1. [_2020_, SONATYPE "State of the Software Supply Chain Report": Chapter 5 - page 31f](https://www.sonatype.com/2020ssc)
 
 ## safe money: devide by N
 
