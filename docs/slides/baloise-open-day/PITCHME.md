@@ -1,6 +1,12 @@
 ---
 
-@title[Guten Morgen]
+"Listen" to Wikipedia
+
+http://listen.hatnote.com
+
+---
+
+@title[Willkommen]
 
 @snap[west fragment]
 ## Scan
