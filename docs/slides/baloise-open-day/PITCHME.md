@@ -142,7 +142,7 @@ RHEL(inux), OpenShift, Ansible, JBoss, ...
 
 [BOM](https://en.wikipedia.org/wiki/Bill_of_materials) for Guidewire SDKs: ~750/1200 = 60+%
 
-[average ratio](https://oss-studie.ch): ~**80%** open source components
+[average ratio](https://oss-studie.ch): ~**90%** open source components
 
 ---?color=#b8b8b8
 # 2. Contribute
