@@ -25,7 +25,7 @@ http://listen.hatnote.com
 @title[Open-Source : (Wissens)-Allmende 2.0]
 
 ### Open-Source : @color[lightgrey](Wissens)-Allmende 2.0
-#### at [Baloise](https://www.baloise.com) - [@MarkusTiede](https://twitter.com/MarkusTiede) & [@MatthiasCullmann](https://twitter.com/culmat)
+#### at [Baloise](https://www.baloise.com) - [@MarkusTiede](https://twitter.com/MarkusTiede)
 
 ---
 
@@ -78,7 +78,7 @@ CC BY-SA 4.0
 @snapend
 
 @snap[south fragment]
-80%+ basiert auf Open-Source-Software
+90%+ basiert auf Open-Source-Software
 @snapend
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IBM_1402_card_reader-punch_CHM.agr.jpg/500px-IBM_1402_card_reader-punch_CHM.agr.jpg)](https://commons.wikimedia.org/wiki/File:IBM_1402_card_reader-punch_CHM.agr.jpg)
