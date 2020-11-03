@@ -19,7 +19,7 @@
 @title[Open-Source : (Wissens)-Allmende 2.0]
 
 ### Open-Source : @color[lightgrey](Wissens)-Allmende 2.0
-#### at [Baloise](https://www.baloise.com) - [@MarkusTiede](https://twitter.com/MarkusTiede)
+#### [@Baloise_Group](https://twitter.com/Baloise_Group) - [@MarkusTiede](https://twitter.com/MarkusTiede)
 
 ---
 
