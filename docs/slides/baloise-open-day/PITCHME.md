@@ -1,11 +1,5 @@
 ---
 
-"Listen" to Wikipedia
-
-http://listen.hatnote.com
-
----
-
 @title[Willkommen]
 
 @snap[west fragment]
@@ -156,6 +150,12 @@ RHEL(inux), OpenShift, Ansible, JBoss, ...
 (bug) reports, fixes, documentation, examples
 
 intrinsic learn of [best practices](https://opensource.guide) for [open collaboration](https://opensourcefriday.com)
+
++++
+
+"Listen" to Wikipedia
+
+http://listen.hatnote.com
 
 +++
 
