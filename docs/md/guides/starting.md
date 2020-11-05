@@ -26,7 +26,7 @@ as it can in some circumstance be "important" (e.g. when re-licensing content) b
 if a project e.g. might get handed over to other legal entities at some point in the future, it's important (as in some cases impossible if not given) being able to differentiate who's participated within a project.
 
 ### send your user-name to Group.CH_Open-Source@baloise.ch and wait for an invitation link
-This is currently a manual process so it might take a moment to get a response.
+this is currently a manual process so it might take a moment to get a response.
 
 ### think about adjusting your [notification settings](https://github.com/settings/notifications)
 
@@ -44,6 +44,6 @@ This is currently a manual process so it might take a moment to get a response.
 
 ## define topics
 
-Add topics to categorize your repository and make it more discoverable.
+add topics to categorize your repository and make it more discoverable.
 
 ![](topics.png)
