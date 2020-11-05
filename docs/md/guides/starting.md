@@ -6,7 +6,9 @@ All major activies are currently happening here on Github.
 
 ## be(come) a [member](https://github.com/orgs/baloise/people)
 
-### sign up for a free [account at Github](https://github.com/signup/)
+### [sign up](https://github.com/signup/) for a free account at Github
+Hint: if you already have an account please use it.
+
 Hint: you do not necessarily have to use and thereby easily publish your work-eMail for this registration step.
 
 But: to correctly differentiate the individual and corporate intellectual property please make sure to
