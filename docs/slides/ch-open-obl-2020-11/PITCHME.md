@@ -31,6 +31,8 @@
 ---
 
 ## 11 - 12.30 Uhr
-Begrüssung, Referat "Das Innovationspotential von OpenStreetMap und Wikidata / Wikipedia / Wikimedia Commons" durch Prof. Stefan Keller + Q&A
+Begrüssung, Referat "Das Innovationspotential von OpenStreetMap und Wikidata / Wikipedia / Wikimedia Commons" durch Prof. Stefan Keller
+
+Q&A: Sammlung im Chat
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/b/b0/Openstreetmap_logo.svg&size=contain
