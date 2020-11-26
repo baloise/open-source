@@ -20,6 +20,8 @@
 
 #### `de` 26.11.2020 - [CH Open Business Lunch](https://gitpitch.com/baloise/open-source/master?p=docs/slides/ch-open-obl-2020-11) > [Das Innovationspotential von OpenStreetMap und Wikidata / Wikipedia / Wikimedia Commons](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/das-innovationspotential-von-openstreetmap-und-wikidata-wikipedia-wikimedia-commons/)
 
+[![YouTube Video Link](https://img.youtube.com/vi/hkRBAK8VFkI/0.jpg)](https://www.youtube.com/watch?v=hkRBAK8VFkI)
+
 #### `de` 14.08.2020 - [CH Open Business Lunch](https://gitpitch.com/baloise/open-source/master?p=docs/slides/ch-open-obl-2020-08) > [Darf der Staat eigene Software unter eine Open-Source-Lizenz stellen? inkl. Open Source Software bei der SwissCovid-App](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/darf-der-staat-eigene-software-unter-eine-open-source-lizenz-stellen/)
 
 [![YouTube Video Link](https://img.youtube.com/vi/7kEUn5g28Xw/0.jpg)](https://www.youtube.com/watch?v=7kEUn5g28Xw)
