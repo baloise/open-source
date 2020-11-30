@@ -31,7 +31,7 @@ The company behind Node package manager, the npm Registry, and npm CLI. We offer
 ## [OSS Directory](https://www.ossdirectory.com/oss-firmen/single/ossfirm/baloise-group)
 Ermöglicht das einfache Auffinden von Unternehmen aus der Schweiz und dem nahen Ausland, die professionellen Support für bestimmte Open Source Software erbringen.
 
-## [Travis CI](https://travis-ci.org/baloise/)
+## [Travis CI](https://travis-ci.com/baloise/)
 Test and Deploy with Confidence. Easily sync your GitHub projects with Travis CI.
 
 ## [ZEIT Now](https://zeit.co/baloise)
