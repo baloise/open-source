@@ -31,4 +31,4 @@ The [relevance](http://opensourcesurvey.org/2017/#overview) of Open-Source (soft
 |4.| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Icon_DINA_Schwerpunkte_Parldigi_04_Open_Access_Farbig.svg/200px-Icon_DINA_Schwerpunkte_Parldigi_04_Open_Access_Farbig.svg.png) | [strategy](docs/md/guides/strategy.md) |
 
 ----
-[![Build Status](https://travis-ci.org/baloise/open-source.svg?branch=master)](https://travis-ci.org/baloise/open-source)
+[![Build Status](https://travis-com.org/baloise/open-source.svg?branch=master)](https://travis-ci.com/baloise/open-source)
