@@ -6,6 +6,8 @@
 
 ### articles
 
+#### `de` 05.12.2020 - "Freigabe von Open Source Software in der Schweiz", _Matthias Stürmer_ - [Swiss IT Magazine](https://www.itmagazine.ch/artikel/seite/73575/4/.html)
+
 #### `fr` 12.03.2020 - "API : la tech qui bouscule l'assurance", _Adrian Honegger_ - [L'Argus de l'assurance](https://www.argusdelassurance.com/tech/api-la-tech-qui-bouscule-l-assurance.161681)
 
 #### `de` 28.08.2018 - "Pension dashboard", _Thomas Schöb_ - [Baloise C-Level Insights](https://www.baloise.com/en/home/news-stories/news/stories-and-background-reports/2018/c-level-insights-pension-dashboard.html)
