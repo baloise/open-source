@@ -20,6 +20,8 @@
 
 ### events
 
+#### `de` 14.01.2021 - [CH Open Business Lunch](https://gitpitch.com/baloise/open-source/master?p=docs/slides/ch-open-obl-2021-01) > [Moderne Datenarchitekturen mit Open Source](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/moderne-datenarchitektur-mit-open-source/)
+
 #### `de` 26.11.2020 - [CH Open Business Lunch](https://gitpitch.com/baloise/open-source/master?p=docs/slides/ch-open-obl-2020-11) > [Das Innovationspotential von OpenStreetMap und Wikidata / Wikipedia / Wikimedia Commons](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/das-innovationspotential-von-openstreetmap-und-wikidata-wikipedia-wikimedia-commons/)
 
 [![YouTube Video Link](https://img.youtube.com/vi/hkRBAK8VFkI/0.jpg)](https://www.youtube.com/watch?v=hkRBAK8VFkI)
