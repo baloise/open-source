@@ -17,7 +17,7 @@
 
 @snap[west text-center]
 ### CH Open
-![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fwww.ch-open.ch%2Fch-open-business-events%2Fch-open-business-lunch%2Fdas-innovationspotential-von-openstreetmap-und-wikidata-wikipedia-wikimedia-commons%2F&size=250x250&ecc=L)
+![](http://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fwww.ch-open.ch&size=250x250&ecc=L)
 @snapend
 
 ---
