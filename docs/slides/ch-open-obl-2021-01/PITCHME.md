@@ -25,12 +25,12 @@
 ![](https://www.ch-open.ch/wp-content/uploads/2019/04/logo_chopen_web_big-1.png)
 
 @snap[south]
-### [Open Business Lunch*](https://gitlab.com/ch-open/obe/-/boards)
+### 1st [Open Business Lunch](https://gitlab.com/ch-open/obe/-/boards) in 2021 🍀
 @snapend
 
 ---
 
-## 11 - 12.30 Uhr
+## 11 - 12 Uhr
 Begrüssung, Referat "Moderne Datenarchitektur mit Open Source" durch [Stefan Müller](https://it-novum.com/unternehmen/team/stefan-mueller-director-big-data-analytics/)
 
 Q&A: Sammlung im Chat
