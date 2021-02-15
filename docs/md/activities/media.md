@@ -6,6 +6,8 @@
 
 ### articles
 
+#### `de` 02.2021 - "Open-Source-Projekte Leuchttürme", _Matthias Stürmer_ - [computerworld.ch](https://www.digitale-nachhaltigkeit.unibe.ch/unibe/portal/fak_naturwis/a_dept_math/c_iinfamath/abt_digital/content/e273593/e484785/e1045980/Computerworld_2-21_GB_Open_CH_Open-Source-Projekte_ger.pdf)
+
 #### `de` 05.12.2020 - "Freigabe von Open Source Software in der Schweiz", _Matthias Stürmer_ - [Swiss IT Magazine](https://www.itmagazine.ch/artikel/seite/73575/0/.html)
 
 #### `fr` 12.03.2020 - "API : la tech qui bouscule l'assurance", _Adrian Honegger_ - [L'Argus de l'assurance](https://www.argusdelassurance.com/tech/api-la-tech-qui-bouscule-l-assurance.161681)
