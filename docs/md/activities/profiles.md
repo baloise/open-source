@@ -28,9 +28,6 @@ Offers developers the fastest way to publish and consume commercial and OSS soft
 ## [npm Registry](https://www.npmjs.com/org/baloise)
 The company behind Node package manager, the npm Registry, and npm CLI. We offer those to the community for free, but our day job is building and selling useful tools for developers like you.
 
-## [OSS Directory](https://www.ossdirectory.com/oss-firmen/single/ossfirm/baloise-group)
-Ermöglicht das einfache Auffinden von Unternehmen aus der Schweiz und dem nahen Ausland, die professionellen Support für bestimmte Open Source Software erbringen.
-
 ## [Travis CI](https://travis-ci.com/baloise/)
 Test and Deploy with Confidence. Easily sync your GitHub projects with Travis CI.
 
