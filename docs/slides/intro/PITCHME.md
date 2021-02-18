@@ -179,7 +179,7 @@ RHEL(inux), OpenShift, Ansible, JBoss, ...
 
 [BOM](https://en.wikipedia.org/wiki/Bill_of_materials) for Guidewire SDKs: ~750/1200 = 60+%
 
-[average ratio](https://oss-studie.ch): ~**80%** open source components
+[average ratio](https://oss-studie.ch): ~**90%** open source components
 
 +++
 
@@ -199,7 +199,7 @@ security, (patent) and license violation(s)
 
 +++
 
-## 1 → 2: fix the problem (80%) not a symptom (20%)
+## 1 → 2: fix the problem (90%) not a symptom (10%)
 
 ![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
 
@@ -236,7 +236,7 @@ unclear handling of intellectual property
 
 +++
 
-## 2 → 3: be(come) a part of the 80%
+## 2 → 3: be(come) a part of the 90%
 
 ![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
 
@@ -295,7 +295,7 @@ ask for forgiveness (not for permission)
 
 +++
 
-## 3 → 4: active shaping of the 80%-landscape
+## 3 → 4: active shaping of the 90%-landscape
 
 ![](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
 
