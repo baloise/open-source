@@ -15,14 +15,14 @@ Vorgabe: Fliesstext von rund 1000 Zeichen
 
 Versicherung und Bank – hier sind wir doppelt gut. Im Herz und im Fokus haben wir unsere Kunden. Wir möchten zuhören, sie abholen, überraschen und verblüffen, und wir versuchen hier immer besser zu werden – auch einfacher und intuitiver, um neue Bedürfnisse zu erfüllen.
 
-Das alles hat 150 Jahre Tradition. Gemeinsam sind wir 7'300 Mitarbeitende - Menschen in der Schweiz, Belgien, Luxemburg und Deutschland, die unsere Unternehmung mit Persönlichkeit füllen. Wir lieben und leben ein – wie wir finden - besonderes Miteinander, geprägt von Offenheit, Wertschätzung, Augenhöhe und Neugier. Wir lernen aus Feedback, Fehlern und voneinander und wissen: Wir sind auf dem Weg, aber noch nicht da, wo wir hinwollen.
+Das alles hat 150 Jahre Tradition. Gemeinsam sind wir 7'300 Mitarbeitende - Menschen in der Schweiz, Belgien, Luxemburg und Deutschland, die unsere Unternehmung mit Persönlichkeit füllen. Wir lieben und leben ein – wie wir finden - besonderes Miteinander, geprägt von **Offenheit**, Wertschätzung, Augenhöhe und Neugier. Wir lernen aus Feedback, Fehlern und voneinander und wissen: Wir sind auf dem Weg, aber noch nicht da, wo wir hinwollen.
 
 Sei du selbst, aber bleib nicht wie du bist! Wir suchen Mitarbeitende, die eigenverantwortlich agieren, die mutig sind, die gern etwas verändern wollen, unsere Zukunft mitgestalten und sich proaktiv mit ihren Ideen einbringen.
 
-Check unsere #worklifebaloise und schau dir deine Möglichkeiten bei uns an: baloise.com/jobs
+Check unsere #worklifebaloise und schau dir deine Möglichkeiten bei uns an: baloise.github.com/jobs
 
-## Unterstützte Open Source Produkte
-Vorgabe: Aufzählung von 5 bis 10 Open Source Produkten/Projekten, zu denen die Firma kompetent Dienstleistungen anbietet.
+## Unterstützte Open Source Projekten
+Vorgabe: Aufzählung von 5 bis 10 Open Source Projekten, zu denen die Firma kompetent Dienstleistungen anbietet.
 
  -
  -
@@ -45,7 +45,7 @@ Vorgabe: 5 bis 10 Referenzen mit Angabe des Kunden und fakultativ des Projektinh
  -
  -
 
- -
+ - https://github.com/baloise/open-source/
  - 
 
 
