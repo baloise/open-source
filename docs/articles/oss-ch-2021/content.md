@@ -63,4 +63,4 @@ Group.CH_Open-Source@baloise.ch
 ## Firmenlogo
 Vorgabe: Vektorisiertes CMYK-Logo oder hochaufgelöstes Bitmap-Bild als PNG, JPG, JPEG oder SVG. Nicht grösser als 15MB
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Baloise_Holding_Logo.svg/2000px-Baloise_Holding_Logo.svg.png)
+![](https://rawgit.com/baloise/baloise-bootstrap/gh-pages/assets/img/baloise-group-logo-blue.svg)
