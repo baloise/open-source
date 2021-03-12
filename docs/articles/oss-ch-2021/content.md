@@ -30,6 +30,7 @@ Vorgabe: Aufzählung von 5 bis 10 Open Source Projekten, zu denen die Firma komp
  - UI-Libary is an technology agnostic, open source project for styling awesome web applications : https://baloise-ui-library.now.sh
  - Create digital signatures in Confluence (by Atlassian) : https://github.com/baloise/digital-signature
  - Perform operations on GitOps managed infrastructure repositories : https://baloise.github.io/gitopscli/
+ - Test automation framework based on JUnit and Selenium : https://github.com/baloise/test-automation-framework
 
 ## Schlüsselreferenz (fakultativ)
 Vorgabe: die wichtigste Referenz beschrieben in 400 bis 450 Zeichen
