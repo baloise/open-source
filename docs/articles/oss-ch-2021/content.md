@@ -15,7 +15,7 @@ Vorgabe: Fliesstext von rund 1000 Zeichen
 
 Versicherung und Bank – hier sind wir doppelt gut. Im Herz und im Fokus haben wir unsere Kunden. Wir möchten zuhören, sie abholen, überraschen und verblüffen, und wir versuchen hier immer besser zu werden – auch einfacher und intuitiver, um neue Bedürfnisse zu erfüllen.
 
-Das alles hat 150 Jahre Tradition. Gemeinsam sind wir 7'300 Mitarbeitende - Menschen in der Schweiz, Belgien, Luxemburg und Deutschland, die unsere Unternehmung mit Persönlichkeit füllen. Wir lieben und leben ein – wie wir finden - besonderes Miteinander, geprägt von **Offenheit**, Wertschätzung, Augenhöhe und Neugier. Wir lernen aus Feedback, Fehlern und voneinander und wissen: Wir sind auf dem Weg, aber noch nicht da, wo wir hinwollen.
+Das alles hat mehr als 150 Jahre Tradition. Gemeinsam sind wir 7'300 Mitarbeitende - Menschen in der Schweiz, Belgien, Luxemburg und Deutschland, die unsere Unternehmung mit Persönlichkeit füllen. Wir lieben und leben ein – wie wir finden - besonderes Miteinander, geprägt von **Offenheit**, Wertschätzung, Augenhöhe und Neugier. Wir lernen aus Feedback, Fehlern und voneinander und wissen: Wir sind auf dem Weg, aber noch nicht da, wo wir hinwollen.
 
 Sei du selbst, aber bleib nicht wie du bist! Wir suchen Mitarbeitende, die eigenverantwortlich agieren, die mutig sind, die gern etwas verändern wollen, unsere Zukunft mitgestalten und sich proaktiv mit ihren Ideen einbringen.
 
