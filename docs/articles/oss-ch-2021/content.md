@@ -21,7 +21,7 @@ Sei du selbst, aber bleib nicht wie du bist! Wir suchen Mitarbeitende, die eigen
 
 Check unsere #worklifebaloise und schau dir deine Möglichkeiten bei uns an: baloise.github.com/jobs
 
-## Unterstützte Open Source Projekten
+## Unterstützte Open Source Projekte
 Vorgabe: Aufzählung von 5 bis 10 Open Source Projekten, zu denen die Firma kompetent Dienstleistungen anbietet.
 
  - Automation Middleware - Continuous Integration and Deployment for your Applications : https://www.liima.org
