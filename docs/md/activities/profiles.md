@@ -28,6 +28,9 @@ Offers developers the fastest way to publish and consume commercial and OSS soft
 ## [npm Registry](https://www.npmjs.com/org/baloise)
 The company behind Node package manager, the npm Registry, and npm CLI. We offer those to the community for free, but our day job is building and selling useful tools for developers like you.
 
+## [sonarcloud](https://sonarcloud.io/organizations/baloise)
+Eliminate bugs and vulnerabilities. Champion quality code in your projects.
+
 ## [Travis CI](https://travis-ci.com/baloise/)
 Test and Deploy with Confidence. Easily sync your GitHub projects with Travis CI.
 
