@@ -39,7 +39,7 @@ Vorgabe: die wichtigste Referenz beschrieben in 400 bis 450 Zeichen
 Vorgabe: 5 bis 10 Referenzen mit Angabe des Kunden und fakultativ des Projektinhalts, der verwendeten Open Source Produkte etc.
 
  - Pilotprojekt der Basler Versicherungen AG rund um das Thema Parkplatz-Sharing : https://github.com/parcandi
- - https://github.com/baloise/open-source/
+ - Das Projekt "Open-Source" @ Baloise : https://github.com/baloise/open-source/
  - 
  - 
  - 
