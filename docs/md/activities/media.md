@@ -6,7 +6,7 @@
 
 ### articles
 
-#### `de` 02.2021 - "Open-Source-Projekte Leuchttürme", _Matthias Stürmer_ - [computerworld.ch](https://www.digitale-nachhaltigkeit.unibe.ch/unibe/portal/fak_naturwis/a_dept_math/c_iinfamath/abt_digital/content/e273593/e484785/e1045980/Computerworld_2-21_GB_Open_CH_Open-Source-Projekte_ger.pdf)
+#### `de` 02.2021 - "Open-Source-Projekte Leuchttürme", _Matthias Stürmer_ - [computerworld.ch](https://www.digitale-nachhaltigkeit.unibe.ch/unibe/portal/fak_naturwis/a_dept_math/c_iinfamath/abt_digital/content/e273593/e484785/e1045980/Computerworld_2-21_GB_Open_CH_Open-Source-Projekte_ger.pdf)
 
 #### `de` 05.12.2020 - "Freigabe von Open Source Software in der Schweiz", _Matthias Stürmer_ - [Swiss IT Magazine](https://www.itmagazine.ch/artikel/seite/73575/0/.html)
 
@@ -21,6 +21,10 @@
 #### `de` 22.02.2017 - "Schweizer 'Automatisierungs-Middleware' wird Open Source" - [inside-it.ch](https://www.inside-it.ch/articles/46717)
 
 ### events
+
+#### `en` 19.03.2021 - [CXO Talk > Chief Technology Officer: Digital Transformation at a Major Insurance Company](https://www.cxotalk.com/episode/chief-technology-officer-digital-transformation-major-insurance-company) on open-source @ Baloise
+
+[![YouTube Video Link](https://img.youtube.com/vi/wocQg_GP2zk/0.jpg)](https://youtu.be/wocQg_GP2zk?t=2163)
 
 #### `de` 14.01.2021 - [CH Open Business Lunch](https://gitpitch.com/baloise/open-source/master?p=docs/slides/ch-open-obl-2021-01) > [Moderne Datenarchitekturen mit Open Source](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/moderne-datenarchitektur-mit-open-source/)
 
