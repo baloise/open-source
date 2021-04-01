@@ -22,6 +22,10 @@
 
 ### events
 
+#### `en` 25.03.2021 - CH Open Business Lunch > [Dev Environments as Code with Gitpod](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/dev-environments-as-code-with-gitpod/)
+
+[![YouTube Video Link](https://img.youtube.com/vi/Z5vlYHBYlno/0.jpg)](https://www.youtube.com/watch?v=Z5vlYHBYlno)
+
 #### `en` 19.03.2021 - [CXO Talk > Chief Technology Officer: Digital Transformation at a Major Insurance Company](https://www.cxotalk.com/episode/chief-technology-officer-digital-transformation-major-insurance-company) on open-source @ Baloise
 
 [![YouTube Video Link](https://img.youtube.com/vi/wocQg_GP2zk/0.jpg)](https://youtu.be/wocQg_GP2zk?t=2163)
