@@ -21,10 +21,12 @@ Feel free to join our biweekly (once every two weeks) exchange round from [13.00
  - quick status round independent from issues
  - *optional*: small(er) demonstrations / presentations of projects
 
-### via the Swiss CH Open BigBlueButton video conferencing server: [https://bbb.ch-open.ch/b/mar-ttf-4g4](https://bbb.ch-open.ch/b/mar-ttf-4g4)
+### via Microsof Team: [Click here to join!](https://teams.microsoft.com/l/meetup-join/19%3a97b075d440634538b13d6f9784a75f5b%40thread.tacv2/1617708418828?context=%7b%22Tid%22%3a%22eb3c68b9-0935-4046-8550-8bcaa4167e2e%22%2c%22Oid%22%3a%226bb14dc5-643a-4af2-9f02-2468d4915c15%22%7d)
 
 ## [**O**pen **B**usiness **E**vent (OBE)](https://www.ch-open.ch/ch-open-business-events/)
 
 We regularly [host OBEs at ours](http://baloise.github.io/about) - please [feel free to register](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/) and join!
 
-## [Open X-Day](https://www.openfriday.org)
+## [Open X Day](https://github.com/baloise/open-x-day)
+
+On this day we take time to do things we don’t have time for otherwise. The Open X Day is dedicated to all activities that are important for the organisation and the people. Everyone can bring in topics / ideas / improvements and implement them on Open X Day.
