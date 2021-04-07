@@ -1,7 +1,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg/240px-Icon_Digitale_Nachhaltigkeit_Farbig.svg.png)
 
 # open-source
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/baloise/open-source)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io#https://github.com/baloise/open-source)
 
 Open-Source is part of the [Open Innovation movement](docs/md/activities/media.md#articles) @ [Baloise](https://www.baloise.com) and aligns very well with the prerequisites for [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit).
 
