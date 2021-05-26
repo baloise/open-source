@@ -19,40 +19,35 @@ Das alles hat mehr als 150 Jahre Tradition. Gemeinsam sind wir 7'300 Mitarbeiten
 
 Sei du selbst, aber bleib nicht wie du bist! Wir suchen Mitarbeitende, die eigenverantwortlich agieren, die mutig sind, die gern etwas verändern wollen, unsere Zukunft mitgestalten und sich proaktiv mit ihren Ideen einbringen.
 
-Check unsere #worklifebaloise und schau dir deine Möglichkeiten bei uns an: baloise.github.com/jobs
+Check unsere #worklifebaloise und schau dir deine Möglichkeiten bei uns an: baloise.github.io/jobs
 
 ## Unterstützte Open Source Projekte
 Vorgabe: Aufzählung von 5 bis 10 Open Source Projekten, zu denen die Firma kompetent Dienstleistungen anbietet.
 
- - Automation Middleware - Continuous Integration and Deployment for your Applications : https://www.liima.org
- - A versatile Data Lookup System : https://jerakia.io
- - Configure firewalld zones, services, and rich rules and direct config : https://forge.puppet.com/modules/puppet/firewalld
- - UI-Libary is an technology agnostic, open source project for styling awesome web applications : https://baloise-ui-library.now.sh
+ - UI-Library is an technology agnostic, open source project for styling awesome web applications : https://baloise-design-system.vercel.app
  - Create digital signatures in Confluence (by Atlassian) : https://github.com/baloise/digital-signature
  - Perform operations on GitOps managed infrastructure repositories : https://baloise.github.io/gitopscli/
  - Test automation framework based on JUnit and Selenium : https://github.com/baloise/test-automation-framework
-
+ - Automation Middleware - Continuous Integration and Deployment for your Applications : https://www.liima.org
+ - A versatile Data Lookup System : http://jerakia.io
+ - Configure firewalld zones, services, and rich rules and direct config : https://forge.puppet.com/modules/puppet/firewalld
+ 
 ## Schlüsselreferenz (fakultativ)
 Vorgabe: die wichtigste Referenz beschrieben in 400 bis 450 Zeichen
 
 ## Referenzen
 Vorgabe: 5 bis 10 Referenzen mit Angabe des Kunden und fakultativ des Projektinhalts, der verwendeten Open Source Produkte etc.
 
- - Pilotprojekt der Basler Versicherungen AG rund um das Thema Parkplatz-Sharing : https://github.com/parcandi
  - Das Projekt "Open-Source" @ Baloise : https://github.com/baloise/open-source/
- - 
- - 
- - 
- - 
- - 
-
+ - Pilotprojekt der Basler Versicherungen AG rund um das Thema Parkplatz-Sharing : https://github.com/parcandi
+ 
 ## Kontaktangaben
 Vorgabe: Kontaktperson, Funktion, Firmenadresse, Telefon, Website, Email
 
 ```
 Markus Tiede
 
-Bâloise Holding AG
+Baloise Group
 Aeschengraben 21
 CH-4001 Basel
 
