@@ -16,13 +16,20 @@ Sei du selbst, aber bleib nicht wie du bist! Wir suchen Mitarbeitende, die eigen
 Check unsere #worklifebaloise und schau dir deine Möglichkeiten bei uns an: https://baloise.github.io/jobs
 
 ## unterstützte Projekte
- - UI-Library is a technology agnostic, open source project for styling awesome web applications: https://baloise-design-system.vercel.app
- - Create digital signatures in Confluence (by Atlassian): https://github.com/baloise/digital-signature
- - Perform operations on GitOps managed infrastructure repositories: https://baloise.github.io/gitopscli/
- - Test automation framework based on JUnit and Selenium: https://github.com/baloise/test-automation-framework
- - Automation Middleware - Continuous Integration and Deployment for your Applications: https://www.liima.org
- - A versatile Data Lookup System: http://jerakia.io
- - Configure firewalld zones, services, and rich rules and direct config: https://forge.puppet.com/modules/puppet/firewalld
+ - UI-Library is a technology agnostic, open source project for styling awesome web applications
+   - https://baloise-design-system.vercel.app
+ - Create digital signatures in Confluence (by Atlassian)
+   - https://github.com/baloise/digital-signature
+ - Perform operations on GitOps managed infrastructure repositories
+   - https://baloise.github.io/gitopscli/
+ - Test automation framework based on JUnit and Selenium
+   - https://github.com/baloise/test-automation-framework
+ - Automation Middleware - Continuous Integration and Deployment for your Applications
+   - https://www.liima.org
+ - A versatile Data Lookup System
+   - http://jerakia.io
+ - Configure firewalld zones, services, and rich rules and direct config
+   - https://forge.puppet.com/modules/puppet/firewalld
  
 ## Referenzen
  - "Open-Source" @ Baloise: https://github.com/baloise/open-source/
