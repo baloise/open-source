@@ -24,19 +24,19 @@ Check unsere #worklifebaloise und schau dir deine Möglichkeiten bei uns an: htt
 ## unterstützte Projekte
 Vorgabe: Aufzählung von 5 bis 10 Open Source Projekten, zu denen die Firma kompetent Dienstleistungen anbietet.
 
- - UI-Library is a technology agnostic, open source project for styling awesome web applications : https://baloise-design-system.vercel.app
- - Create digital signatures in Confluence (by Atlassian) : https://github.com/baloise/digital-signature
- - Perform operations on GitOps managed infrastructure repositories : https://baloise.github.io/gitopscli/
- - Test automation framework based on JUnit and Selenium : https://github.com/baloise/test-automation-framework
- - Automation Middleware - Continuous Integration and Deployment for your Applications : https://www.liima.org
- - A versatile Data Lookup System : http://jerakia.io
- - Configure firewalld zones, services, and rich rules and direct config : https://forge.puppet.com/modules/puppet/firewalld
+ - UI-Library is a technology agnostic, open source project for styling awesome web applications: https://baloise-design-system.vercel.app
+ - Create digital signatures in Confluence (by Atlassian): https://github.com/baloise/digital-signature
+ - Perform operations on GitOps managed infrastructure repositories: https://baloise.github.io/gitopscli/
+ - Test automation framework based on JUnit and Selenium: https://github.com/baloise/test-automation-framework
+ - Automation Middleware - Continuous Integration and Deployment for your Applications: https://www.liima.org
+ - A versatile Data Lookup System: http://jerakia.io
+ - Configure firewalld zones, services, and rich rules and direct config: https://forge.puppet.com/modules/puppet/firewalld
  
 ## Referenzen
 Vorgabe: 5 bis 10 Referenzen mit Angabe des Kunden und fakultativ des Projektinhalts, der verwendeten Open Source Produkte etc.
 
- - "Open-Source" @ Baloise : https://github.com/baloise/open-source/
- - Pilotprojekt der Basler Versicherungen AG rund um das Thema Parkplatz-Sharing : https://github.com/parcandi
+ - "Open-Source" @ Baloise: https://github.com/baloise/open-source/
+ - Pilotprojekt der Basler Versicherungen AG rund um das Thema Parkplatz-Sharing: https://github.com/parcandi
  
 ## Kontaktangaben
 Vorgabe: Kontaktperson, Funktion, Firmenadresse, Telefon, Website, Email
