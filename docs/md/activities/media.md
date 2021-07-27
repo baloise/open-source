@@ -6,6 +6,8 @@
 
 ### articles
 
+#### `de` 06.2021 - ["Open Source Studie Schweiz 2021"](https://oss-studie.ch/assets/pdfs/OSS-Studie2021.pdf) Baloise Group - Organisationsportrait, [Markus Tiede et al.](https://github.com/baloise/open-source/pull/289) - [oss-studie.ch](https://oss-studie.ch)
+
 #### `de` 02.2021 - "Open-Source-Projekte Leuchttürme", _Matthias Stürmer_ - [computerworld.ch](https://www.digitale-nachhaltigkeit.unibe.ch/unibe/portal/fak_naturwis/a_dept_math/c_iinfamath/abt_digital/content/e273593/e484785/e1045980/Computerworld_2-21_GB_Open_CH_Open-Source-Projekte_ger.pdf)
 
 #### `de` 05.12.2020 - "Freigabe von Open Source Software in der Schweiz", _Matthias Stürmer_ - [Swiss IT Magazine](https://www.itmagazine.ch/artikel/seite/73575/0/.html)
@@ -21,6 +23,10 @@
 #### `de` 22.02.2017 - "Schweizer 'Automatisierungs-Middleware' wird Open Source" - [inside-it.ch](https://www.inside-it.ch/articles/46717)
 
 ### events
+
+#### `en` 10.06.2021 - CH Open Business Lunch > [Why we built an open source Identity & Access Management](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/why-we-built-an-open-source-identity-access-management/)
+
+[![YouTube Video Link](https://img.youtube.com/vi/Wly2jqbzP8Q/0.jpg)](https://www.youtube.com/watch?v=Wly2jqbzP8Q)
 
 #### `en` 25.03.2021 - CH Open Business Lunch > [Dev Environments as Code with Gitpod](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/dev-environments-as-code-with-gitpod/)
 
