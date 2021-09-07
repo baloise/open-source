@@ -6,7 +6,7 @@ When trying to do a step forward it's good to know where you're currently standi
 
 Hence we're trying to use a more [lightweight open source maturity adoption model](https://blogs.eclipse.org/post/mike-milinkovich/maturity-models-open-source-adoption) based on the [Eclipse Foundations view](https://de.slideshare.net/IanSkerrett/why-open-source-governance-matters) when classifying actions taken:
 
-![Maturity Model](https://github.com/baloise/open-source/raw/master/docs/arc42/images/os-maturity-model.png)
+![Maturity Model](../../arc42/images/os-maturity-model.png)
 
 As for [Baloise](https://www.baloise.com/en/home.html) we're currently just in the state of getting significant business attention.
 
