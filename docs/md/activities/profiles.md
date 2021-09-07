@@ -47,4 +47,3 @@ Optimal workflow for frontend teams. All-in-one: Static and JAMstack deployment,
 # Memberships
 
 ## [CH Open - Sponsorenmitglied](http://www.ossdirectory.com/ch-open-sponsoren/)
-## [Eclipse Foundation - Associate Member](https://www.eclipse.org/membership/showMember.php?member_id=1288)
