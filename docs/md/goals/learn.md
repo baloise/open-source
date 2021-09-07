@@ -26,8 +26,7 @@ sorted by date of publication
 
 Der Bitkom-Leitfaden zu Open-Source-Software 2.0 stellt sowohl die möglichen Einsatzszenarien und Geschäftsmodelle als auch den rechtlichen Hintergrund einschließlich der rechtlichen Risiken von Open-Source-Software umfassend dar. Ergänzt wird dies durch einen historischen Abriss über die Entstehung der Idee von Open-Source-Software, durch eine systematische Darstellung der verschiedenen Lizenzmodelle in diesem Bereich und durch eine Abwägung von Chancen und Risiken beim Einsatz von Open-Source-Software. […]
 
-### [ERNST & YOUNG, 2011: Open source software in business-critical environments](https://www.ossdirectory.com/oss-knowhow/details/kbarticle/open-source-software-im-geschaeftskritischen-einsatz)
- - PDF: [Deutsch](https://www.ossdirectory.com/knowhow/2011_OpenSourceSoftwareImGeschaeftskritischenEinsatz.pdf), [English](https://www.ossdirectory.com/fileadmin/user_upload/opensource.ch/knowhow/2011_OpenSourceSoftwareInBusiness-criticalEnvironments.pdf)
+### [ERNST & YOUNG, 2011: Open source software in business-critical environments](https://www.yumpu.com/en/document/read/28994462/open-source-software-in-business-critical-environments-univention)
 
 […] Open Source ist keine Glaubensfrage
 
