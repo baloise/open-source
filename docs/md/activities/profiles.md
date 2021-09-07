@@ -46,4 +46,4 @@ Optimal workflow for frontend teams. All-in-one: Static and JAMstack deployment,
 
 # Memberships
 
-## [CH Open - Sponsorenmitglied](http://www.ossdirectory.com/ch-open-sponsoren/)
+## [CH Open - Sponsorenmitglied](https://www.ch-open.ch/ueber-ch-open/mitgliedschaft/)
