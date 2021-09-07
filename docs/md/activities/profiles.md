@@ -31,7 +31,7 @@ The company behind Node package manager, the npm Registry, and npm CLI. We offer
 ## [sonarcloud](https://sonarcloud.io/organizations/baloise)
 Eliminate bugs and vulnerabilities. Champion quality code in your projects.
 
-## [Travis CI](https://travis-ci.com/baloise/)
+## [Travis CI](https://travis-ci.org/baloise/)
 Test and Deploy with Confidence. Easily sync your GitHub projects with Travis CI.
 
 ## [ZEIT Now](https://zeit.co/baloise)
