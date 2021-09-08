@@ -73,7 +73,7 @@ other CoPs
 
 ## now
 
-deny 🔜 use & contribute (compliant)
+deny 🔜 use (compliant) & contribute
 
 <hr>
 
