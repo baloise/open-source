@@ -63,7 +63,7 @@ https://www.ossdirectory.com
 
 ## container
 
-daily [work & duty](https://baloise.github.io/open-source/docs/arc42/#section-os-contribute)
+daily [work & duty](https://baloise.github.io/open-source/docs/arc42/#_code_contributions)
 
 [open-source thursday](https://github.com/baloise/open-source/blob/main/docs/md/goals/join.md#bi-weekly-ost)
 
