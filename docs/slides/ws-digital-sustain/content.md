@@ -1,6 +1,6 @@
 ![](https://baloise.github.io/baloise-bootstrap/assets/img/baloise-group-logo-blue.svg)
 
-We ♥ [open-source & digital sustainability](https://www.baloise.com/en/home/about-us/what-we-stand-for/sustainability/it-security.html)
+We ♥ [(digital) sustainability : open-source](https://www.baloise.com/en/home/about-us/what-we-stand-for/sustainability/it-security.html)
 
 -- 
 
@@ -22,7 +22,7 @@ board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinaco
 
 ❤️ **https://github.com/baloise/open-source** ⭐
 
-100++ people & repos
+100++ people & repos in > 8y+
 
 <hr>
 
@@ -90,3 +90,9 @@ https://ospo101.org
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Perpendicular-construction.svg/575px-Perpendicular-construction.svg.png)
 
 openess is perpendicular
+
+--
+
+## thanks!
+
+### q&a?
