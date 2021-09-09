@@ -6,7 +6,9 @@ We ♥ [open-source & digital sustainability](https://www.baloise.com/en/home/ab
 
 ![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png)
 
-[@MarkusTiede](https://twitter.com/MarkusTiede)
+[@MarkusTiede](https://twitter.com/MarkusTiede) - software engineer @ [Baloise Group](https://twitter.com/Baloise_Group)
+
+board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
 
 ![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
 
