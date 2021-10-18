@@ -21,7 +21,7 @@ Feel free to join our biweekly (every even calender week) exchange round from [1
  - quick status round independent from issues
  - *optional*: small(er) demonstrations / presentations of projects
 
-### via Microsof Team: [Click here to join!](https://teams.microsoft.com/l/meetup-join/19%3a97b075d440634538b13d6f9784a75f5b%40thread.tacv2/1617708418828?context=%7b%22Tid%22%3a%22eb3c68b9-0935-4046-8550-8bcaa4167e2e%22%2c%22Oid%22%3a%226bb14dc5-643a-4af2-9f02-2468d4915c15%22%7d)
+### via BBB: [Click here to join!](https://bbb.ch-open.ch/b/cop-nwl-cvw-8om)
 
 ## [**O**pen **B**usiness **E**vent (OBE)](https://www.ch-open.ch/ch-open-business-events/)
 
