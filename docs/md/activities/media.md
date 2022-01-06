@@ -24,6 +24,10 @@
 
 ### events
 
+#### `de` 29.10.2021 - DINAcon > [2021](https://dinacon.ch/dinacon-konferenz-2021/)
+
+[![YouTube Video Link](https://img.youtube.com/vi/NvIV9keIzc8/0.jpg)](https://www.youtube.com/watch?v=NvIV9keIzc8)
+
 #### `en` 10.06.2021 - CH Open Business Lunch > [Why we built an open source Identity & Access Management](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/why-we-built-an-open-source-identity-access-management/)
 
 [![YouTube Video Link](https://img.youtube.com/vi/Wly2jqbzP8Q/0.jpg)](https://www.youtube.com/watch?v=Wly2jqbzP8Q)
