@@ -28,6 +28,16 @@
 
 [![YouTube Video Link](https://img.youtube.com/vi/NvIV9keIzc8/0.jpg)](https://www.youtube.com/watch?v=NvIV9keIzc8)
 
+### `en` 30.09.2021 - CH Open Business Lunch > [Jakarta EE Virtual Tour: Jakarta EE 8 and Beyond](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/jakarta-ee-virtual-tour-jakarta-ee-8-and-beyond/)
+
+#### Get Involved in Jakarta EE with Tanja Obradovic
+
+[![YouTube Video Link](https://img.youtube.com/vi/CwdI-6pmFm4/0.jpg)](https://www.youtube.com/watch?v=CwdI-6pmFm4)
+
+#### A Closer Look at Jakarta EE 10 with Ivar Grimstad
+
+[![YouTube Video Link](https://img.youtube.com/vi/QEtHmv8D-tI/0.jpg)](https://www.youtube.com/watch?v=QEtHmv8D-tI)
+
 #### `en` 10.06.2021 - CH Open Business Lunch > [Why we built an open source Identity & Access Management](https://www.ch-open.ch/ch-open-business-events/ch-open-business-lunch/why-we-built-an-open-source-identity-access-management/)
 
 [![YouTube Video Link](https://img.youtube.com/vi/Wly2jqbzP8Q/0.jpg)](https://www.youtube.com/watch?v=Wly2jqbzP8Q)
