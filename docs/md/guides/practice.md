@@ -9,7 +9,7 @@
 #### Recommendation: use a local proxy (e.g. [this one](https://github.com/baloise/proxy#installation)) and chain this to your corporate proxy.
 #### Advantage: cross application, unified local proxy settings for in- and external traffic rules
 
-Simply configure within all applications your local "ProxyChain". For e.g. git you have to configure your `git --global -l` .gitconfig like
+Simply configure within all applications your local "ProxyChain". For e.g. git you have to configure your `git config --global -l` .gitconfig like
 
 ```
 [url "http://"]
