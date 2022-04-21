@@ -16,7 +16,7 @@ Feel free to join our biweekly (every even calender week) exchange round from [1
 ### agenda
 
  - welcome ex- and [internal participants](https://github.com/orgs/baloise/people)
- - discuss progress and changes in [CM Open-Source Board](https://github.com/orgs/baloise/projects/3)
+ - discuss progress and changes in [CoP](https://www.scaledagileframework.com/communities-of-practice/) Open-Source [Board](https://github.com/orgs/baloise/projects/3)
    - "start at the end" : finish review column issues
  - quick status round independent from issues
  - *optional*: small(er) demonstrations / presentations of projects
