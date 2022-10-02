@@ -4,7 +4,7 @@
 [[section-tldr]]
 === too long; didn't read (https://en.wikipedia.org/wiki/TL;DR[TL;DR])
 
-* At Baloise we foster the use, contribution and release of open source (software)!
+* At https://www.baloise.com/en/home/about-us/what-we-stand-for/sustainability/digital-sustainability-information-security.html#id-dd8f5751-9196-4555-9680-5f344c415d14[Baloise we foster the use, contribution and release of open source] (software)!
 * This guidelines cover all three stages
  - <<section-os-use>>,
  - <<section-os-contribute>> and
