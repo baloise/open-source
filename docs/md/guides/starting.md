@@ -28,7 +28,7 @@ as it can in some circumstance be "important" (e.g. when re-licensing content) b
 if a project e.g. might get handed over to other legal entities at some point in the future, it's important (as in some cases impossible if not given) being able to differentiate who's participated within a project.
 
 ### add your username to the organization configuration
-add your GitHub username to the *members* list [here](https://github.com/baloise/org/edit/master/config.yaml) and create a pull request for review. Please also state in the pull request that you've read and understood our [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/) and agree to act accordingly. After your request was approved an merged you'll receive an invitation link.
+add your GitHub username to the *members* list [here](https://github.com/baloise/org/edit/main/config.yaml) and create a pull request for review. Please also state in the pull request that you've read and understood our [Open Source Guidelines](https://baloise.github.io/open-source/docs/arc42/) and agree to act accordingly. After your request was approved an merged you'll receive an invitation link.
 
 ### think about adjusting your [notification settings](https://github.com/settings/notifications)
 
