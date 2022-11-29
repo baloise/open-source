@@ -1,21 +1,19 @@
-![](https://baloise.github.io/baloise-bootstrap/assets/img/baloise-group-logo-blue.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/8/88/Baloise_Logo_2022.svg)
 
-We ♥ [(digital) sustainability : open-source](https://www.baloise.com/en/home/about-us/what-we-stand-for/sustainability/it-security.html)
+We ♥ [(digital) sustainability : open-source](https://www.baloise.com/en/home/about-us/what-we-stand-for/sustainability/it.html)
 
 -- 
 
 ![](https://github.com/baloise/talk-cicd-javascript/raw/master/img/baloise-park.jpg)
 
 -- 
+![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
 
-![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png)
+[@MarkusTiede](https://twitter.com/MarkusTiede) (Du!?) 👨‍🏫 [Digital Sustainability Lab](https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/)
 
-[@MarkusTiede](https://twitter.com/MarkusTiede) - software engineer @ [Baloise Group](https://twitter.com/Baloise_Group)
+Board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
 
-board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
-
-![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
-
+![Friend of Eclipse](https://www.eclipse.org/community/newsletter/imagesmisc/frendsEclipse.png "Friend of Eclipse")
 ---
 
 ![](https://github.com/baloise/open-source/raw/main/docs/arc42/images/os-maturity-model.png)
@@ -26,7 +24,7 @@ board member @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinaco
 
 ❤️ **https://github.com/baloise/open-source** ⭐
 
-100++ people & repos in > 8y+
+100++ people & repos in > 9y+
 
 <hr>
 
@@ -81,7 +79,7 @@ impli(ɔ)it use
 
 [BOM](https://en.wikipedia.org/wiki/Bill_of_materials) for Guidewire SDKs: ~750/1200 = 60+%
 
-[average ratio](https://oss-studie.ch): ~**90%** open source components
+[average ratio](https://de.sonatype.com/state-of-the-software-supply-chain/): ~**80 - 90%** open source components
 
 ---
 # 2. Contribute
