@@ -11,7 +11,7 @@ of insurer already showing interest in open collaboration with public profiles
 # meet & greet
 
 ## bi-weekly OST
-Feel free to join our biweekly (every even calender week) exchange round from [13.00 - 14.00](https://time.is/de/Basel) which is also the start into our [**O**pen **S**ource ~~Friday~~ **T**hursday (OST)](https://opensourcefriday.com).
+Feel free to join our biweekly (every even calender week) exchange round from [15.00 - 16.00](https://time.is/de/Basel) which is also the start into our [**O**pen **S**ource **F**riday (OSF)](https://opensourcefriday.com).
 
 ### agenda
 
