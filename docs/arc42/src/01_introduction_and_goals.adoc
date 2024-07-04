@@ -47,7 +47,7 @@ in alphabetical order by role / name
 | Name 
 | Role 
 | image:https://unpkg.com/simple-icons@latest/icons/github.svg[Github,32] 
-| image:https://unpkg.com/simple-icons@latest/icons/twitter.svg[Twitter,32] 
+| image:https://unpkg.com/simple-icons@latest/icons/x.svg[X,32] 
 | image:https://unpkg.com/simple-icons@latest/icons/linkedin.svg[LinkedIn,32]
 
 | Learn and share are our first steps afterwards the sky is the limit. 
